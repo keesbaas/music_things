@@ -1,32 +1,35 @@
-name: Update Spotify Listening History
+name: Update Spotify Data
 
 on:
   schedule:
-    - cron: '0 * * * *'   # once per hour
-  workflow_dispatch:     # allows manual runs
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up MATLAB
-        uses: matlab-actions/setup-matlab@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Run Spotify update
-        run: matlab -batch "spotify_update"
+      - name: Install dependencies
+        run: pip install spotipy
+
+      - name: Run script
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python spotify_update.py
 
       - name: Commit updated JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add listening_history.json
-          git commit -m "Update Spotify listening history" || echo "No changes"
+          git add recently_played.json
+          git commit -m "Update recently played"
           git push
