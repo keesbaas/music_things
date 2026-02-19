@@ -2,6 +2,7 @@ import os
 import json
 import base64
 import requests
+from datetime import datetime
 
 # --- Environment variables ---
 CLIENT_ID = os.environ["SPOTIFY_CLIENT_ID"]
@@ -34,25 +35,43 @@ resp = requests.get(recent_url, headers=headers)
 resp.raise_for_status()
 recent_data = resp.json()["items"]
 
-# --- Step 3: Load existing history ---
+# --- Step 3: Set up paths and archive ---
 json_file = "recently_played.json"
+archive_folder = "archive"
+os.makedirs(archive_folder, exist_ok=True)
 
+# Determine current month for archive naming
+current_month = datetime.utcnow().strftime("%Y-%m")
+archive_file = os.path.join(archive_folder, f"recently_played_{current_month}.json")
+
+# --- Step 4: Load current JSON or archive for this month ---
 if os.path.isfile(json_file):
     with open(json_file, "r") as f:
-        old_data = json.load(f)
-    old_items = old_data.get("items", [])
+        old_items = json.load(f).get("items", [])
 else:
     old_items = []
 
-# --- Step 4: Append only new items ---
-# Use 'played_at' as unique identifier
+# --- Step 5: Append only new items ---
 old_timestamps = set(item["played_at"] for item in old_items)
 new_items = [item for item in recent_data if item["played_at"] not in old_timestamps]
-
 all_items = old_items + new_items
 
-# --- Step 5: Save updated JSON ---
+# --- Step 6: Save live JSON ---
 with open(json_file, "w") as f:
     json.dump({"items": all_items}, f, indent=4)
 
-print(f"Saved {len(new_items)} new plays, total {len(all_items)} tracks.")
+# --- Step 7: Save monthly archive ---
+if new_items:  # Only update archive if there are new tracks
+    if os.path.isfile(archive_file):
+        with open(archive_file, "r") as f:
+            archive_items = json.load(f).get("items", [])
+    else:
+        archive_items = []
+
+    # Append new items to the archive
+    archive_items += new_items
+
+    with open(archive_file, "w") as f:
+        json.dump({"items": archive_items}, f, indent=4)
+
+print(f"Saved {len(new_items)} new tracks. Total live JSON: {len(all_items)} tracks. Archive: {len(archive_items)} tracks.")
