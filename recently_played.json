@@ -4270,12 +4270,5 @@
                 "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
             }
         }
-    ],
-    "next": "https://api.spotify.com/v1/me/player/recently-played?before=1771346849577&limit=50",
-    "cursors": {
-        "after": "1771536654635",
-        "before": "1771346849577"
-    },
-    "limit": 50,
-    "href": "https://api.spotify.com/v1/me/player/recently-played?limit=50"
+    ]
 }
