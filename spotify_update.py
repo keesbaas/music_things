@@ -2,7 +2,7 @@ import os
 import json
 import base64
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 # --- Environment variables ---
 CLIENT_ID = os.environ["SPOTIFY_CLIENT_ID"]
@@ -41,10 +41,10 @@ archive_folder = "archive"
 os.makedirs(archive_folder, exist_ok=True)
 
 # Determine current month for archive naming
-current_month = datetime.utcnow().strftime("%Y-%m")
+current_month = datetime.now(timezone.utc).strftime("%Y-%m")
 archive_file = os.path.join(archive_folder, f"recently_played_{current_month}.json")
 
-# --- Step 4: Load current JSON or archive for this month ---
+# --- Step 4: Load current JSON ---
 if os.path.isfile(json_file):
     with open(json_file, "r") as f:
         old_items = json.load(f).get("items", [])
@@ -61,16 +61,12 @@ with open(json_file, "w") as f:
     json.dump({"items": all_items}, f, indent=4)
 
 # --- Step 7: Save monthly archive ---
-if new_items:  # Only update archive if there are new tracks
+archive_items = []  # Always defined to avoid NameError
+if new_items:
     if os.path.isfile(archive_file):
         with open(archive_file, "r") as f:
             archive_items = json.load(f).get("items", [])
-    else:
-        archive_items = []
-
-    # Append new items to the archive
     archive_items += new_items
-
     with open(archive_file, "w") as f:
         json.dump({"items": archive_items}, f, indent=4)
 
