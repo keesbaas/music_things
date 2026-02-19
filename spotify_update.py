@@ -1,29 +1,46 @@
 import os
 import json
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
+import base64
+import requests
 
-CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-REFRESH_TOKEN = os.environ.get("SPOTIFY_REFRESH_TOKEN")
-REDIRECT_URI = "http://localhost:8888/callback"
+CLIENT_ID = os.environ["SPOTIFY_CLIENT_ID"]
+CLIENT_SECRET = os.environ["SPOTIFY_CLIENT_SECRET"]
+REFRESH_TOKEN = os.environ["SPOTIFY_REFRESH_TOKEN"]
 
-scope = "user-read-recently-played"
+# Step 1: Get new access token
+auth_string = f"{CLIENT_ID}:{CLIENT_SECRET}"
+auth_bytes = auth_string.encode("utf-8")
+auth_base64 = base64.b64encode(auth_bytes).decode("utf-8")
 
-auth_manager = SpotifyOAuth(
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    redirect_uri=REDIRECT_URI,
-    scope=scope
-)
+token_url = "https://accounts.spotify.com/api/token"
 
-token_info = auth_manager.refresh_access_token(REFRESH_TOKEN)
+headers = {
+    "Authorization": f"Basic {auth_base64}",
+    "Content-Type": "application/x-www-form-urlencoded"
+}
 
-sp = spotipy.Spotify(auth=token_info['access_token'])
+data = {
+    "grant_type": "refresh_token",
+    "refresh_token": REFRESH_TOKEN
+}
 
-results = sp.current_user_recently_played(limit=50)
+response = requests.post(token_url, headers=headers, data=data)
+token_info = response.json()
 
+access_token = token_info["access_token"]
+
+# Step 2: Get recently played
+recent_url = "https://api.spotify.com/v1/me/player/recently-played?limit=50"
+
+headers = {
+    "Authorization": f"Bearer {access_token}"
+}
+
+response = requests.get(recent_url, headers=headers)
+recent_data = response.json()
+
+# Save JSON
 with open("recently_played.json", "w") as f:
-    json.dump(results, f, indent=4)
+    json.dump(recent_data, f, indent=4)
 
-print("Saved recently played tracks.")
+print("Spotify data updated.")
