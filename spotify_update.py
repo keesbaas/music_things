@@ -71,3 +71,48 @@ if new_items:
         json.dump({"items": archive_items}, f, indent=4)
 
 print(f"Saved {len(new_items)} new tracks. Total live JSON: {len(all_items)} tracks. Archive: {len(archive_items)} tracks.")
+
+
+# --- Step 8: Build 30-day artist summary ---
+
+from datetime import timedelta
+
+cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
+
+# Gather all archive + live data
+all_history = []
+
+# Load monthly archive files
+for file in os.listdir(archive_folder):
+    if file.endswith(".json"):
+        with open(os.path.join(archive_folder, file), "r") as f:
+            all_history.extend(json.load(f).get("items", []))
+
+# Also include current live JSON
+all_history.extend(all_items)
+
+artist_minutes = {}
+
+for item in all_history:
+    played_at = datetime.fromisoformat(item["played_at"].replace("Z", "+00:00"))
+
+    if played_at >= cutoff_date:
+        duration_ms = item["track"]["duration_ms"]
+        minutes = duration_ms / 60000
+
+        for artist in item["track"]["artists"]:
+            name = artist["name"]
+            artist_minutes[name] = artist_minutes.get(name, 0) + minutes
+
+# Convert to sorted list
+summary = sorted(
+    [{"artist": k, "minutes": round(v, 2)} for k, v in artist_minutes.items()],
+    key=lambda x: x["minutes"],
+    reverse=True
+)
+
+# Save summary
+with open("artist_30day_summary.json", "w") as f:
+    json.dump(summary, f, indent=4)
+
+print(f"Updated 30-day summary with {len(summary)} artists.")
