@@ -2,19 +2,19 @@ name: Update Spotify Data
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour
+    - cron: '0 * * * *'   # Runs at the top of every hour (UTC)
   workflow_dispatch:
 
 permissions:
   contents: write
-
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,19 +24,25 @@ jobs:
       - name: Install dependencies
         run: pip install spotipy
 
-      - name: Run script
+      - name: Run Spotify update script
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: python spotify_update.py
 
-
-
-      - name: Commit updated JSON
+      - name: Commit and push changes (if any)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add recently_played.json
-          git commit -m "Update recently played"
-          git push
+
+          # Add ALL json files (live file, archives, summaries)
+          git add *.json archive/*.json 2>/dev/null || true
+
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update Spotify data"
+            git push
+          fi
