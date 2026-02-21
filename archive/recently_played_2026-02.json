@@ -5881,6 +5881,88 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 86944,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
+                },
+                "href": "https://api.spotify.com/v1/tracks/732AeYEiilADr0WSHFV9of",
+                "id": "732AeYEiilADr0WSHFV9of",
+                "is_local": false,
+                "name": "Open up",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:732AeYEiilADr0WSHFV9of"
+            },
+            "played_at": "2026-02-21T02:51:17.725Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
         }
     ]
 }
