@@ -16225,6 +16225,744 @@
                 },
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140503,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3EVC8ePA9qFX75KW81vweJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3EVC8ePA9qFX75KW81vweJ",
+                "id": "3EVC8ePA9qFX75KW81vweJ",
+                "is_local": false,
+                "name": "Nonchalant",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3EVC8ePA9qFX75KW81vweJ"
+            },
+            "played_at": "2026-02-21T21:31:01.394Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140503,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3EVC8ePA9qFX75KW81vweJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3EVC8ePA9qFX75KW81vweJ",
+                "id": "3EVC8ePA9qFX75KW81vweJ",
+                "is_local": false,
+                "name": "Nonchalant",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3EVC8ePA9qFX75KW81vweJ"
+            },
+            "played_at": "2026-02-21T21:30:53.424Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175180,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1JAgL6bvqAHMfsk58JebGo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1JAgL6bvqAHMfsk58JebGo",
+                "id": "1JAgL6bvqAHMfsk58JebGo",
+                "is_local": false,
+                "name": "Faded",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:1JAgL6bvqAHMfsk58JebGo"
+            },
+            "played_at": "2026-02-21T21:17:28.495Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236838,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4pteEcX2rHSJXK8XSOtWP8",
+                "id": "4pteEcX2rHSJXK8XSOtWP8",
+                "is_local": false,
+                "name": "To Love",
+                "preview_url": null,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:4pteEcX2rHSJXK8XSOtWP8"
+            },
+            "played_at": "2026-02-21T21:14:32.972Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178569,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5vYjTN8d0DZ2SosbKSx5Nj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5vYjTN8d0DZ2SosbKSx5Nj",
+                "id": "5vYjTN8d0DZ2SosbKSx5Nj",
+                "is_local": false,
+                "name": "OMG",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:5vYjTN8d0DZ2SosbKSx5Nj"
+            },
+            "played_at": "2026-02-21T21:10:35.691Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162291,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3nPifd7hjanGVp02REhtlH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3nPifd7hjanGVp02REhtlH",
+                "id": "3nPifd7hjanGVp02REhtlH",
+                "is_local": false,
+                "name": "My Fun",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3nPifd7hjanGVp02REhtlH"
+            },
+            "played_at": "2026-02-21T21:07:36.398Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148021,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0PyN8JswfA5otVomw09V5Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0PyN8JswfA5otVomw09V5Q",
+                "id": "0PyN8JswfA5otVomw09V5Q",
+                "is_local": false,
+                "name": "Blackout Drunk",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:0PyN8JswfA5otVomw09V5Q"
+            },
+            "played_at": "2026-02-21T21:04:54.174Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3OI3sEFno74916StJr3X49"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3OI3sEFno74916StJr3X49",
+                    "id": "3OI3sEFno74916StJr3X49",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b7f7894e5dd41ce629eed36d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b7f7894e5dd41ce629eed36d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b7f7894e5dd41ce629eed36d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Concert In The Sky",
+                    "release_date": "2004-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 8,
+                    "type": "album",
+                    "uri": "spotify:album:3OI3sEFno74916StJr3X49"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 379040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6o3cZsrbL2A7leW1JlOlMK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6o3cZsrbL2A7leW1JlOlMK",
+                "id": "6o3cZsrbL2A7leW1JlOlMK",
+                "is_local": false,
+                "name": "My Favorite Mistake - Live concert in the sky",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:6o3cZsrbL2A7leW1JlOlMK"
+            },
+            "played_at": "2026-02-21T20:51:59.550Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3OI3sEFno74916StJr3X49"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3OI3sEFno74916StJr3X49",
+                    "id": "3OI3sEFno74916StJr3X49",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b7f7894e5dd41ce629eed36d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b7f7894e5dd41ce629eed36d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b7f7894e5dd41ce629eed36d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Concert In The Sky",
+                    "release_date": "2004-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 8,
+                    "type": "album",
+                    "uri": "spotify:album:3OI3sEFno74916StJr3X49"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 379040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6o3cZsrbL2A7leW1JlOlMK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6o3cZsrbL2A7leW1JlOlMK",
+                "id": "6o3cZsrbL2A7leW1JlOlMK",
+                "is_local": false,
+                "name": "My Favorite Mistake - Live concert in the sky",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:6o3cZsrbL2A7leW1JlOlMK"
+            },
+            "played_at": "2026-02-21T20:51:31.842Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
