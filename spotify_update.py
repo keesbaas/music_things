@@ -89,7 +89,7 @@ for file in os.listdir(archive_folder):
             all_history.extend(json.load(f).get("items", []))
 
 # Also include current live JSON
-all_history.extend(all_items)
+# all_history.extend(all_items)
 
 artist_minutes = {}
 
