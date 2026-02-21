@@ -15365,6 +15365,334 @@
                 "href": "https://api.spotify.com/v1/albums/0yY0fT7zibMEffhBJD9Nab",
                 "uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb",
+                    "id": "3w7TTi80vZApF0rQE5DMYb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow",
+                    "release_date": "1996-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3w7TTi80vZApF0rQE5DMYb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5LbAeKBfLr8VLISj4pHS7e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5LbAeKBfLr8VLISj4pHS7e",
+                "id": "5LbAeKBfLr8VLISj4pHS7e",
+                "is_local": false,
+                "name": "Superstar",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:5LbAeKBfLr8VLISj4pHS7e"
+            },
+            "played_at": "2026-02-21T19:30:17.682Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0zO8yNnw5GQgutcIyXfGBY",
+                            "id": "0zO8yNnw5GQgutcIyXfGBY",
+                            "name": "ELENA ROSE",
+                            "type": "artist",
+                            "uri": "spotify:artist:0zO8yNnw5GQgutcIyXfGBY"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2v3SbLqPYXwxzwbE6kRJio",
+                    "id": "2v3SbLqPYXwxzwbE6kRJio",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27352008f3b8d71a07ca9616e2a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0252008f3b8d71a07ca9616e2a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485152008f3b8d71a07ca9616e2a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Me Lo Merezco",
+                    "release_date": "2024-03-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2v3SbLqPYXwxzwbE6kRJio"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0zO8yNnw5GQgutcIyXfGBY",
+                        "id": "0zO8yNnw5GQgutcIyXfGBY",
+                        "name": "ELENA ROSE",
+                        "type": "artist",
+                        "uri": "spotify:artist:0zO8yNnw5GQgutcIyXfGBY"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 172124,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0vXKNdPKnNqojeHM696Q88",
+                "id": "0vXKNdPKnNqojeHM696Q88",
+                "is_local": false,
+                "name": "Me Lo Merezco",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0vXKNdPKnNqojeHM696Q88"
+            },
+            "played_at": "2026-02-21T19:25:12.485Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+                },
+                "href": "https://api.spotify.com/v1/albums/0yY0fT7zibMEffhBJD9Nab",
+                "uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0VRb8B2ls0GDEfmKiL8FWJ",
+                    "id": "0VRb8B2ls0GDEfmKiL8FWJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ab3c4257d46b6350454c2f4b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ab3c4257d46b6350454c2f4b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ab3c4257d46b6350454c2f4b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Soltera",
+                    "release_date": "2024-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0VRb8B2ls0GDEfmKiL8FWJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214642,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3OJDtCdYs8QJnui708tEU3",
+                "id": "3OJDtCdYs8QJnui708tEU3",
+                "is_local": false,
+                "name": "Soltera",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3OJDtCdYs8QJnui708tEU3"
+            },
+            "played_at": "2026-02-21T19:21:59.061Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+                },
+                "href": "https://api.spotify.com/v1/albums/0yY0fT7zibMEffhBJD9Nab",
+                "uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                            "id": "4q3ewBCX7sLwd24euuV69X",
+                            "name": "Bad Bunny",
+                            "type": "artist",
+                            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+                    "id": "5K79FLRUCSysQnVESLcTdb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+                            "width": 64
+                        }
+                    ],
+                    "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+                    "release_date": "2025-01-05",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                        "id": "4q3ewBCX7sLwd24euuV69X",
+                        "name": "Bad Bunny",
+                        "type": "artist",
+                        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237117,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sK8wGT43QFpWrvNQsrQya",
+                "id": "3sK8wGT43QFpWrvNQsrQya",
+                "is_local": false,
+                "name": "DtMF",
+                "preview_url": null,
+                "track_number": 16,
+                "type": "track",
+                "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+            },
+            "played_at": "2026-02-21T19:18:23.884Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+                },
+                "href": "https://api.spotify.com/v1/albums/0yY0fT7zibMEffhBJD9Nab",
+                "uri": "spotify:album:0yY0fT7zibMEffhBJD9Nab"
+            }
         }
     ]
 }
