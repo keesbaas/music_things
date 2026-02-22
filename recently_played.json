@@ -17455,6 +17455,1154 @@
                 "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EIV6Dny6HEGMy",
                 "uri": "spotify:playlist:37i9dQZF1EIV6Dny6HEGMy"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0LOoC1v3WNX2z8x1lUSmxL",
+                    "id": "0LOoC1v3WNX2z8x1lUSmxL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27319b22e6ea5532d91cebab114",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0219b22e6ea5532d91cebab114",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485119b22e6ea5532d91cebab114",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Yellow Eyes",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0LOoC1v3WNX2z8x1lUSmxL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6xYi9wfZb81gJIVQ95qPNl",
+                "id": "6xYi9wfZb81gJIVQ95qPNl",
+                "is_local": false,
+                "name": "Yellow Eyes",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6xYi9wfZb81gJIVQ95qPNl"
+            },
+            "played_at": "2026-02-22T22:12:10.889Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6pSGolbfux1G7aSSJP0OQU",
+                    "id": "6pSGolbfux1G7aSSJP0OQU",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27320c315c1e97aef2f65329771",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0220c315c1e97aef2f65329771",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485120c315c1e97aef2f65329771",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Chains of Love",
+                    "release_date": "2025-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6pSGolbfux1G7aSSJP0OQU"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170106,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3obedb2fnHaTE8bPlr9TNK",
+                "id": "3obedb2fnHaTE8bPlr9TNK",
+                "is_local": false,
+                "name": "Chains of Love",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3obedb2fnHaTE8bPlr9TNK"
+            },
+            "played_at": "2026-02-22T22:11:32.261Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 233266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/604MXU06ejFTIx0u4EOL5c"
+                },
+                "href": "https://api.spotify.com/v1/tracks/604MXU06ejFTIx0u4EOL5c",
+                "id": "604MXU06ejFTIx0u4EOL5c",
+                "is_local": false,
+                "name": "Goodbye Glitter",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:604MXU06ejFTIx0u4EOL5c"
+            },
+            "played_at": "2026-02-22T22:08:41.056Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199853,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0h6MM6YPHIOmXAtnuUh5R3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0h6MM6YPHIOmXAtnuUh5R3",
+                "id": "0h6MM6YPHIOmXAtnuUh5R3",
+                "is_local": false,
+                "name": "I Just Don't Know You Yet",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:0h6MM6YPHIOmXAtnuUh5R3"
+            },
+            "played_at": "2026-02-22T22:04:47.998Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203400,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/67Z2gg6JK0Ig6MK7ClBNVp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/67Z2gg6JK0Ig6MK7ClBNVp",
+                "id": "67Z2gg6JK0Ig6MK7ClBNVp",
+                "is_local": false,
+                "name": "Paracosm",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:67Z2gg6JK0Ig6MK7ClBNVp"
+            },
+            "played_at": "2026-02-22T22:01:28.436Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 102346,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5GzZRaa20fAIyHSQnoUB7v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5GzZRaa20fAIyHSQnoUB7v",
+                "id": "5GzZRaa20fAIyHSQnoUB7v",
+                "is_local": false,
+                "name": "Trojan Horse",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:5GzZRaa20fAIyHSQnoUB7v"
+            },
+            "played_at": "2026-02-22T21:58:05.018Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/29iIxkfKomRxXdkzVhQuAE",
+                "id": "29iIxkfKomRxXdkzVhQuAE",
+                "is_local": false,
+                "name": "Elevator",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:29iIxkfKomRxXdkzVhQuAE"
+            },
+            "played_at": "2026-02-22T21:56:22.200Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 174080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OglDBxXuTvlVBp7cYest8",
+                "id": "0OglDBxXuTvlVBp7cYest8",
+                "is_local": false,
+                "name": "No Furniture",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0OglDBxXuTvlVBp7cYest8"
+            },
+            "played_at": "2026-02-22T21:52:51.826Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 146293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VcPQ1E84Pg3cISGQqDntq",
+                "id": "5VcPQ1E84Pg3cISGQqDntq",
+                "is_local": false,
+                "name": "Prototype",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:5VcPQ1E84Pg3cISGQqDntq"
+            },
+            "played_at": "2026-02-22T21:49:57.901Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1rlgQ2MPauN9eeADEJtQvg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1rlgQ2MPauN9eeADEJtQvg",
+                "id": "1rlgQ2MPauN9eeADEJtQvg",
+                "is_local": false,
+                "name": "No Audience",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:1rlgQ2MPauN9eeADEJtQvg"
+            },
+            "played_at": "2026-02-22T21:47:31.575Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 200080,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tUwCO3XQ9DXdTeW9oQuce",
+                "id": "2tUwCO3XQ9DXdTeW9oQuce",
+                "is_local": false,
+                "name": "Simple Things",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2tUwCO3XQ9DXdTeW9oQuce"
+            },
+            "played_at": "2026-02-22T21:44:47.759Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191546,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/03R4JdLkkpGOoPcsc6YWEQ",
+                "id": "03R4JdLkkpGOoPcsc6YWEQ",
+                "is_local": false,
+                "name": "Helium",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:03R4JdLkkpGOoPcsc6YWEQ"
+            },
+            "played_at": "2026-02-22T21:41:23.285Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3sEs9Rcwe39dc9UEEzCfUg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3sEs9Rcwe39dc9UEEzCfUg",
+                "id": "3sEs9Rcwe39dc9UEEzCfUg",
+                "is_local": false,
+                "name": "Painting by Numbers",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3sEs9Rcwe39dc9UEEzCfUg"
+            },
+            "played_at": "2026-02-22T21:38:11.809Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                            "id": "4ellgkPyhbJetngXmHX5Zh",
+                            "name": "Absolutely",
+                            "type": "artist",
+                            "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                    "id": "6LifnNApEGwyRpFHMKNW25",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b27f3c27275dfed05f3cc23f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b27f3c27275dfed05f3cc23f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b27f3c27275dfed05f3cc23f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Paracosm",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 218880,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1OkdA1jxsQSSSvhWAlL71s",
+                "id": "1OkdA1jxsQSSSvhWAlL71s",
+                "is_local": false,
+                "name": "Nowhere to Hide",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1OkdA1jxsQSSSvhWAlL71s"
+            },
+            "played_at": "2026-02-22T21:34:30.795Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
         }
     ]
 }
