@@ -18603,6 +18603,1030 @@
                 "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
                 "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb",
+                    "id": "3w7TTi80vZApF0rQE5DMYb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow",
+                    "release_date": "1996-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3w7TTi80vZApF0rQE5DMYb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 266373,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1YjSpYNSBqHRP1OoMwIT8V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1YjSpYNSBqHRP1OoMwIT8V",
+                "id": "1YjSpYNSBqHRP1OoMwIT8V",
+                "is_local": false,
+                "name": "Redemption Day",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:1YjSpYNSBqHRP1OoMwIT8V"
+            },
+            "played_at": "2026-02-22T23:30:47.159Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 305306,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4LDB4dtzpmZt7qD1anQC2e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4LDB4dtzpmZt7qD1anQC2e",
+                "id": "4LDB4dtzpmZt7qD1anQC2e",
+                "is_local": false,
+                "name": "It's Only Love",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:4LDB4dtzpmZt7qD1anQC2e"
+            },
+            "played_at": "2026-02-22T23:26:20.199Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244963,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2XmHi7tiJKashUfWs3Ser3",
+                "id": "2XmHi7tiJKashUfWs3Ser3",
+                "is_local": false,
+                "name": "The First Cut Is The Deepest - Live from the Ryman/2019",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:2XmHi7tiJKashUfWs3Ser3"
+            },
+            "played_at": "2026-02-22T23:21:14.310Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/11ZOyF9bKgnusVD1rUapwv",
+                    "id": "11ZOyF9bKgnusVD1rUapwv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b2f0a2eb8c8442b1a147da51",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b2f0a2eb8c8442b1a147da51",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b2f0a2eb8c8442b1a147da51",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club (Deluxe Edition)",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 2,
+                "duration_ms": 260626,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2HzbZaA0LiN9Op5DGHTtlH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2HzbZaA0LiN9Op5DGHTtlH",
+                "id": "2HzbZaA0LiN9Op5DGHTtlH",
+                "is_local": false,
+                "name": "D'yer Mak'er",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2HzbZaA0LiN9Op5DGHTtlH"
+            },
+            "played_at": "2026-02-22T23:17:09.622Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7Kw98O8x1Urwo139vaO0fJ",
+                    "id": "7Kw98O8x1Urwo139vaO0fJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e74d8025eae719a3e769a690",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e74d8025eae719a3e769a690",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e74d8025eae719a3e769a690",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Very Best Of",
+                    "release_date": "2003-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:7Kw98O8x1Urwo139vaO0fJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240560,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2JhnvrOd4sJob4SZxUsfdF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2JhnvrOd4sJob4SZxUsfdF",
+                "id": "2JhnvrOd4sJob4SZxUsfdF",
+                "is_local": false,
+                "name": "Light In Your Eyes",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:2JhnvrOd4sJob4SZxUsfdF"
+            },
+            "played_at": "2026-02-22T23:12:47.912Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/57u5thaIOVk1Z7fmeiEWtv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/57u5thaIOVk1Z7fmeiEWtv",
+                    "id": "57u5thaIOVk1Z7fmeiEWtv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737ff9214819dc0ea9886a3a1a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027ff9214819dc0ea9886a3a1a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517ff9214819dc0ea9886a3a1a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Circles",
+                    "release_date": "2022-08-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:57u5thaIOVk1Z7fmeiEWtv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237860,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3OsguMn8eDcVxNAqQSFPTf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3OsguMn8eDcVxNAqQSFPTf",
+                "id": "3OsguMn8eDcVxNAqQSFPTf",
+                "is_local": false,
+                "name": "Circles",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3OsguMn8eDcVxNAqQSFPTf"
+            },
+            "played_at": "2026-02-22T23:08:46.534Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+                            "id": "00FQb4jTyendYWaN8pK0wa",
+                            "name": "Lana Del Rey",
+                            "type": "artist",
+                            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Li8k3H3b4BC7CLlq5jVfQ",
+                    "id": "5Li8k3H3b4BC7CLlq5jVfQ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025137f42d1cbb2a831d56ff3f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515137f42d1cbb2a831d56ff3f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "White Feather Hawk Tail Deer Hunter",
+                    "release_date": "2026-02-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5Li8k3H3b4BC7CLlq5jVfQ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+                        "id": "00FQb4jTyendYWaN8pK0wa",
+                        "name": "Lana Del Rey",
+                        "type": "artist",
+                        "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234049,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7IM4xK4W4n06UAV48ZXMup",
+                "id": "7IM4xK4W4n06UAV48ZXMup",
+                "is_local": false,
+                "name": "White Feather Hawk Tail Deer Hunter",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7IM4xK4W4n06UAV48ZXMup"
+            },
+            "played_at": "2026-02-22T23:03:01.583Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/05KFXGAWQkQv7f5lUGgtVD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/05KFXGAWQkQv7f5lUGgtVD",
+                            "id": "05KFXGAWQkQv7f5lUGgtVD",
+                            "name": "Pattie Gonia",
+                            "type": "artist",
+                            "uri": "spotify:artist:05KFXGAWQkQv7f5lUGgtVD"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+                            "id": "6Xb4ezwoAQC4516kI89nWz",
+                            "name": "Imogen Heap",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4pk4xXNYrYeJpf82VJJwLo",
+                            "id": "4pk4xXNYrYeJpf82VJJwLo",
+                            "name": "Boreta",
+                            "type": "artist",
+                            "uri": "spotify:artist:4pk4xXNYrYeJpf82VJJwLo"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2RDeu9FwauUY8b4zdccmuV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2RDeu9FwauUY8b4zdccmuV",
+                    "id": "2RDeu9FwauUY8b4zdccmuV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a7b7d1770494d0e522793934",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a7b7d1770494d0e522793934",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a7b7d1770494d0e522793934",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Have You Considered?",
+                    "release_date": "2026-02-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:2RDeu9FwauUY8b4zdccmuV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/05KFXGAWQkQv7f5lUGgtVD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/05KFXGAWQkQv7f5lUGgtVD",
+                        "id": "05KFXGAWQkQv7f5lUGgtVD",
+                        "name": "Pattie Gonia",
+                        "type": "artist",
+                        "uri": "spotify:artist:05KFXGAWQkQv7f5lUGgtVD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+                        "id": "6Xb4ezwoAQC4516kI89nWz",
+                        "name": "Imogen Heap",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4pk4xXNYrYeJpf82VJJwLo",
+                        "id": "4pk4xXNYrYeJpf82VJJwLo",
+                        "name": "Boreta",
+                        "type": "artist",
+                        "uri": "spotify:artist:4pk4xXNYrYeJpf82VJJwLo"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 260506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5HpJZ8oogq6EP1OsMD9W38"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5HpJZ8oogq6EP1OsMD9W38",
+                "id": "5HpJZ8oogq6EP1OsMD9W38",
+                "is_local": false,
+                "name": "Have You Considered?",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5HpJZ8oogq6EP1OsMD9W38"
+            },
+            "played_at": "2026-02-22T22:59:06.727Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3821UxzQ6O57K5396mmoce"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3821UxzQ6O57K5396mmoce",
+                            "id": "3821UxzQ6O57K5396mmoce",
+                            "name": "Klara Zangerl",
+                            "type": "artist",
+                            "uri": "spotify:artist:3821UxzQ6O57K5396mmoce"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6mIawBD2tpDbGPm1xlYMBY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6mIawBD2tpDbGPm1xlYMBY",
+                    "id": "6mIawBD2tpDbGPm1xlYMBY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf889be29cc48ac73bc567c8",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf889be29cc48ac73bc567c8",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf889be29cc48ac73bc567c8",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Heavy",
+                    "release_date": "2026-02-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6mIawBD2tpDbGPm1xlYMBY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3821UxzQ6O57K5396mmoce"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3821UxzQ6O57K5396mmoce",
+                        "id": "3821UxzQ6O57K5396mmoce",
+                        "name": "Klara Zangerl",
+                        "type": "artist",
+                        "uri": "spotify:artist:3821UxzQ6O57K5396mmoce"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 196500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/66tntGOE70tQCy45OTf3X0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/66tntGOE70tQCy45OTf3X0",
+                "id": "66tntGOE70tQCy45OTf3X0",
+                "is_local": false,
+                "name": "Heavy",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:66tntGOE70tQCy45OTf3X0"
+            },
+            "played_at": "2026-02-22T22:54:46.062Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1A8GyyKhK21Qg6dix9Mkax"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1A8GyyKhK21Qg6dix9Mkax",
+                            "id": "1A8GyyKhK21Qg6dix9Mkax",
+                            "name": "Miya Zawa",
+                            "type": "artist",
+                            "uri": "spotify:artist:1A8GyyKhK21Qg6dix9Mkax"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/73us1ESpn7e3HebPcziNHd"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/73us1ESpn7e3HebPcziNHd",
+                    "id": "73us1ESpn7e3HebPcziNHd",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d7805be3b7bdb24e0e69c38f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d7805be3b7bdb24e0e69c38f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d7805be3b7bdb24e0e69c38f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "8 Diary Entries",
+                    "release_date": "2026-02-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 8,
+                    "type": "album",
+                    "uri": "spotify:album:73us1ESpn7e3HebPcziNHd"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1A8GyyKhK21Qg6dix9Mkax"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1A8GyyKhK21Qg6dix9Mkax",
+                        "id": "1A8GyyKhK21Qg6dix9Mkax",
+                        "name": "Miya Zawa",
+                        "type": "artist",
+                        "uri": "spotify:artist:1A8GyyKhK21Qg6dix9Mkax"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 114061,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Zd8sA8rpZfnaJa2z7K0f3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Zd8sA8rpZfnaJa2z7K0f3",
+                "id": "0Zd8sA8rpZfnaJa2z7K0f3",
+                "is_local": false,
+                "name": "Kira Kira",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0Zd8sA8rpZfnaJa2z7K0f3"
+            },
+            "played_at": "2026-02-22T22:51:29.916Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6QE08doGmrNOROa5TWnVnG",
+                            "id": "6QE08doGmrNOROa5TWnVnG",
+                            "name": "Serena Sun",
+                            "type": "artist",
+                            "uri": "spotify:artist:6QE08doGmrNOROa5TWnVnG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7umIYcyuYv5UWhgRbiZrAu"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7umIYcyuYv5UWhgRbiZrAu",
+                    "id": "7umIYcyuYv5UWhgRbiZrAu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730bb8bc4eb66dfb33233121c7",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020bb8bc4eb66dfb33233121c7",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510bb8bc4eb66dfb33233121c7",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Bullet Train",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:7umIYcyuYv5UWhgRbiZrAu"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6QE08doGmrNOROa5TWnVnG",
+                        "id": "6QE08doGmrNOROa5TWnVnG",
+                        "name": "Serena Sun",
+                        "type": "artist",
+                        "uri": "spotify:artist:6QE08doGmrNOROa5TWnVnG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02SSkOjwdt9ofPmA12SQX4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02SSkOjwdt9ofPmA12SQX4",
+                "id": "02SSkOjwdt9ofPmA12SQX4",
+                "is_local": false,
+                "name": "Bullet Train",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:02SSkOjwdt9ofPmA12SQX4"
+            },
+            "played_at": "2026-02-22T22:49:30.777Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0LOoC1v3WNX2z8x1lUSmxL",
+                    "id": "0LOoC1v3WNX2z8x1lUSmxL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27319b22e6ea5532d91cebab114",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0219b22e6ea5532d91cebab114",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485119b22e6ea5532d91cebab114",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Yellow Eyes",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0LOoC1v3WNX2z8x1lUSmxL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6xYi9wfZb81gJIVQ95qPNl",
+                "id": "6xYi9wfZb81gJIVQ95qPNl",
+                "is_local": false,
+                "name": "Yellow Eyes",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6xYi9wfZb81gJIVQ95qPNl"
+            },
+            "played_at": "2026-02-22T22:45:47.557Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/6LifnNApEGwyRpFHMKNW25",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+                },
+                "uri": "spotify:album:6LifnNApEGwyRpFHMKNW25"
+            }
         }
     ]
 }
