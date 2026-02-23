@@ -17827,6 +17827,662 @@
                 "type": "album",
                 "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                            "id": "7GlBOeep6PqTfFi59PTUUN",
+                            "name": "Chappell Roan",
+                            "type": "artist",
+                            "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4zGYqGyEgY8YQZE0tob6Bj",
+                    "id": "4zGYqGyEgY8YQZE0tob6Bj",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c01bcf0c3dd031d331722280",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c01bcf0c3dd031d331722280",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c01bcf0c3dd031d331722280",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Love Me Anyway",
+                    "release_date": "2020-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:4zGYqGyEgY8YQZE0tob6Bj"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                        "id": "7GlBOeep6PqTfFi59PTUUN",
+                        "name": "Chappell Roan",
+                        "type": "artist",
+                        "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 233325,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/53KWkwzQq47p13swqiLAMI",
+                "id": "53KWkwzQq47p13swqiLAMI",
+                "is_local": false,
+                "name": "Love Me Anyway",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:53KWkwzQq47p13swqiLAMI"
+            },
+            "played_at": "2026-02-23T22:24:25.849Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+                            "id": "7MoIc5s9KXolCBH1fy9kkw",
+                            "name": "Japanese Breakfast",
+                            "type": "artist",
+                            "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+                    "id": "1uD1kdwTWH1DZQZqGKz6rY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e58724521fe7e84276b4c373",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e58724521fe7e84276b4c373",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jubilee",
+                    "release_date": "2021-06-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+                        "id": "7MoIc5s9KXolCBH1fy9kkw",
+                        "name": "Japanese Breakfast",
+                        "type": "artist",
+                        "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195370,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0dpyzcT3RMNNSd2xKBf35I",
+                "id": "0dpyzcT3RMNNSd2xKBf35I",
+                "is_local": false,
+                "name": "Be Sweet",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0dpyzcT3RMNNSd2xKBf35I"
+            },
+            "played_at": "2026-02-23T22:20:32.224Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4SBl4zvNIL4H137YRf2P0J",
+                    "id": "4SBl4zvNIL4H137YRf2P0J",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0236615a0a60523dd62135ab3a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485136615a0a60523dd62135ab3a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Solar Power",
+                    "release_date": "2021-08-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4SBl4zvNIL4H137YRf2P0J"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 399583,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6kj8TeHSns33wt1Z1wdmMx",
+                "id": "6kj8TeHSns33wt1Z1wdmMx",
+                "is_local": false,
+                "name": "Oceanic Feeling",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:6kj8TeHSns33wt1Z1wdmMx"
+            },
+            "played_at": "2026-02-23T22:17:16.753Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6beUvFUlKliUYJdLOXNj9C",
+                            "id": "6beUvFUlKliUYJdLOXNj9C",
+                            "name": "King Princess",
+                            "type": "artist",
+                            "uri": "spotify:artist:6beUvFUlKliUYJdLOXNj9C"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2kNAV0q75Q4YZdDNfGzrc0"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2kNAV0q75Q4YZdDNfGzrc0",
+                    "id": "2kNAV0q75Q4YZdDNfGzrc0",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e0372f566ddfa03f92f1f25e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e0372f566ddfa03f92f1f25e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e0372f566ddfa03f92f1f25e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Bend",
+                    "release_date": "2023-03-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2kNAV0q75Q4YZdDNfGzrc0"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6beUvFUlKliUYJdLOXNj9C",
+                        "id": "6beUvFUlKliUYJdLOXNj9C",
+                        "name": "King Princess",
+                        "type": "artist",
+                        "uri": "spotify:artist:6beUvFUlKliUYJdLOXNj9C"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 207226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1JPLgspkhTlUFz2xrNhfj7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1JPLgspkhTlUFz2xrNhfj7",
+                "id": "1JPLgspkhTlUFz2xrNhfj7",
+                "is_local": false,
+                "name": "The Bend",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1JPLgspkhTlUFz2xrNhfj7"
+            },
+            "played_at": "2026-02-23T22:10:36.581Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                            "name": "The Last Dinner Party",
+                            "type": "artist",
+                            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1ycq58KRtWt3wFtbuIkvLn",
+                    "id": "1ycq58KRtWt3wFtbuIkvLn",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02aaa10f339ed589b84c51137d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851aaa10f339ed589b84c51137d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Prelude to Ecstasy",
+                    "release_date": "2024-02-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1ycq58KRtWt3wFtbuIkvLn"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                        "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                        "name": "The Last Dinner Party",
+                        "type": "artist",
+                        "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 267977,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HFwvkYsBkmHfjintlYaFZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HFwvkYsBkmHfjintlYaFZ",
+                "id": "1HFwvkYsBkmHfjintlYaFZ",
+                "is_local": false,
+                "name": "On Your Side",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:1HFwvkYsBkmHfjintlYaFZ"
+            },
+            "played_at": "2026-02-23T22:07:08.485Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0GE0uLMG3dAOrvPGcJtvKz",
+                    "id": "0GE0uLMG3dAOrvPGcJtvKz",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c013c6560cbe993cf8d69aee",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c013c6560cbe993cf8d69aee",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c013c6560cbe993cf8d69aee",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin (Deluxe)",
+                    "release_date": "2025-06-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 30,
+                    "type": "album",
+                    "uri": "spotify:album:0GE0uLMG3dAOrvPGcJtvKz"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169903,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4HrJu1oEafqA6vLMWDJUQn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4HrJu1oEafqA6vLMWDJUQn",
+                "id": "4HrJu1oEafqA6vLMWDJUQn",
+                "is_local": false,
+                "name": "On This Love",
+                "preview_url": null,
+                "track_number": 27,
+                "type": "track",
+                "uri": "spotify:track:4HrJu1oEafqA6vLMWDJUQn"
+            },
+            "played_at": "2026-02-23T22:02:39.452Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236838,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4pteEcX2rHSJXK8XSOtWP8",
+                "id": "4pteEcX2rHSJXK8XSOtWP8",
+                "is_local": false,
+                "name": "To Love",
+                "preview_url": null,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:4pteEcX2rHSJXK8XSOtWP8"
+            },
+            "played_at": "2026-02-23T21:59:48.909Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 181073,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7fEoVhSGI9VGyiYBlJ5Ema"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7fEoVhSGI9VGyiYBlJ5Ema",
+                "id": "7fEoVhSGI9VGyiYBlJ5Ema",
+                "is_local": false,
+                "name": "Helpless",
+                "preview_url": null,
+                "track_number": 17,
+                "type": "track",
+                "uri": "spotify:track:7fEoVhSGI9VGyiYBlJ5Ema"
+            },
+            "played_at": "2026-02-23T21:55:51.876Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
         }
     ]
 }
