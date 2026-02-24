@@ -18483,6 +18483,252 @@
                 "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
                 "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                            "name": "The Last Dinner Party",
+                            "type": "artist",
+                            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1ycq58KRtWt3wFtbuIkvLn",
+                    "id": "1ycq58KRtWt3wFtbuIkvLn",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02aaa10f339ed589b84c51137d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851aaa10f339ed589b84c51137d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Prelude to Ecstasy",
+                    "release_date": "2024-02-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1ycq58KRtWt3wFtbuIkvLn"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                        "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                        "name": "The Last Dinner Party",
+                        "type": "artist",
+                        "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 227508,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4YGpUNc3cScpjliOZojJ89",
+                "id": "4YGpUNc3cScpjliOZojJ89",
+                "is_local": false,
+                "name": "Beautiful Boy",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4YGpUNc3cScpjliOZojJ89"
+            },
+            "played_at": "2026-02-24T00:49:36.255Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0GE0uLMG3dAOrvPGcJtvKz",
+                    "id": "0GE0uLMG3dAOrvPGcJtvKz",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c013c6560cbe993cf8d69aee",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c013c6560cbe993cf8d69aee",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c013c6560cbe993cf8d69aee",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin (Deluxe)",
+                    "release_date": "2025-06-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 30,
+                    "type": "album",
+                    "uri": "spotify:album:0GE0uLMG3dAOrvPGcJtvKz"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213439,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02wQSw40XpGdFgtZzfdJup"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02wQSw40XpGdFgtZzfdJup",
+                "id": "02wQSw40XpGdFgtZzfdJup",
+                "is_local": false,
+                "name": "Everything You Feared",
+                "preview_url": null,
+                "track_number": 20,
+                "type": "track",
+                "uri": "spotify:track:02wQSw40XpGdFgtZzfdJup"
+            },
+            "played_at": "2026-02-24T00:45:48.260Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0GE0uLMG3dAOrvPGcJtvKz",
+                    "id": "0GE0uLMG3dAOrvPGcJtvKz",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c013c6560cbe993cf8d69aee",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c013c6560cbe993cf8d69aee",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c013c6560cbe993cf8d69aee",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin (Deluxe)",
+                    "release_date": "2025-06-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 30,
+                    "type": "album",
+                    "uri": "spotify:album:0GE0uLMG3dAOrvPGcJtvKz"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213439,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02wQSw40XpGdFgtZzfdJup"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02wQSw40XpGdFgtZzfdJup",
+                "id": "02wQSw40XpGdFgtZzfdJup",
+                "is_local": false,
+                "name": "Everything You Feared",
+                "preview_url": null,
+                "track_number": 20,
+                "type": "track",
+                "uri": "spotify:track:02wQSw40XpGdFgtZzfdJup"
+            },
+            "played_at": "2026-02-24T00:44:31.371Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                },
+                "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+            }
         }
     ]
 }
