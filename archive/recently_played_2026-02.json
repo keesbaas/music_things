@@ -19979,6 +19979,1328 @@
                 "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
                 "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/57u5thaIOVk1Z7fmeiEWtv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/57u5thaIOVk1Z7fmeiEWtv",
+                    "id": "57u5thaIOVk1Z7fmeiEWtv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737ff9214819dc0ea9886a3a1a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027ff9214819dc0ea9886a3a1a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517ff9214819dc0ea9886a3a1a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Circles",
+                    "release_date": "2022-08-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:57u5thaIOVk1Z7fmeiEWtv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237860,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3OsguMn8eDcVxNAqQSFPTf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3OsguMn8eDcVxNAqQSFPTf",
+                "id": "3OsguMn8eDcVxNAqQSFPTf",
+                "is_local": false,
+                "name": "Circles",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3OsguMn8eDcVxNAqQSFPTf"
+            },
+            "played_at": "2026-02-24T16:06:03.604Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "type": "playlist",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3VBNIRx1LxVdRqOiPgkLwv",
+                            "id": "3VBNIRx1LxVdRqOiPgkLwv",
+                            "name": "CMAT",
+                            "type": "artist",
+                            "uri": "spotify:artist:3VBNIRx1LxVdRqOiPgkLwv"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6p8GFQi9D44s9ODeml47ag",
+                    "id": "6p8GFQi9D44s9ODeml47ag",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273691ef17d4ea194257555c1cd",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02691ef17d4ea194257555c1cd",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851691ef17d4ea194257555c1cd",
+                            "width": 64
+                        }
+                    ],
+                    "name": "EURO-COUNTRY",
+                    "release_date": "2025-08-29",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6p8GFQi9D44s9ODeml47ag"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3VBNIRx1LxVdRqOiPgkLwv",
+                        "id": "3VBNIRx1LxVdRqOiPgkLwv",
+                        "name": "CMAT",
+                        "type": "artist",
+                        "uri": "spotify:artist:3VBNIRx1LxVdRqOiPgkLwv"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 323960,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4GFUQmNAuhdjhANvbjwwLw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4GFUQmNAuhdjhANvbjwwLw",
+                "id": "4GFUQmNAuhdjhANvbjwwLw",
+                "is_local": false,
+                "name": "The Jamie Oliver Petrol Station",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:4GFUQmNAuhdjhANvbjwwLw"
+            },
+            "played_at": "2026-02-24T16:02:05.537Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "type": "playlist",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3VBNIRx1LxVdRqOiPgkLwv",
+                            "id": "3VBNIRx1LxVdRqOiPgkLwv",
+                            "name": "CMAT",
+                            "type": "artist",
+                            "uri": "spotify:artist:3VBNIRx1LxVdRqOiPgkLwv"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6p8GFQi9D44s9ODeml47ag",
+                    "id": "6p8GFQi9D44s9ODeml47ag",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273691ef17d4ea194257555c1cd",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02691ef17d4ea194257555c1cd",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851691ef17d4ea194257555c1cd",
+                            "width": 64
+                        }
+                    ],
+                    "name": "EURO-COUNTRY",
+                    "release_date": "2025-08-29",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6p8GFQi9D44s9ODeml47ag"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3VBNIRx1LxVdRqOiPgkLwv",
+                        "id": "3VBNIRx1LxVdRqOiPgkLwv",
+                        "name": "CMAT",
+                        "type": "artist",
+                        "uri": "spotify:artist:3VBNIRx1LxVdRqOiPgkLwv"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 266586,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6oma8NfctZ4ir0m5FZmCM2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6oma8NfctZ4ir0m5FZmCM2",
+                "id": "6oma8NfctZ4ir0m5FZmCM2",
+                "is_local": false,
+                "name": "Running/Planning",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:6oma8NfctZ4ir0m5FZmCM2"
+            },
+            "played_at": "2026-02-24T15:56:49.125Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "type": "playlist",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0rmhjUgoVa17LZuS8xWQ3v",
+                    "id": "0rmhjUgoVa17LZuS8xWQ3v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pure Heroine",
+                    "release_date": "2013-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198907,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/74fpNVAJrKGQuqHETi4WSt",
+                "id": "74fpNVAJrKGQuqHETi4WSt",
+                "is_local": false,
+                "name": "Tennis Court",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt"
+            },
+            "played_at": "2026-02-24T15:46:35.282Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6pSGolbfux1G7aSSJP0OQU",
+                    "id": "6pSGolbfux1G7aSSJP0OQU",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27320c315c1e97aef2f65329771",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0220c315c1e97aef2f65329771",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485120c315c1e97aef2f65329771",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Chains of Love",
+                    "release_date": "2025-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6pSGolbfux1G7aSSJP0OQU"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170106,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3obedb2fnHaTE8bPlr9TNK",
+                "id": "3obedb2fnHaTE8bPlr9TNK",
+                "is_local": false,
+                "name": "Chains of Love",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3obedb2fnHaTE8bPlr9TNK"
+            },
+            "played_at": "2026-02-24T15:43:16.457Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                        "name": "Ed Sheeran",
+                        "type": "artist",
+                        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205604,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3lDSWvR0FXWGXo7mhDUs3v",
+                "id": "3lDSWvR0FXWGXo7mhDUs3v",
+                "is_local": false,
+                "name": "Bam Bam (feat. Ed Sheeran)",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3lDSWvR0FXWGXo7mhDUs3v"
+            },
+            "played_at": "2026-02-24T15:40:25.939Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164842,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49dBB2KMMmsSCIGVwwH0v3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49dBB2KMMmsSCIGVwwH0v3",
+                "id": "49dBB2KMMmsSCIGVwwH0v3",
+                "is_local": false,
+                "name": "Don't Go Yet",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:49dBB2KMMmsSCIGVwwH0v3"
+            },
+            "played_at": "2026-02-24T15:36:59.133Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2B87zXm9bOWvAJdkJBTpzF",
+                    "id": "2B87zXm9bOWvAJdkJBTpzF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f8553e18a11209d4becd0336",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f8553e18a11209d4becd0336",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Melodrama",
+                    "release_date": "2017-06-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2B87zXm9bOWvAJdkJBTpzF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 277506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6K8VQ84MqhsoakN5MjrnVR",
+                "id": "6K8VQ84MqhsoakN5MjrnVR",
+                "is_local": false,
+                "name": "Supercut",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:6K8VQ84MqhsoakN5MjrnVR"
+            },
+            "played_at": "2026-02-24T15:34:13.801Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0rmhjUgoVa17LZuS8xWQ3v",
+                    "id": "0rmhjUgoVa17LZuS8xWQ3v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pure Heroine",
+                    "release_date": "2013-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 216600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/35kahykNu00FPysz3C2euR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/35kahykNu00FPysz3C2euR",
+                "id": "35kahykNu00FPysz3C2euR",
+                "is_local": false,
+                "name": "White Teeth Teens",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:35kahykNu00FPysz3C2euR"
+            },
+            "played_at": "2026-02-24T15:29:35.421Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2B87zXm9bOWvAJdkJBTpzF",
+                    "id": "2B87zXm9bOWvAJdkJBTpzF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f8553e18a11209d4becd0336",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f8553e18a11209d4becd0336",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Melodrama",
+                    "release_date": "2017-06-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2B87zXm9bOWvAJdkJBTpzF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171727,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6Kkt27YmFyIFrcX3QXFi2o",
+                "id": "6Kkt27YmFyIFrcX3QXFi2o",
+                "is_local": false,
+                "name": "Liability",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6Kkt27YmFyIFrcX3QXFi2o"
+            },
+            "played_at": "2026-02-24T15:25:58.335Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4SBl4zvNIL4H137YRf2P0J",
+                    "id": "4SBl4zvNIL4H137YRf2P0J",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0236615a0a60523dd62135ab3a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485136615a0a60523dd62135ab3a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Solar Power",
+                    "release_date": "2021-08-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4SBl4zvNIL4H137YRf2P0J"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 399583,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6kj8TeHSns33wt1Z1wdmMx",
+                "id": "6kj8TeHSns33wt1Z1wdmMx",
+                "is_local": false,
+                "name": "Oceanic Feeling",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:6kj8TeHSns33wt1Z1wdmMx"
+            },
+            "played_at": "2026-02-24T15:23:06.237Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0rmhjUgoVa17LZuS8xWQ3v",
+                    "id": "0rmhjUgoVa17LZuS8xWQ3v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pure Heroine",
+                    "release_date": "2013-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 188133,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5TRZnGsX49uCZkXxIbD7Ru"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5TRZnGsX49uCZkXxIbD7Ru",
+                "id": "5TRZnGsX49uCZkXxIbD7Ru",
+                "is_local": false,
+                "name": "Still Sane",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5TRZnGsX49uCZkXxIbD7Ru"
+            },
+            "played_at": "2026-02-24T15:16:26.012Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2B87zXm9bOWvAJdkJBTpzF",
+                    "id": "2B87zXm9bOWvAJdkJBTpzF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f8553e18a11209d4becd0336",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f8553e18a11209d4becd0336",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Melodrama",
+                    "release_date": "2017-06-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2B87zXm9bOWvAJdkJBTpzF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 136019,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6lFDB0BFDRV58qaQDX85jV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6lFDB0BFDRV58qaQDX85jV",
+                "id": "6lFDB0BFDRV58qaQDX85jV",
+                "is_local": false,
+                "name": "Liability (Reprise)",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:6lFDB0BFDRV58qaQDX85jV"
+            },
+            "played_at": "2026-02-24T15:13:17.378Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0rmhjUgoVa17LZuS8xWQ3v",
+                    "id": "0rmhjUgoVa17LZuS8xWQ3v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pure Heroine",
+                    "release_date": "2013-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246755,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/51QEyJI5M7uyd8DOh9tqQY",
+                "id": "51QEyJI5M7uyd8DOh9tqQY",
+                "is_local": false,
+                "name": "Buzzcut Season",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:51QEyJI5M7uyd8DOh9tqQY"
+            },
+            "played_at": "2026-02-24T15:08:43.139Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/28bHj2enHkHVFLwuWmkwlQ",
+                    "id": "28bHj2enHkHVFLwuWmkwlQ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0223d41bf736920a032e222a78",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485123d41bf736920a032e222a78",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Virgin",
+                    "release_date": "2025-06-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:28bHj2enHkHVFLwuWmkwlQ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209286,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7hGCCQkdyF1MX6uk339uBS",
+                "id": "7hGCCQkdyF1MX6uk339uBS",
+                "is_local": false,
+                "name": "What Was That",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7hGCCQkdyF1MX6uk339uBS"
+            },
+            "played_at": "2026-02-24T15:04:36.949Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "type": "playlist",
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Ppie0uPnbnvGBYRwYmlt0",
+                            "id": "5Ppie0uPnbnvGBYRwYmlt0",
+                            "name": "Megan Moroney",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Ppie0uPnbnvGBYRwYmlt0"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6UpHmlakegfavZms7ZBAIS",
+                    "id": "6UpHmlakegfavZms7ZBAIS",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27301fe49cd6f9b1e20676f2169",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0201fe49cd6f9b1e20676f2169",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485101fe49cd6f9b1e20676f2169",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Cloud 9",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:6UpHmlakegfavZms7ZBAIS"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Ppie0uPnbnvGBYRwYmlt0",
+                        "id": "5Ppie0uPnbnvGBYRwYmlt0",
+                        "name": "Megan Moroney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Ppie0uPnbnvGBYRwYmlt0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204962,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2lv2D8ECP6YOhLoWypMeYL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2lv2D8ECP6YOhLoWypMeYL",
+                "id": "2lv2D8ECP6YOhLoWypMeYL",
+                "is_local": false,
+                "name": "Waiting On the Rain",
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:2lv2D8ECP6YOhLoWypMeYL"
+            },
+            "played_at": "2026-02-24T15:01:08.767Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+                },
+                "href": "https://api.spotify.com/v1/albums/6UpHmlakegfavZms7ZBAIS",
+                "type": "album",
+                "uri": "spotify:album:6UpHmlakegfavZms7ZBAIS"
+            }
         }
     ]
 }
