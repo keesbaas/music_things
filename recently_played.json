@@ -28519,6 +28519,88 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4SBl4zvNIL4H137YRf2P0J",
+                    "id": "4SBl4zvNIL4H137YRf2P0J",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0236615a0a60523dd62135ab3a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485136615a0a60523dd62135ab3a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Solar Power",
+                    "release_date": "2021-08-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4SBl4zvNIL4H137YRf2P0J"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191881,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4TYPnvjBbEfcDkk1UxpvYB",
+                "id": "4TYPnvjBbEfcDkk1UxpvYB",
+                "is_local": false,
+                "name": "California",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4TYPnvjBbEfcDkk1UxpvYB"
+            },
+            "played_at": "2026-02-24T20:50:12.264Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/488A6osEHEOqfwA7cGJ2z8",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/488A6osEHEOqfwA7cGJ2z8"
+                },
+                "uri": "spotify:playlist:488A6osEHEOqfwA7cGJ2z8"
+            }
         }
     ]
 }
