@@ -39501,6 +39501,81 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QggtBYoRVDqpIibHKnMgu",
+                            "id": "3QggtBYoRVDqpIibHKnMgu",
+                            "name": "Hugo Blanco",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QggtBYoRVDqpIibHKnMgu"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6MutsfdszzdhZ7XvcNMYOs"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6MutsfdszzdhZ7XvcNMYOs",
+                    "id": "6MutsfdszzdhZ7XvcNMYOs",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27326577729b70ef3d8bcbd9512",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0226577729b70ef3d8bcbd9512",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485126577729b70ef3d8bcbd9512",
+                            "width": 64
+                        }
+                    ],
+                    "name": "40 A\u00f1os 40 Exitos de Hugo Blanco",
+                    "release_date": "2011-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 40,
+                    "type": "album",
+                    "uri": "spotify:album:6MutsfdszzdhZ7XvcNMYOs"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QggtBYoRVDqpIibHKnMgu",
+                        "id": "3QggtBYoRVDqpIibHKnMgu",
+                        "name": "Hugo Blanco",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QggtBYoRVDqpIibHKnMgu"
+                    }
+                ],
+                "disc_number": 2,
+                "duration_ms": 189813,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2kJcEWkJWGDe7yCOtg4J6Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2kJcEWkJWGDe7yCOtg4J6Q",
+                "id": "2kJcEWkJWGDe7yCOtg4J6Q",
+                "is_local": false,
+                "name": "Cumbia Con Arpa",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:2kJcEWkJWGDe7yCOtg4J6Q"
+            },
+            "played_at": "2026-02-28T17:20:50.332Z",
+            "context": null
         }
     ]
 }
