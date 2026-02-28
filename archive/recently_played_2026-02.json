@@ -34528,6 +34528,252 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                            "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                            "name": "Em Beihold",
+                            "type": "artist",
+                            "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                    "id": "2RL64278RxtHMgDH04qzex",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27313b36c2f4ee75c3ebc5353ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0213b36c2f4ee75c3ebc5353ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485113b36c2f4ee75c3ebc5353ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tales of a Failed Shapeshifter",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                        "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                        "name": "Em Beihold",
+                        "type": "artist",
+                        "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197633,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0SOReokANRvcRzPxDez9kq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0SOReokANRvcRzPxDez9kq",
+                "id": "0SOReokANRvcRzPxDez9kq",
+                "is_local": false,
+                "name": "Won\u2019t Let Go",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:0SOReokANRvcRzPxDez9kq"
+            },
+            "played_at": "2026-02-28T18:53:10.938Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                },
+                "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                            "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                            "name": "Em Beihold",
+                            "type": "artist",
+                            "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                    "id": "2RL64278RxtHMgDH04qzex",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27313b36c2f4ee75c3ebc5353ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0213b36c2f4ee75c3ebc5353ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485113b36c2f4ee75c3ebc5353ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tales of a Failed Shapeshifter",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                        "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                        "name": "Em Beihold",
+                        "type": "artist",
+                        "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189624,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1K3TA8WDsZHfo0kd2skN7I"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1K3TA8WDsZHfo0kd2skN7I",
+                "id": "1K3TA8WDsZHfo0kd2skN7I",
+                "is_local": false,
+                "name": "Strong Medicine",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1K3TA8WDsZHfo0kd2skN7I"
+            },
+            "played_at": "2026-02-28T18:49:55.163Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                },
+                "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                            "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                            "name": "Em Beihold",
+                            "type": "artist",
+                            "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                    "id": "2RL64278RxtHMgDH04qzex",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27313b36c2f4ee75c3ebc5353ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0213b36c2f4ee75c3ebc5353ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485113b36c2f4ee75c3ebc5353ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tales of a Failed Shapeshifter",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7o2ZQYM7nTsaVdkXY38UAA",
+                        "id": "7o2ZQYM7nTsaVdkXY38UAA",
+                        "name": "Em Beihold",
+                        "type": "artist",
+                        "uri": "spotify:artist:7o2ZQYM7nTsaVdkXY38UAA"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 133765,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/58EaIAtP0U8GV90DNPO1QU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/58EaIAtP0U8GV90DNPO1QU",
+                "id": "58EaIAtP0U8GV90DNPO1QU",
+                "is_local": false,
+                "name": "Shiny New Things",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:58EaIAtP0U8GV90DNPO1QU"
+            },
+            "played_at": "2026-02-28T18:46:44.121Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+                },
+                "href": "https://api.spotify.com/v1/albums/2RL64278RxtHMgDH04qzex",
+                "uri": "spotify:album:2RL64278RxtHMgDH04qzex"
+            }
         }
     ]
 }
