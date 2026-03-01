@@ -983,6 +983,170 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:37i9dQZF1EIV6Dny6HEGMy"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203259,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0JAaTG7sEjukCjC8X58puq",
+                "id": "0JAaTG7sEjukCjC8X58puq",
+                "is_local": false,
+                "name": "Buckle",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0JAaTG7sEjukCjC8X58puq"
+            },
+            "played_at": "2026-03-01T18:35:16.286Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EIV6Dny6HEGMy"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EIV6Dny6HEGMy",
+                "uri": "spotify:playlist:37i9dQZF1EIV6Dny6HEGMy"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+                            "id": "75FnCoo4FBxH5K1Rrx0k5A",
+                            "name": "The Band Perry",
+                            "type": "artist",
+                            "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3dASAcs9QOsmoSLhHjEhCu",
+                    "id": "3dASAcs9QOsmoSLhHjEhCu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735726e327fd968a6fb5974350",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025726e327fd968a6fb5974350",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515726e327fd968a6fb5974350",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Band Perry",
+                    "release_date": "2010-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:3dASAcs9QOsmoSLhHjEhCu"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/75FnCoo4FBxH5K1Rrx0k5A",
+                        "id": "75FnCoo4FBxH5K1Rrx0k5A",
+                        "name": "The Band Perry",
+                        "type": "artist",
+                        "uri": "spotify:artist:75FnCoo4FBxH5K1Rrx0k5A"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222773,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4u26EevCNXMhlvE1xFBJwX",
+                "id": "4u26EevCNXMhlvE1xFBJwX",
+                "is_local": false,
+                "name": "If I Die Young",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4u26EevCNXMhlvE1xFBJwX"
+            },
+            "played_at": "2026-03-01T18:31:51.753Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+                },
+                "href": "https://api.spotify.com/v1/albums/5ZQB1ZQ2Yx9YT3nZlR2Pgu",
+                "uri": "spotify:album:5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+            }
         }
     ]
 }
