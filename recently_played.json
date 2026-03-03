@@ -50747,6 +50747,2138 @@
                 "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
                 "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7shFCy9ndIUNpp52TubkTa"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7shFCy9ndIUNpp52TubkTa",
+                    "id": "7shFCy9ndIUNpp52TubkTa",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273713ec18394c98b1febffba00",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02713ec18394c98b1febffba00",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851713ec18394c98b1febffba00",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Be Myself",
+                    "release_date": "2017-04-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:7shFCy9ndIUNpp52TubkTa"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 307800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5AFgOnobSVBZUdrN0z7lth"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5AFgOnobSVBZUdrN0z7lth",
+                "id": "5AFgOnobSVBZUdrN0z7lth",
+                "is_local": false,
+                "name": "Long Way Back",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5AFgOnobSVBZUdrN0z7lth"
+            },
+            "played_at": "2026-03-03T20:37:55.444Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/25EBI2aibErmpf3XDxHjid"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/25EBI2aibErmpf3XDxHjid",
+                    "id": "25EBI2aibErmpf3XDxHjid",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733801d9bebb63c8e79f9dc95c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023801d9bebb63c8e79f9dc95c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513801d9bebb63c8e79f9dc95c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow And Friends Live From Central Park",
+                    "release_date": "1999-12-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:25EBI2aibErmpf3XDxHjid"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 441506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7vf4lAPn3zii4MjAseuMOr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7vf4lAPn3zii4MjAseuMOr",
+                "id": "7vf4lAPn3zii4MjAseuMOr",
+                "is_local": false,
+                "name": "Leaving Las Vegas - Live From Central Park/1999",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7vf4lAPn3zii4MjAseuMOr"
+            },
+            "played_at": "2026-03-03T20:32:47.098Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/25EBI2aibErmpf3XDxHjid"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/25EBI2aibErmpf3XDxHjid",
+                    "id": "25EBI2aibErmpf3XDxHjid",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733801d9bebb63c8e79f9dc95c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023801d9bebb63c8e79f9dc95c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513801d9bebb63c8e79f9dc95c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow And Friends Live From Central Park",
+                    "release_date": "1999-12-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:25EBI2aibErmpf3XDxHjid"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 441506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7vf4lAPn3zii4MjAseuMOr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7vf4lAPn3zii4MjAseuMOr",
+                "id": "7vf4lAPn3zii4MjAseuMOr",
+                "is_local": false,
+                "name": "Leaving Las Vegas - Live From Central Park/1999",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7vf4lAPn3zii4MjAseuMOr"
+            },
+            "played_at": "2026-03-03T20:26:33.793Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                            "name": "The Last Dinner Party",
+                            "type": "artist",
+                            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6ltU3hJQLHM29KJkEfBiwT",
+                    "id": "6ltU3hJQLHM29KJkEfBiwT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273dcf659ad02a416482f559085",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02dcf659ad02a416482f559085",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851dcf659ad02a416482f559085",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Prelude to Ecstasy",
+                    "release_date": "2024-02-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6ltU3hJQLHM29KJkEfBiwT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+                        "id": "5SHgclK1ZpTdfdAmXW7J6s",
+                        "name": "The Last Dinner Party",
+                        "type": "artist",
+                        "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206571,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1gRK6QnBOpNtEDjYKftzTc",
+                "id": "1gRK6QnBOpNtEDjYKftzTc",
+                "is_local": false,
+                "name": "The Feminine Urge",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:1gRK6QnBOpNtEDjYKftzTc"
+            },
+            "played_at": "2026-03-03T20:26:30.609Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                            "id": "2EXpthNgSeTDeX8nGwxppp",
+                            "name": "Paris Paloma",
+                            "type": "artist",
+                            "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/58lXi5oqRNfrDXK2xi1NEF",
+                    "id": "58lXi5oqRNfrDXK2xi1NEF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273629e6306e65ff96066937831",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02629e6306e65ff96066937831",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851629e6306e65ff96066937831",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Good Boy",
+                    "release_date": "2025-09-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:58lXi5oqRNfrDXK2xi1NEF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                        "id": "2EXpthNgSeTDeX8nGwxppp",
+                        "name": "Paris Paloma",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222106,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0zGedcOInQVyGKVPShTn2s",
+                "id": "0zGedcOInQVyGKVPShTn2s",
+                "is_local": false,
+                "name": "Good Boy",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0zGedcOInQVyGKVPShTn2s"
+            },
+            "played_at": "2026-03-03T20:24:46.848Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2btszoya78vyT8fwelmVnz"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2btszoya78vyT8fwelmVnz",
+                    "id": "2btszoya78vyT8fwelmVnz",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02749edeb8bb7308fcb146badc",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851749edeb8bb7308fcb146badc",
+                            "width": 64
+                        }
+                    ],
+                    "name": "How Big, How Blue, How Beautiful",
+                    "release_date": "2015-06-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2btszoya78vyT8fwelmVnz"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 249070,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5ZEAEazgJGdIMSz55qOORv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ZEAEazgJGdIMSz55qOORv",
+                "id": "5ZEAEazgJGdIMSz55qOORv",
+                "is_local": false,
+                "name": "Various Storms & Saints",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5ZEAEazgJGdIMSz55qOORv"
+            },
+            "played_at": "2026-03-03T20:21:06.286Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                            "id": "2EXpthNgSeTDeX8nGwxppp",
+                            "name": "Paris Paloma",
+                            "type": "artist",
+                            "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6i5yc4dRqvo2Mu8mGrRXkE",
+                    "id": "6i5yc4dRqvo2Mu8mGrRXkE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273646e91a1d5612cd7a173b76b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02646e91a1d5612cd7a173b76b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851646e91a1d5612cd7a173b76b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Good Girl",
+                    "release_date": "2026-01-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:6i5yc4dRqvo2Mu8mGrRXkE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                        "id": "2EXpthNgSeTDeX8nGwxppp",
+                        "name": "Paris Paloma",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263228,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5916POJDlPQRBbe1SJc7uK",
+                "id": "5916POJDlPQRBbe1SJc7uK",
+                "is_local": false,
+                "name": "Good Girl",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5916POJDlPQRBbe1SJc7uK"
+            },
+            "played_at": "2026-03-03T20:17:29.855Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                            "id": "2EXpthNgSeTDeX8nGwxppp",
+                            "name": "Paris Paloma",
+                            "type": "artist",
+                            "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6iotK7DPiIqhu707ysxYpH",
+                    "id": "6iotK7DPiIqhu707ysxYpH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27338c7e52477eeebf6b6dbb15c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0238c7e52477eeebf6b6dbb15c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485138c7e52477eeebf6b6dbb15c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Cacophony",
+                    "release_date": "2024-08-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:6iotK7DPiIqhu707ysxYpH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                        "id": "2EXpthNgSeTDeX8nGwxppp",
+                        "name": "Paris Paloma",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237744,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0e00DiF2T9znEdmWakYSC3",
+                "id": "0e00DiF2T9znEdmWakYSC3",
+                "is_local": false,
+                "name": "labour",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0e00DiF2T9znEdmWakYSC3"
+            },
+            "played_at": "2026-03-03T20:12:33.125Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263936,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2yuKbNMCQ8Oo6KWWZvUCoV",
+                "id": "2yuKbNMCQ8Oo6KWWZvUCoV",
+                "is_local": false,
+                "name": "Witch Dance",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2yuKbNMCQ8Oo6KWWZvUCoV"
+            },
+            "played_at": "2026-03-03T20:08:32.462Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-03T20:04:07.745Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7tMF8Anyf7oIqQZSxE17do"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7tMF8Anyf7oIqQZSxE17do",
+                "id": "7tMF8Anyf7oIqQZSxE17do",
+                "is_local": false,
+                "name": "Everybody Scream",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7tMF8Anyf7oIqQZSxE17do"
+            },
+            "played_at": "2026-03-03T20:01:48.026Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 230136,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4BswiLDcr4ChDGl2NrfhC1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4BswiLDcr4ChDGl2NrfhC1",
+                "id": "4BswiLDcr4ChDGl2NrfhC1",
+                "is_local": false,
+                "name": "Kraken",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:4BswiLDcr4ChDGl2NrfhC1"
+            },
+            "played_at": "2026-03-03T19:57:43.984Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5HuKMWteBRI09tWyKeQE1F",
+                            "id": "5HuKMWteBRI09tWyKeQE1F",
+                            "name": "Kiki Rockwell",
+                            "type": "artist",
+                            "uri": "spotify:artist:5HuKMWteBRI09tWyKeQE1F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0sxjVtCBiHWdZLWyndytPJ",
+                    "id": "0sxjVtCBiHWdZLWyndytPJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730738737585f79832d923183c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020738737585f79832d923183c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510738737585f79832d923183c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Rituals On The Bank Of A Familiar River",
+                    "release_date": "2023-06-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:0sxjVtCBiHWdZLWyndytPJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5HuKMWteBRI09tWyKeQE1F",
+                        "id": "5HuKMWteBRI09tWyKeQE1F",
+                        "name": "Kiki Rockwell",
+                        "type": "artist",
+                        "uri": "spotify:artist:5HuKMWteBRI09tWyKeQE1F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244584,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/16Ggpcwd7ZxTveNBNN4GWT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/16Ggpcwd7ZxTveNBNN4GWT",
+                "id": "16Ggpcwd7ZxTveNBNN4GWT",
+                "is_local": false,
+                "name": "Burn Your Village",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:16Ggpcwd7ZxTveNBNN4GWT"
+            },
+            "played_at": "2026-03-03T19:52:43.315Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/0sxjVtCBiHWdZLWyndytPJ",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+                },
+                "type": "album",
+                "uri": "spotify:album:0sxjVtCBiHWdZLWyndytPJ"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                            "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                            "name": "Hayley Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MROTtttK946gHaTkXeP8b",
+                    "id": "3MROTtttK946gHaTkXeP8b",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024f422ed700af8715b23326af",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514f422ed700af8715b23326af",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Ego Death At A Bachelorette Party",
+                    "release_date": "2025-11-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:3MROTtttK946gHaTkXeP8b"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                        "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                        "name": "Hayley Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220101,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5iALdwbhnUHa8zGStA3h1J",
+                "id": "5iALdwbhnUHa8zGStA3h1J",
+                "is_local": false,
+                "name": "Parachute",
+                "preview_url": null,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+            },
+            "played_at": "2026-03-03T19:47:11.858Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/0sxjVtCBiHWdZLWyndytPJ",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+                },
+                "type": "album",
+                "uri": "spotify:album:0sxjVtCBiHWdZLWyndytPJ"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5HuKMWteBRI09tWyKeQE1F",
+                            "id": "5HuKMWteBRI09tWyKeQE1F",
+                            "name": "Kiki Rockwell",
+                            "type": "artist",
+                            "uri": "spotify:artist:5HuKMWteBRI09tWyKeQE1F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0sxjVtCBiHWdZLWyndytPJ",
+                    "id": "0sxjVtCBiHWdZLWyndytPJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730738737585f79832d923183c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020738737585f79832d923183c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510738737585f79832d923183c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Rituals On The Bank Of A Familiar River",
+                    "release_date": "2023-06-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:0sxjVtCBiHWdZLWyndytPJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5HuKMWteBRI09tWyKeQE1F",
+                        "id": "5HuKMWteBRI09tWyKeQE1F",
+                        "name": "Kiki Rockwell",
+                        "type": "artist",
+                        "uri": "spotify:artist:5HuKMWteBRI09tWyKeQE1F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 74226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0lb5LdAnSntcZMOCD0aToF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0lb5LdAnSntcZMOCD0aToF",
+                "id": "0lb5LdAnSntcZMOCD0aToF",
+                "is_local": false,
+                "name": "Rise Up O Flame",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0lb5LdAnSntcZMOCD0aToF"
+            },
+            "played_at": "2026-03-03T19:43:10.665Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/0sxjVtCBiHWdZLWyndytPJ",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
+                },
+                "type": "album",
+                "uri": "spotify:album:0sxjVtCBiHWdZLWyndytPJ"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                            "id": "2EXpthNgSeTDeX8nGwxppp",
+                            "name": "Paris Paloma",
+                            "type": "artist",
+                            "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6iotK7DPiIqhu707ysxYpH",
+                    "id": "6iotK7DPiIqhu707ysxYpH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27338c7e52477eeebf6b6dbb15c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0238c7e52477eeebf6b6dbb15c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485138c7e52477eeebf6b6dbb15c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Cacophony",
+                    "release_date": "2024-08-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:6iotK7DPiIqhu707ysxYpH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                        "id": "2EXpthNgSeTDeX8nGwxppp",
+                        "name": "Paris Paloma",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237744,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0e00DiF2T9znEdmWakYSC3",
+                "id": "0e00DiF2T9znEdmWakYSC3",
+                "is_local": false,
+                "name": "labour",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0e00DiF2T9znEdmWakYSC3"
+            },
+            "played_at": "2026-03-03T19:39:54.392Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263936,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2yuKbNMCQ8Oo6KWWZvUCoV",
+                "id": "2yuKbNMCQ8Oo6KWWZvUCoV",
+                "is_local": false,
+                "name": "Witch Dance",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2yuKbNMCQ8Oo6KWWZvUCoV"
+            },
+            "played_at": "2026-03-03T19:34:33.019Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183975,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6fGapufucZHPva1kvCqceA",
+                "id": "6fGapufucZHPva1kvCqceA",
+                "is_local": false,
+                "name": "Always Everywhere",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6fGapufucZHPva1kvCqceA"
+            },
+            "played_at": "2026-03-03T19:30:11.126Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182038,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0T3sHoiR3t9HtwbIOgTI7J",
+                "id": "0T3sHoiR3t9HtwbIOgTI7J",
+                "is_local": false,
+                "name": "Dying for You",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:0T3sHoiR3t9HtwbIOgTI7J"
+            },
+            "played_at": "2026-03-03T19:27:04.226Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-03T19:24:01.874Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150042,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/41UuruzhR2WLb917UbbcqS",
+                "id": "41UuruzhR2WLb917UbbcqS",
+                "is_local": false,
+                "name": "Seeing Things",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:41UuruzhR2WLb917UbbcqS"
+            },
+            "played_at": "2026-03-03T19:21:41.801Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 86944,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
+                },
+                "href": "https://api.spotify.com/v1/tracks/732AeYEiilADr0WSHFV9of",
+                "id": "732AeYEiilADr0WSHFV9of",
+                "is_local": false,
+                "name": "Open up",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:732AeYEiilADr0WSHFV9of"
+            },
+            "played_at": "2026-03-03T19:19:11.336Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-03T19:17:44.293Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150042,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/41UuruzhR2WLb917UbbcqS",
+                "id": "41UuruzhR2WLb917UbbcqS",
+                "is_local": false,
+                "name": "Seeing Things",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:41UuruzhR2WLb917UbbcqS"
+            },
+            "played_at": "2026-03-03T19:15:24.602Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-03T19:12:56.679Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170211,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
+                },
+                "href": "https://api.spotify.com/v1/tracks/77qLAmRzMPetmXywybpH15",
+                "id": "77qLAmRzMPetmXywybpH15",
+                "is_local": false,
+                "name": "Chains of Love",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:77qLAmRzMPetmXywybpH15"
+            },
+            "played_at": "2026-03-03T19:10:35.694Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "type": "album",
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
         }
     ]
 }
