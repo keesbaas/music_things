@@ -48893,6 +48893,918 @@
                 },
                 "uri": "spotify:playlist:37i9dQZF1EIV6Dny6HEGMy"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0Xk15jHKly4c3AhPr5vjoA",
+                            "id": "0Xk15jHKly4c3AhPr5vjoA",
+                            "name": "Alan Silvestri",
+                            "type": "artist",
+                            "uri": "spotify:artist:0Xk15jHKly4c3AhPr5vjoA"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6r4Vfnoifx2CLiTKCaKji8",
+                    "id": "6r4Vfnoifx2CLiTKCaKji8",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ba70a3f1cc9aebbbc1fdfee1",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ba70a3f1cc9aebbbc1fdfee1",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+                    "release_date": "2019-04-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 35,
+                    "type": "album",
+                    "uri": "spotify:album:6r4Vfnoifx2CLiTKCaKji8"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Xk15jHKly4c3AhPr5vjoA",
+                        "id": "0Xk15jHKly4c3AhPr5vjoA",
+                        "name": "Alan Silvestri",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Xk15jHKly4c3AhPr5vjoA"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OVtnS3l4vThGxkdqCxN6K",
+                "id": "0OVtnS3l4vThGxkdqCxN6K",
+                "is_local": false,
+                "name": "Portals",
+                "preview_url": null,
+                "track_number": 28,
+                "type": "track",
+                "uri": "spotify:track:0OVtnS3l4vThGxkdqCxN6K"
+            },
+            "played_at": "2026-03-03T17:51:05.527Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                            "id": "3dRfiJ2650SZu6GbydcHNb",
+                            "name": "John Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fUKGTsiYL1kSroBWBLmmR",
+                    "id": "3fUKGTsiYL1kSroBWBLmmR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e2add5f2d1440a02e4e10a75",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e2add5f2d1440a02e4e10a75",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e2add5f2d1440a02e4e10a75",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+                    "release_date": "2015-12-18",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:3fUKGTsiYL1kSroBWBLmmR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                        "id": "3dRfiJ2650SZu6GbydcHNb",
+                        "name": "John Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191066,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5wsHtmFHWntJzcN6n8ivjd",
+                "id": "5wsHtmFHWntJzcN6n8ivjd",
+                "is_local": false,
+                "name": "Rey's Theme",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5wsHtmFHWntJzcN6n8ivjd"
+            },
+            "played_at": "2026-03-03T17:47:44.402Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/13PoSkMaBxmC6EeAu2oBhH",
+                            "id": "13PoSkMaBxmC6EeAu2oBhH",
+                            "name": "Daniel Lopatin",
+                            "type": "artist",
+                            "uri": "spotify:artist:13PoSkMaBxmC6EeAu2oBhH"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ACAVXXQYUTmlZgdg0aG8U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4ACAVXXQYUTmlZgdg0aG8U",
+                    "id": "4ACAVXXQYUTmlZgdg0aG8U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27304d18a0910851815ea0ba6c5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0204d18a0910851815ea0ba6c5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485104d18a0910851815ea0ba6c5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Marty Supreme (Original Soundtrack)",
+                    "release_date": "2025-12-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:4ACAVXXQYUTmlZgdg0aG8U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/13PoSkMaBxmC6EeAu2oBhH",
+                        "id": "13PoSkMaBxmC6EeAu2oBhH",
+                        "name": "Daniel Lopatin",
+                        "type": "artist",
+                        "uri": "spotify:artist:13PoSkMaBxmC6EeAu2oBhH"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 289270,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2Yv9313K8Jg8JuVAePfHj4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2Yv9313K8Jg8JuVAePfHj4",
+                "id": "2Yv9313K8Jg8JuVAePfHj4",
+                "is_local": false,
+                "name": "The Real Game",
+                "preview_url": null,
+                "track_number": 20,
+                "type": "track",
+                "uri": "spotify:track:2Yv9313K8Jg8JuVAePfHj4"
+            },
+            "played_at": "2026-03-03T17:44:32.788Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213811,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1lTp6SSihcLUxoiTPUJ6lA",
+                "id": "1lTp6SSihcLUxoiTPUJ6lA",
+                "is_local": false,
+                "name": "Funny Mouth",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:1lTp6SSihcLUxoiTPUJ6lA"
+            },
+            "played_at": "2026-03-03T17:38:50.530Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1b3GqFU0UlFPnnM0Psv0kM",
+                "id": "1b3GqFU0UlFPnnM0Psv0kM",
+                "is_local": false,
+                "name": "My Reminder",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:1b3GqFU0UlFPnnM0Psv0kM"
+            },
+            "played_at": "2026-03-03T17:35:17.141Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7pyhre5oEEFMqcgMEvJY7q",
+                        "id": "7pyhre5oEEFMqcgMEvJY7q",
+                        "name": "Sky Ferreira",
+                        "type": "artist",
+                        "uri": "spotify:artist:7pyhre5oEEFMqcgMEvJY7q"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223994,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1md8v8FG46KecYiMap2XTD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1md8v8FG46KecYiMap2XTD",
+                "id": "1md8v8FG46KecYiMap2XTD",
+                "is_local": false,
+                "name": "Eyes of the World featuring Sky Ferreira",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1md8v8FG46KecYiMap2XTD"
+            },
+            "played_at": "2026-03-03T17:31:43.901Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 176617,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/37Vbx4pkj4QdmE4fPfAdoD",
+                "id": "37Vbx4pkj4QdmE4fPfAdoD",
+                "is_local": false,
+                "name": "Altars",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:37Vbx4pkj4QdmE4fPfAdoD"
+            },
+            "played_at": "2026-03-03T17:27:59.644Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150042,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/41UuruzhR2WLb917UbbcqS",
+                "id": "41UuruzhR2WLb917UbbcqS",
+                "is_local": false,
+                "name": "Seeing Things",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:41UuruzhR2WLb917UbbcqS"
+            },
+            "played_at": "2026-03-03T17:25:04.289Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 86944,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
+                },
+                "href": "https://api.spotify.com/v1/tracks/732AeYEiilADr0WSHFV9of",
+                "id": "732AeYEiilADr0WSHFV9of",
+                "is_local": false,
+                "name": "Open up",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:732AeYEiilADr0WSHFV9of"
+            },
+            "played_at": "2026-03-03T17:22:33.587Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-03T17:21:06.632Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170211,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
+                },
+                "href": "https://api.spotify.com/v1/tracks/77qLAmRzMPetmXywybpH15",
+                "id": "77qLAmRzMPetmXywybpH15",
+                "is_local": false,
+                "name": "Chains of Love",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:77qLAmRzMPetmXywybpH15"
+            },
+            "played_at": "2026-03-03T17:18:47.969Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                },
+                "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+            }
         }
     ]
 }
