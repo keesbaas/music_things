@@ -13804,6 +13804,918 @@
                 "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
                 "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6YWqJQS9TETSb8LgZONUzI",
+                        "id": "6YWqJQS9TETSb8LgZONUzI",
+                        "name": "hey, nothing",
+                        "type": "artist",
+                        "uri": "spotify:artist:6YWqJQS9TETSb8LgZONUzI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 200074,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2J36r9Ps9Q3GnpWGmBn57A"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2J36r9Ps9Q3GnpWGmBn57A",
+                "id": "2J36r9Ps9Q3GnpWGmBn57A",
+                "is_local": false,
+                "name": "Still Frozen (Acoustic)",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:2J36r9Ps9Q3GnpWGmBn57A"
+            },
+            "played_at": "2026-03-04T14:43:04.296Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209321,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0cywhExzMfHaD9OVUTLreJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0cywhExzMfHaD9OVUTLreJ",
+                "id": "0cywhExzMfHaD9OVUTLreJ",
+                "is_local": false,
+                "name": "Why Do Good Things Have to End",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:0cywhExzMfHaD9OVUTLreJ"
+            },
+            "played_at": "2026-03-04T14:39:41.810Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148381,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6vkSgkfUNtkFdqGXTNLpKP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6vkSgkfUNtkFdqGXTNLpKP",
+                "id": "6vkSgkfUNtkFdqGXTNLpKP",
+                "is_local": false,
+                "name": "Next Life",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:6vkSgkfUNtkFdqGXTNLpKP"
+            },
+            "played_at": "2026-03-04T14:36:12.790Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246878,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2gJHTp5E4cdBhotADXBoJ8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2gJHTp5E4cdBhotADXBoJ8",
+                "id": "2gJHTp5E4cdBhotADXBoJ8",
+                "is_local": false,
+                "name": "Margot",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:2gJHTp5E4cdBhotADXBoJ8"
+            },
+            "played_at": "2026-03-04T14:33:43.885Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 227280,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1efEqEWkCnP32WQ63Or5Fq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1efEqEWkCnP32WQ63Or5Fq",
+                "id": "1efEqEWkCnP32WQ63Or5Fq",
+                "is_local": false,
+                "name": "Hollywood",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1efEqEWkCnP32WQ63Or5Fq"
+            },
+            "played_at": "2026-03-04T14:29:37.116Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 230985,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5nzn28zV1r3XrkLYEjX0Kb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5nzn28zV1r3XrkLYEjX0Kb",
+                "id": "5nzn28zV1r3XrkLYEjX0Kb",
+                "is_local": false,
+                "name": "Watching My Life Go By",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5nzn28zV1r3XrkLYEjX0Kb"
+            },
+            "played_at": "2026-03-04T14:25:49.510Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1bREFTsdI7qr2QAzDRvVER"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1bREFTsdI7qr2QAzDRvVER",
+                "id": "1bREFTsdI7qr2QAzDRvVER",
+                "is_local": false,
+                "name": "Girl in My Head",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:1bREFTsdI7qr2QAzDRvVER"
+            },
+            "played_at": "2026-03-04T14:21:59.162Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 188697,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2zsH7FWkymzJjSu3Zr5d27"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2zsH7FWkymzJjSu3Zr5d27",
+                "id": "2zsH7FWkymzJjSu3Zr5d27",
+                "is_local": false,
+                "name": "Still Frozen",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:2zsH7FWkymzJjSu3Zr5d27"
+            },
+            "played_at": "2026-03-04T14:19:13.029Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214828,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0Sl2RH16AV2ThOmO0Bl6H9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0Sl2RH16AV2ThOmO0Bl6H9",
+                "id": "0Sl2RH16AV2ThOmO0Bl6H9",
+                "is_local": false,
+                "name": "Sunrise",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:0Sl2RH16AV2ThOmO0Bl6H9"
+            },
+            "played_at": "2026-03-04T14:16:06.923Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243371,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7gisvfUJ0I8W3aDnqHoEum"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7gisvfUJ0I8W3aDnqHoEum",
+                "id": "7gisvfUJ0I8W3aDnqHoEum",
+                "is_local": false,
+                "name": "Staring at the Sun",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7gisvfUJ0I8W3aDnqHoEum"
+            },
+            "played_at": "2026-03-04T14:12:29.125Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                            "id": "3k9WgzHiUobiS8ge4dQX9R",
+                            "name": "Hotel Fiction",
+                            "type": "artist",
+                            "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                    "id": "6R5QYecSxnAP9pqN8Gj2WL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf8f2d624d21c03a634c1f53",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf8f2d624d21c03a634c1f53",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf8f2d624d21c03a634c1f53",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Staring at the Sun (Deluxe Edition)",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3k9WgzHiUobiS8ge4dQX9R",
+                        "id": "3k9WgzHiUobiS8ge4dQX9R",
+                        "name": "Hotel Fiction",
+                        "type": "artist",
+                        "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231819,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01KjQdVew0izTMG3EkgiqT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01KjQdVew0izTMG3EkgiqT",
+                "id": "01KjQdVew0izTMG3EkgiqT",
+                "is_local": false,
+                "name": "Ghost of Me",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:01KjQdVew0izTMG3EkgiqT"
+            },
+            "played_at": "2026-03-04T14:08:26.151Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6R5QYecSxnAP9pqN8Gj2WL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6R5QYecSxnAP9pqN8Gj2WL",
+                "type": "album",
+                "uri": "spotify:album:6R5QYecSxnAP9pqN8Gj2WL"
+            }
         }
     ]
 }
