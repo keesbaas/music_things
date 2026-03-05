@@ -115,6 +115,11 @@ summary = sorted(
 with open("artist_30day_summary.json", "w") as f:
     json.dump(summary, f, indent=4)
 
+total_minutes_30day = sum(artist_minutes.values())
+
+with open("minutes30day.json", "w") as f:
+    json.dump(total_minutes_30day, f, indent=4)
+
 print(f"Updated 30-day summary with {len(summary)} artists.")
 
 
@@ -141,5 +146,10 @@ summary_alltime = sorted(
 # Save summary
 with open("artist_alltime_summary.json", "w") as f:
     json.dump(summary_alltime, f, indent=4)
+
+total_minutes_alltime = sum(artist_minutes_alltime.values())
+
+with open("alltime_minutes.json", "w") as f:
+    json.dump(total_minutes_alltime, f, indent=4)
 
 print(f"Updated all-time summary with {len(summary_alltime)} artists.")
