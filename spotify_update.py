@@ -116,3 +116,30 @@ with open("artist_30day_summary.json", "w") as f:
     json.dump(summary, f, indent=4)
 
 print(f"Updated 30-day summary with {len(summary)} artists.")
+
+
+# --- Step 9: Build all-time artist summary ---
+
+artist_minutes_alltime = {}
+
+for item in all_history:
+
+    duration_ms = item["track"]["duration_ms"]
+    minutes = duration_ms / 60000
+
+    for artist in item["track"]["artists"]:
+        name = artist["name"]
+        artist_minutes_alltime[name] = artist_minutes_alltime.get(name, 0) + minutes
+
+# Convert to sorted list
+summary_alltime = sorted(
+    [{"artist": k, "minutes": round(v, 2)} for k, v in artist_minutes_alltime.items()],
+    key=lambda x: x["minutes"],
+    reverse=True
+)
+
+# Save summary
+with open("artist_alltime_summary.json", "w") as f:
+    json.dump(summary_alltime, f, indent=4)
+
+print(f"Updated all-time summary with {len(summary_alltime)} artists.")
