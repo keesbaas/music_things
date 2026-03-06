@@ -20442,6 +20442,1574 @@
                 "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
                 "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178241,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/05tlCdqn3w4YJmfEGcvf4D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/05tlCdqn3w4YJmfEGcvf4D",
+                "id": "05tlCdqn3w4YJmfEGcvf4D",
+                "is_local": false,
+                "name": "Girl's Girl",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:05tlCdqn3w4YJmfEGcvf4D"
+            },
+            "played_at": "2026-03-06T16:52:15.836Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 158696,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4aKU1BXDUSvikjLdFcPH1g"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4aKU1BXDUSvikjLdFcPH1g",
+                "id": "4aKU1BXDUSvikjLdFcPH1g",
+                "is_local": false,
+                "name": "Pretty Ugly",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4aKU1BXDUSvikjLdFcPH1g"
+            },
+            "played_at": "2026-03-06T16:49:16.599Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182055,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2yASo8VKTM1Xpj9Wi5I0Fj",
+                "id": "2yASo8VKTM1Xpj9Wi5I0Fj",
+                "is_local": false,
+                "name": "Blue Moon",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2yASo8VKTM1Xpj9Wi5I0Fj"
+            },
+            "played_at": "2026-03-06T16:46:38.256Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189898,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1qRV1dKLOfH1s00b9J2LUQ",
+                "id": "1qRV1dKLOfH1s00b9J2LUQ",
+                "is_local": false,
+                "name": "Midnight Sun",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1qRV1dKLOfH1s00b9J2LUQ"
+            },
+            "played_at": "2026-03-06T16:43:36.007Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/28bHj2enHkHVFLwuWmkwlQ",
+                    "id": "28bHj2enHkHVFLwuWmkwlQ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0223d41bf736920a032e222a78",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485123d41bf736920a032e222a78",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Virgin",
+                    "release_date": "2025-06-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:28bHj2enHkHVFLwuWmkwlQ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 193443,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01U0X0ToQhK0AgvNUdyXQe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01U0X0ToQhK0AgvNUdyXQe",
+                "id": "01U0X0ToQhK0AgvNUdyXQe",
+                "is_local": false,
+                "name": "Hammer",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:01U0X0ToQhK0AgvNUdyXQe"
+            },
+            "played_at": "2026-03-06T16:40:26.111Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/12Lig9oAX9nvpWHft5cHgF",
+                    "id": "12Lig9oAX9nvpWHft5cHgF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851684ecc5bc1b724d0106ad694",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy Some More?",
+                    "release_date": "2025-10-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 31,
+                    "type": "album",
+                    "uri": "spotify:album:12Lig9oAX9nvpWHft5cHgF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 184761,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1DwscornXpj8fmOmYVlqZt",
+                "id": "1DwscornXpj8fmOmYVlqZt",
+                "is_local": false,
+                "name": "Stateside + Zara Larsson",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1DwscornXpj8fmOmYVlqZt"
+            },
+            "played_at": "2026-03-06T16:37:11.774Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 154213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6POxiQbr5dFg2gU68yh4NK",
+                "id": "6POxiQbr5dFg2gU68yh4NK",
+                "is_local": false,
+                "name": "Romeo",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:6POxiQbr5dFg2gU68yh4NK"
+            },
+            "played_at": "2026-03-06T16:34:06.618Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5UBfLYnkImP1RKMMy4TGs8",
+                "id": "5UBfLYnkImP1RKMMy4TGs8",
+                "is_local": false,
+                "name": "Stateside",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5UBfLYnkImP1RKMMy4TGs8"
+            },
+            "played_at": "2026-03-06T16:31:33.294Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170466,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/39BYU2nLFR8Q1RcPdVvUMn",
+                "id": "39BYU2nLFR8Q1RcPdVvUMn",
+                "is_local": false,
+                "name": "Nice to Know You",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:39BYU2nLFR8Q1RcPdVvUMn"
+            },
+            "played_at": "2026-03-06T16:28:44.894Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 104813,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dTyQ8CON5t5jreYf2GRhA",
+                "id": "3dTyQ8CON5t5jreYf2GRhA",
+                "is_local": false,
+                "name": "Noises",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:3dTyQ8CON5t5jreYf2GRhA"
+            },
+            "played_at": "2026-03-06T16:25:53.812Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 24360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6nlIvHKnWYZ1cEZBEANp5V"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6nlIvHKnWYZ1cEZBEANp5V",
+                "id": "6nlIvHKnWYZ1cEZBEANp5V",
+                "is_local": false,
+                "name": "Intermission",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6nlIvHKnWYZ1cEZBEANp5V"
+            },
+            "played_at": "2026-03-06T16:24:12.586Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 141866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ZzHRRPxUmNVr4vWNnlDAe",
+                "id": "0ZzHRRPxUmNVr4vWNnlDAe",
+                "is_local": false,
+                "name": "Stars",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:0ZzHRRPxUmNVr4vWNnlDAe"
+            },
+            "played_at": "2026-03-06T16:23:44.461Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 174880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5QCfOMH5K7bS4dH7H7PNeI",
+                "id": "5QCfOMH5K7bS4dH7H7PNeI",
+                "is_local": false,
+                "name": "Tonight",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5QCfOMH5K7bS4dH7H7PNeI"
+            },
+            "played_at": "2026-03-06T16:21:23.511Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 145520,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7aYGCP34Xo6XujY7Ix1DxB",
+                "id": "7aYGCP34Xo6XujY7Ix1DxB",
+                "is_local": false,
+                "name": "Girl Like Me",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7aYGCP34Xo6XujY7Ix1DxB"
+            },
+            "played_at": "2026-03-06T16:18:30.755Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                            "id": "78rUTD7y6Cy67W1RVzYs7t",
+                            "name": "PinkPantheress",
+                            "type": "artist",
+                            "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                    "id": "3o81FH5FTYVtoBQOZr3T7y",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022a6a5bd7ec690d91a384245d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512a6a5bd7ec690d91a384245d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fancy That",
+                    "release_date": "2025-05-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+                        "id": "78rUTD7y6Cy67W1RVzYs7t",
+                        "name": "PinkPantheress",
+                        "type": "artist",
+                        "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 149666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1WmBVbFmLt0w6zPP37TeCG",
+                "id": "1WmBVbFmLt0w6zPP37TeCG",
+                "is_local": false,
+                "name": "Illegal",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG"
+            },
+            "played_at": "2026-03-06T16:16:02.597Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+                },
+                "href": "https://api.spotify.com/v1/albums/3o81FH5FTYVtoBQOZr3T7y",
+                "uri": "spotify:album:3o81FH5FTYVtoBQOZr3T7y"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                            "id": "163tK9Wjr9P9DmM0AVK7lm",
+                            "name": "Lorde",
+                            "type": "artist",
+                            "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0rmhjUgoVa17LZuS8xWQ3v",
+                    "id": "0rmhjUgoVa17LZuS8xWQ3v",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pure Heroine",
+                    "release_date": "2013-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+                        "id": "163tK9Wjr9P9DmM0AVK7lm",
+                        "name": "Lorde",
+                        "type": "artist",
+                        "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234286,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6rjtB7KSIiJ6v9vrACMlqF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6rjtB7KSIiJ6v9vrACMlqF",
+                "id": "6rjtB7KSIiJ6v9vrACMlqF",
+                "is_local": false,
+                "name": "400 Lux",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6rjtB7KSIiJ6v9vrACMlqF"
+            },
+            "played_at": "2026-03-06T16:10:54.926Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4ohh1zQ4yybSK9FS7LLyDE",
+                    "id": "4ohh1zQ4yybSK9FS7LLyDE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025fd9e21618182df7d70b2186",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515fd9e21618182df7d70b2186",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Dance Fever",
+                    "release_date": "2022-05-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:4ohh1zQ4yybSK9FS7LLyDE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 280130,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/31ABtQJdfloNaGz7ZhXaN5",
+                "id": "31ABtQJdfloNaGz7ZhXaN5",
+                "is_local": false,
+                "name": "King",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:31ABtQJdfloNaGz7ZhXaN5"
+            },
+            "played_at": "2026-03-06T16:07:01.095Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 170211,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
+                },
+                "href": "https://api.spotify.com/v1/tracks/77qLAmRzMPetmXywybpH15",
+                "id": "77qLAmRzMPetmXywybpH15",
+                "is_local": false,
+                "name": "Chains of Love",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:77qLAmRzMPetmXywybpH15"
+            },
+            "played_at": "2026-03-06T16:02:19.767Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263936,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2yuKbNMCQ8Oo6KWWZvUCoV",
+                "id": "2yuKbNMCQ8Oo6KWWZvUCoV",
+                "is_local": false,
+                "name": "Witch Dance",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2yuKbNMCQ8Oo6KWWZvUCoV"
+            },
+            "played_at": "2026-03-06T15:59:15.714Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
         }
     ]
 }
