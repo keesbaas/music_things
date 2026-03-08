@@ -25802,6 +25802,498 @@
                 "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
                 "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159058,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1MqqCX67EWjbYn6pUjMGxQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1MqqCX67EWjbYn6pUjMGxQ",
+                "id": "1MqqCX67EWjbYn6pUjMGxQ",
+                "is_local": false,
+                "name": "Water & Wanderlust",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:1MqqCX67EWjbYn6pUjMGxQ"
+            },
+            "played_at": "2026-03-08T19:00:02.319Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 26201,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3BoNfAvCEFp0NSAXzfS0ZZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3BoNfAvCEFp0NSAXzfS0ZZ",
+                "id": "3BoNfAvCEFp0NSAXzfS0ZZ",
+                "is_local": false,
+                "name": "Interlude 2",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:3BoNfAvCEFp0NSAXzfS0ZZ"
+            },
+            "played_at": "2026-03-08T18:57:09.782Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220031,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4zT04kSepk64CVhDscLzf2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4zT04kSepk64CVhDscLzf2",
+                "id": "4zT04kSepk64CVhDscLzf2",
+                "is_local": false,
+                "name": "Different Light",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:4zT04kSepk64CVhDscLzf2"
+            },
+            "played_at": "2026-03-08T18:56:36.207Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242299,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2SoSmO0BnfzRKJlbS2lFpI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2SoSmO0BnfzRKJlbS2lFpI",
+                "id": "2SoSmO0BnfzRKJlbS2lFpI",
+                "is_local": false,
+                "name": "Seven Years",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:2SoSmO0BnfzRKJlbS2lFpI"
+            },
+            "played_at": "2026-03-08T18:52:50.988Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 17044,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4xzgBouvNaG3LhXzuBu2gy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4xzgBouvNaG3LhXzuBu2gy",
+                "id": "4xzgBouvNaG3LhXzuBu2gy",
+                "is_local": false,
+                "name": "Interlude 1",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:4xzgBouvNaG3LhXzuBu2gy"
+            },
+            "played_at": "2026-03-08T18:49:08.409Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 288766,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/66mklD0K1sx5jlIP0F2w6a"
+                },
+                "href": "https://api.spotify.com/v1/tracks/66mklD0K1sx5jlIP0F2w6a",
+                "id": "66mklD0K1sx5jlIP0F2w6a",
+                "is_local": false,
+                "name": "Waterfall",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:66mklD0K1sx5jlIP0F2w6a"
+            },
+            "played_at": "2026-03-08T18:48:31.162Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                },
+                "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+            }
         }
     ]
 }
