@@ -28282,6 +28282,2138 @@
                 },
                 "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178146,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4ZtFanR9U6ndgddUvNcjcG",
+                "id": "4ZtFanR9U6ndgddUvNcjcG",
+                "is_local": false,
+                "name": "good 4 u",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG"
+            },
+            "played_at": "2026-03-09T14:59:22.756Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215506,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6HU7h9RYOaPRFeh0R3UeAr",
+                "id": "6HU7h9RYOaPRFeh0R3UeAr",
+                "is_local": false,
+                "name": "deja vu",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6HU7h9RYOaPRFeh0R3UeAr"
+            },
+            "played_at": "2026-03-09T14:56:24.101Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 163586,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4wcBRRpIfesgcyUtis7PEg",
+                "id": "4wcBRRpIfesgcyUtis7PEg",
+                "is_local": false,
+                "name": "1 step forward, 3 steps back",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:4wcBRRpIfesgcyUtis7PEg"
+            },
+            "played_at": "2026-03-09T14:52:48.476Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6ws5XBA70XgeBpnLZhQBoy",
+                            "id": "6ws5XBA70XgeBpnLZhQBoy",
+                            "name": "The Beaches",
+                            "type": "artist",
+                            "uri": "spotify:artist:6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/21s176tybfcUTuxBp0UdCV",
+                    "id": "21s176tybfcUTuxBp0UdCV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf8584674f33fbe87af5525",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf8584674f33fbe87af5525",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf8584674f33fbe87af5525",
+                            "width": 64
+                        }
+                    ],
+                    "name": "I Ran (So Far Away)",
+                    "release_date": "2026-01-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:21s176tybfcUTuxBp0UdCV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ws5XBA70XgeBpnLZhQBoy",
+                        "id": "6ws5XBA70XgeBpnLZhQBoy",
+                        "name": "The Beaches",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ws5XBA70XgeBpnLZhQBoy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 211031,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tFcYLM3T3PWy0SsGHwOkv",
+                "id": "2tFcYLM3T3PWy0SsGHwOkv",
+                "is_local": false,
+                "name": "I Ran (So Far Away)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2tFcYLM3T3PWy0SsGHwOkv"
+            },
+            "played_at": "2026-03-09T14:50:04.822Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6QE08doGmrNOROa5TWnVnG",
+                            "id": "6QE08doGmrNOROa5TWnVnG",
+                            "name": "Serena Sun",
+                            "type": "artist",
+                            "uri": "spotify:artist:6QE08doGmrNOROa5TWnVnG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7umIYcyuYv5UWhgRbiZrAu"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7umIYcyuYv5UWhgRbiZrAu",
+                    "id": "7umIYcyuYv5UWhgRbiZrAu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730bb8bc4eb66dfb33233121c7",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020bb8bc4eb66dfb33233121c7",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510bb8bc4eb66dfb33233121c7",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Bullet Train",
+                    "release_date": "2026-02-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:7umIYcyuYv5UWhgRbiZrAu"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6QE08doGmrNOROa5TWnVnG",
+                        "id": "6QE08doGmrNOROa5TWnVnG",
+                        "name": "Serena Sun",
+                        "type": "artist",
+                        "uri": "spotify:artist:6QE08doGmrNOROa5TWnVnG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02SSkOjwdt9ofPmA12SQX4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02SSkOjwdt9ofPmA12SQX4",
+                "id": "02SSkOjwdt9ofPmA12SQX4",
+                "is_local": false,
+                "name": "Bullet Train",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:02SSkOjwdt9ofPmA12SQX4"
+            },
+            "played_at": "2026-03-09T14:46:32.822Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+                            "id": "2uYWxilOVlUdk4oV9DvwqK",
+                            "name": "Mitski",
+                            "type": "artist",
+                            "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2M9F3AsbWy7n4LwmJ8pqEu",
+                    "id": "2M9F3AsbWy7n4LwmJ8pqEu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273be1cdc30c83c5822adac15a9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02be1cdc30c83c5822adac15a9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851be1cdc30c83c5822adac15a9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Nothing's About to Happen to Me",
+                    "release_date": "2026-02-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2M9F3AsbWy7n4LwmJ8pqEu"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+                        "id": "2uYWxilOVlUdk4oV9DvwqK",
+                        "name": "Mitski",
+                        "type": "artist",
+                        "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4ECTsM0K6zXUiF0pYlRFBq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4ECTsM0K6zXUiF0pYlRFBq",
+                "id": "4ECTsM0K6zXUiF0pYlRFBq",
+                "is_local": false,
+                "name": "That White Cat",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:4ECTsM0K6zXUiF0pYlRFBq"
+            },
+            "played_at": "2026-03-09T14:42:49.992Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228118,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2mZ9JAETzlRSQxcSubvyOd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2mZ9JAETzlRSQxcSubvyOd",
+                "id": "2mZ9JAETzlRSQxcSubvyOd",
+                "is_local": false,
+                "name": "Puss Puss",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2mZ9JAETzlRSQxcSubvyOd"
+            },
+            "played_at": "2026-03-09T14:39:37.759Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4l3MfSQrxCWfUYUyE2sMy6",
+                "id": "4l3MfSQrxCWfUYUyE2sMy6",
+                "is_local": false,
+                "name": "Yellow Eyes",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4l3MfSQrxCWfUYUyE2sMy6"
+            },
+            "played_at": "2026-03-09T14:35:48.722Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242013,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5wANPM4fQCJwkGd4rN57mH",
+                "id": "5wANPM4fQCJwkGd4rN57mH",
+                "is_local": false,
+                "name": "drivers license",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5wANPM4fQCJwkGd4rN57mH"
+            },
+            "played_at": "2026-03-09T14:33:06.048Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 229226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT",
+                "id": "5CZ40GBx1sQ9agT82CLQCT",
+                "is_local": false,
+                "name": "traitor",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5CZ40GBx1sQ9agT82CLQCT"
+            },
+            "played_at": "2026-03-09T14:29:04.815Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                    "id": "6s84u2TUpR3wdUv4NgKA2j",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "SOUR",
+                    "release_date": "2021-05-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 143746,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6SRsiMl7w1USE4mFqrOhHC",
+                "id": "6SRsiMl7w1USE4mFqrOhHC",
+                "is_local": false,
+                "name": "brutal",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6SRsiMl7w1USE4mFqrOhHC"
+            },
+            "played_at": "2026-03-09T14:25:13.057Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                            "id": "7GlBOeep6PqTfFi59PTUUN",
+                            "name": "Chappell Roan",
+                            "type": "artist",
+                            "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0EiI8ylL0FmWWpgHVTsZjZ",
+                    "id": "0EiI8ylL0FmWWpgHVTsZjZ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rise and Fall of a Midwest Princess",
+                    "release_date": "2023-09-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:0EiI8ylL0FmWWpgHVTsZjZ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                        "id": "7GlBOeep6PqTfFi59PTUUN",
+                        "name": "Chappell Roan",
+                        "type": "artist",
+                        "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 192720,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FOgcfdz9Nx5V9lCNXdBYv",
+                "id": "7FOgcfdz9Nx5V9lCNXdBYv",
+                "is_local": false,
+                "name": "Red Wine Supernova",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7FOgcfdz9Nx5V9lCNXdBYv"
+            },
+            "played_at": "2026-03-09T14:21:56.992Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+                    "id": "5r36AJ6VOJtp00oxSkBZ5h",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485182ce362511fb3d9dda6578ee",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Harry's House",
+                    "release_date": "2022-05-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167303,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4Dvkj6JhhA12EX05fT7y2e",
+                "id": "4Dvkj6JhhA12EX05fT7y2e",
+                "is_local": false,
+                "name": "As It Was",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:4Dvkj6JhhA12EX05fT7y2e"
+            },
+            "played_at": "2026-03-09T14:18:43.643Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 253653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3QuRLv8zkIYH31O5VgEpmo",
+                "id": "3QuRLv8zkIYH31O5VgEpmo",
+                "is_local": false,
+                "name": "Carla's Song",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:3QuRLv8zkIYH31O5VgEpmo"
+            },
+            "played_at": "2026-03-09T14:15:56.056Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 147013,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/56k68P3bFQvnKw89hizJFZ",
+                "id": "56k68P3bFQvnKw89hizJFZ",
+                "is_local": false,
+                "name": "Paint By Numbers",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:56k68P3bFQvnKw89hizJFZ"
+            },
+            "played_at": "2026-03-09T14:11:42.072Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0VV0AMmgLBUhzuFedr3F3e",
+                "id": "0VV0AMmgLBUhzuFedr3F3e",
+                "is_local": false,
+                "name": "Dance No More",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:0VV0AMmgLBUhzuFedr3F3e"
+            },
+            "played_at": "2026-03-09T14:09:14.875Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 216026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/028i7HBfp8uE5epmx5ieMA",
+                "id": "028i7HBfp8uE5epmx5ieMA",
+                "is_local": false,
+                "name": "Pop",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:028i7HBfp8uE5epmx5ieMA"
+            },
+            "played_at": "2026-03-09T14:06:00.545Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 248866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0QPdjsMOUhwouq1NS3HwfQ",
+                "id": "0QPdjsMOUhwouq1NS3HwfQ",
+                "is_local": false,
+                "name": "Coming Up Roses",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0QPdjsMOUhwouq1NS3HwfQ"
+            },
+            "played_at": "2026-03-09T14:02:24.180Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 229560,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6GteP2UCnpHRWSZTL63QHe",
+                "id": "6GteP2UCnpHRWSZTL63QHe",
+                "is_local": false,
+                "name": "Season 2 Weight Loss",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:6GteP2UCnpHRWSZTL63QHe"
+            },
+            "played_at": "2026-03-09T13:58:15.856Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 169960,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0tV6LXuVzJR4yifqwQuNwN",
+                "id": "0tV6LXuVzJR4yifqwQuNwN",
+                "is_local": false,
+                "name": "The Waiting Game",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0tV6LXuVzJR4yifqwQuNwN"
+            },
+            "played_at": "2026-03-09T13:54:26.427Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221653,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3xClevycpBON8bkyxFbAna",
+                "id": "3xClevycpBON8bkyxFbAna",
+                "is_local": false,
+                "name": "Taste Back",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3xClevycpBON8bkyxFbAna"
+            },
+            "played_at": "2026-03-09T13:51:36.403Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 192400,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7s7v5EoNLD6TwDu4Nw51Oy",
+                "id": "7s7v5EoNLD6TwDu4Nw51Oy",
+                "is_local": false,
+                "name": "Are You Listening Yet?",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:7s7v5EoNLD6TwDu4Nw51Oy"
+            },
+            "played_at": "2026-03-09T13:44:56.043Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160400,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0i4qKfuKJ3juUsEwnJAxk3",
+                "id": "0i4qKfuKJ3juUsEwnJAxk3",
+                "is_local": false,
+                "name": "Ready, Steady, Go!",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:0i4qKfuKJ3juUsEwnJAxk3"
+            },
+            "played_at": "2026-03-09T13:41:43.580Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7gtG45ieyQzKtNKobfLd49",
+                "id": "7gtG45ieyQzKtNKobfLd49",
+                "is_local": false,
+                "name": "American Girls",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7gtG45ieyQzKtNKobfLd49"
+            },
+            "played_at": "2026-03-09T13:39:03.225Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                            "id": "6KImCVD70vtIoJWnq6nGn3",
+                            "name": "Harry Styles",
+                            "type": "artist",
+                            "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                    "id": "69BqE1V8Bzb9GCyeP1fFeR",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485174959140f550b11049c18a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Kiss All The Time. Disco, Occasionally.",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+                        "id": "6KImCVD70vtIoJWnq6nGn3",
+                        "name": "Harry Styles",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 311733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1sA1DhT0bLyeICf8NalPS7",
+                "id": "1sA1DhT0bLyeICf8NalPS7",
+                "is_local": false,
+                "name": "Aperture",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1sA1DhT0bLyeICf8NalPS7"
+            },
+            "played_at": "2026-03-09T13:35:30.374Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+                },
+                "href": "https://api.spotify.com/v1/albums/69BqE1V8Bzb9GCyeP1fFeR",
+                "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                            "id": "7GlBOeep6PqTfFi59PTUUN",
+                            "name": "Chappell Roan",
+                            "type": "artist",
+                            "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1WAjjRMfZjEXtB0lQrAw6Q",
+                    "id": "1WAjjRMfZjEXtB0lQrAw6Q",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0291b4bc7c88d91a42e0f3a8b7",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485191b4bc7c88d91a42e0f3a8b7",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Good Luck, Babe!",
+                    "release_date": "2024-04-05",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:1WAjjRMfZjEXtB0lQrAw6Q"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+                        "id": "7GlBOeep6PqTfFi59PTUUN",
+                        "name": "Chappell Roan",
+                        "type": "artist",
+                        "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 218423,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0WbMK4wrZ1wFSty9F7FCgu",
+                "id": "0WbMK4wrZ1wFSty9F7FCgu",
+                "is_local": false,
+                "name": "Good Luck, Babe!",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu"
+            },
+            "played_at": "2026-03-09T13:30:24.032Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+                },
+                "href": "https://api.spotify.com/v1/albums/6s84u2TUpR3wdUv4NgKA2j",
+                "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+            }
         }
     ]
 }
