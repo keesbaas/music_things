@@ -42626,6 +42626,88 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                            "id": "1Xylc3o4UrD53lo9CvFvVg",
+                            "name": "Zara Larsson",
+                            "type": "artist",
+                            "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IdHrETl3jsOYQRsF0nV16",
+                    "id": "2IdHrETl3jsOYQRsF0nV16",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027657f9028ea8bb2c18dca99f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517657f9028ea8bb2c18dca99f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Midnight Sun",
+                    "release_date": "2025-09-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2IdHrETl3jsOYQRsF0nV16"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
+                        "id": "1Xylc3o4UrD53lo9CvFvVg",
+                        "name": "Zara Larsson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228118,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2mZ9JAETzlRSQxcSubvyOd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2mZ9JAETzlRSQxcSubvyOd",
+                "id": "2mZ9JAETzlRSQxcSubvyOd",
+                "is_local": false,
+                "name": "Puss Puss",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2mZ9JAETzlRSQxcSubvyOd"
+            },
+            "played_at": "2026-03-11T23:09:27.402Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
