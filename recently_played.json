@@ -84519,6 +84519,252 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236838,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4pteEcX2rHSJXK8XSOtWP8",
+                "id": "4pteEcX2rHSJXK8XSOtWP8",
+                "is_local": false,
+                "name": "To Love",
+                "preview_url": null,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:4pteEcX2rHSJXK8XSOtWP8"
+            },
+            "played_at": "2026-03-12T01:05:54.666Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5WF5jtgP0H31QTl5g4WxW9",
+                            "id": "5WF5jtgP0H31QTl5g4WxW9",
+                            "name": "New Constellations",
+                            "type": "artist",
+                            "uri": "spotify:artist:5WF5jtgP0H31QTl5g4WxW9"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Z9Gg42ig4pnlIx30SBmbO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Z9Gg42ig4pnlIx30SBmbO",
+                    "id": "5Z9Gg42ig4pnlIx30SBmbO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d905b5c46856ade533121758",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d905b5c46856ade533121758",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d905b5c46856ade533121758",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Hot Blooded",
+                    "release_date": "2021-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5Z9Gg42ig4pnlIx30SBmbO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5WF5jtgP0H31QTl5g4WxW9",
+                        "id": "5WF5jtgP0H31QTl5g4WxW9",
+                        "name": "New Constellations",
+                        "type": "artist",
+                        "uri": "spotify:artist:5WF5jtgP0H31QTl5g4WxW9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 287000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1ElySIlHwm1HX7sUjAZZnp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1ElySIlHwm1HX7sUjAZZnp",
+                "id": "1ElySIlHwm1HX7sUjAZZnp",
+                "is_local": false,
+                "name": "Hot Blooded",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1ElySIlHwm1HX7sUjAZZnp"
+            },
+            "played_at": "2026-03-12T01:01:57.257Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4l3MfSQrxCWfUYUyE2sMy6",
+                "id": "4l3MfSQrxCWfUYUyE2sMy6",
+                "is_local": false,
+                "name": "Yellow Eyes",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4l3MfSQrxCWfUYUyE2sMy6"
+            },
+            "played_at": "2026-03-12T00:40:53.048Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
         }
     ]
 }
