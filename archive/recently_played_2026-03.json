@@ -59867,6 +59867,1072 @@
                 "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
                 "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3lqdTaCuOt2ekHKUxrC5nd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3lqdTaCuOt2ekHKUxrC5nd",
+                "id": "3lqdTaCuOt2ekHKUxrC5nd",
+                "is_local": false,
+                "name": "She Likes Me",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:3lqdTaCuOt2ekHKUxrC5nd"
+            },
+            "played_at": "2026-03-23T13:40:30.682Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 62800,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7htB9eFKsOnpe7OOHGHucU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7htB9eFKsOnpe7OOHGHucU",
+                "id": "7htB9eFKsOnpe7OOHGHucU",
+                "is_local": false,
+                "name": "The Girls Interlude",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:7htB9eFKsOnpe7OOHGHucU"
+            },
+            "played_at": "2026-03-23T13:37:43.753Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 156746,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3zceMQ9BQHq2AR3kpHDndN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3zceMQ9BQHq2AR3kpHDndN",
+                "id": "3zceMQ9BQHq2AR3kpHDndN",
+                "is_local": false,
+                "name": "You Got Me",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3zceMQ9BQHq2AR3kpHDndN"
+            },
+            "played_at": "2026-03-23T13:36:42.084Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165320,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/78GOtQinRVwOKCL5WhG4bV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/78GOtQinRVwOKCL5WhG4bV",
+                "id": "78GOtQinRVwOKCL5WhG4bV",
+                "is_local": false,
+                "name": "Gold Star Baby",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:78GOtQinRVwOKCL5WhG4bV"
+            },
+            "played_at": "2026-03-23T13:34:05.366Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223533,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2ZHwkKt3tqVsmbx0RuNvBp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2ZHwkKt3tqVsmbx0RuNvBp",
+                "id": "2ZHwkKt3tqVsmbx0RuNvBp",
+                "is_local": false,
+                "name": "The Magic",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2ZHwkKt3tqVsmbx0RuNvBp"
+            },
+            "played_at": "2026-03-23T13:31:19.353Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 145866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2mibYkCKWdTPw3GBzYH1Fd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2mibYkCKWdTPw3GBzYH1Fd",
+                "id": "2mibYkCKWdTPw3GBzYH1Fd",
+                "is_local": false,
+                "name": "Jealous",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:2mibYkCKWdTPw3GBzYH1Fd"
+            },
+            "played_at": "2026-03-23T13:27:35.833Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                            "id": "2AmfMGi3WZMxqFDHissIAe",
+                            "name": "The Aces",
+                            "type": "artist",
+                            "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08a8HQzyrjbt7qiWWV43iT",
+                    "id": "08a8HQzyrjbt7qiWWV43iT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273449af17c3d08774b83bc2595",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02449af17c3d08774b83bc2595",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851449af17c3d08774b83bc2595",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Gold Star Baby: After Hours",
+                    "release_date": "2026-03-20",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:08a8HQzyrjbt7qiWWV43iT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2AmfMGi3WZMxqFDHissIAe",
+                        "id": "2AmfMGi3WZMxqFDHissIAe",
+                        "name": "The Aces",
+                        "type": "artist",
+                        "uri": "spotify:artist:2AmfMGi3WZMxqFDHissIAe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 66000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2oNtNtr4xvaS5OprdkO88z"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2oNtNtr4xvaS5OprdkO88z",
+                "id": "2oNtNtr4xvaS5OprdkO88z",
+                "is_local": false,
+                "name": "Welcome to Gold Star Baby",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2oNtNtr4xvaS5OprdkO88z"
+            },
+            "played_at": "2026-03-23T13:25:09.626Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203259,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0JAaTG7sEjukCjC8X58puq",
+                "id": "0JAaTG7sEjukCjC8X58puq",
+                "is_local": false,
+                "name": "Buckle",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0JAaTG7sEjukCjC8X58puq"
+            },
+            "played_at": "2026-03-23T13:24:03.539Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 139504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/48T5DvWKHvVuGyNUPBUX05"
+                },
+                "href": "https://api.spotify.com/v1/tracks/48T5DvWKHvVuGyNUPBUX05",
+                "id": "48T5DvWKHvVuGyNUPBUX05",
+                "is_local": false,
+                "name": "Out of Myself",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:48T5DvWKHvVuGyNUPBUX05"
+            },
+            "played_at": "2026-03-23T13:20:39.960Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                            "id": "2EXpthNgSeTDeX8nGwxppp",
+                            "name": "Paris Paloma",
+                            "type": "artist",
+                            "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6iotK7DPiIqhu707ysxYpH",
+                    "id": "6iotK7DPiIqhu707ysxYpH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27338c7e52477eeebf6b6dbb15c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0238c7e52477eeebf6b6dbb15c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485138c7e52477eeebf6b6dbb15c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Cacophony",
+                    "release_date": "2024-08-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:6iotK7DPiIqhu707ysxYpH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EXpthNgSeTDeX8nGwxppp",
+                        "id": "2EXpthNgSeTDeX8nGwxppp",
+                        "name": "Paris Paloma",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237744,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0e00DiF2T9znEdmWakYSC3",
+                "id": "0e00DiF2T9znEdmWakYSC3",
+                "is_local": false,
+                "name": "labour",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0e00DiF2T9znEdmWakYSC3"
+            },
+            "played_at": "2026-03-23T13:18:20.142Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
+                    "id": "0z7l9VEJyFMv8p8wffRDaF",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306272cebe18d71e7e4629a38",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206272cebe18d71e7e4629a38",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485106272cebe18d71e7e4629a38",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Everybody Scream",
+                    "release_date": "2025-10-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268886,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6ExwNwWLXvvKr5hk6lkHUY",
+                "id": "6ExwNwWLXvvKr5hk6lkHUY",
+                "is_local": false,
+                "name": "Sympathy Magic",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6ExwNwWLXvvKr5hk6lkHUY"
+            },
+            "played_at": "2026-03-23T13:14:22.025Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4oniyB3TRFhjglVSqVgy9e",
+                    "id": "4oniyB3TRFhjglVSqVgy9e",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025048960108f204f627b294b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515048960108f204f627b294b4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wuthering Heights",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4oniyB3TRFhjglVSqVgy9e"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 150042,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/41UuruzhR2WLb917UbbcqS",
+                "id": "41UuruzhR2WLb917UbbcqS",
+                "is_local": false,
+                "name": "Seeing Things",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:41UuruzhR2WLb917UbbcqS"
+            },
+            "played_at": "2026-03-23T13:09:52.060Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3301RcTD5GOZcU7AUmG13G"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3301RcTD5GOZcU7AUmG13G",
+                "uri": "spotify:playlist:3301RcTD5GOZcU7AUmG13G"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                            "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                            "name": "David Bowie",
+                            "type": "artist",
+                            "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6fQElzBNTiEMGdIeY0hy5l",
+                    "id": "6fQElzBNTiEMGdIeY0hy5l",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e464904cc3fed2b40fc55120",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e464904cc3fed2b40fc55120",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Hunky Dory (2015 Remaster)",
+                    "release_date": "1971-12-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:6fQElzBNTiEMGdIeY0hy5l"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                        "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                        "name": "David Bowie",
+                        "type": "artist",
+                        "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 193986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Js4OF5MUb2bqJe09g4uQE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Js4OF5MUb2bqJe09g4uQE",
+                "id": "7Js4OF5MUb2bqJe09g4uQE",
+                "is_local": false,
+                "name": "Oh! You Pretty Things - 2015 Remaster",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7Js4OF5MUb2bqJe09g4uQE"
+            },
+            "played_at": "2026-03-23T13:06:58.896Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
         }
     ]
 }
