@@ -68025,6 +68025,81 @@
             },
             "played_at": "2026-03-24T17:11:38.872Z",
             "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                            "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                            "name": "Holly Humberstone",
+                            "type": "artist",
+                            "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/17XDDX3RYaIu56inOJzAWO",
+                    "id": "17XDDX3RYaIu56inOJzAWO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27316c6a74d37f1ec412d15be61",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0216c6a74d37f1ec412d15be61",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485116c6a74d37f1ec412d15be61",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Can You Afford To Lose Me?",
+                    "release_date": "2022-10-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:17XDDX3RYaIu56inOJzAWO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+                        "id": "0nnYdIpahs41QiZ9MWp5Wx",
+                        "name": "Holly Humberstone",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186568,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1eTD6LXZ233IaiyI5fvtJa"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1eTD6LXZ233IaiyI5fvtJa",
+                "id": "1eTD6LXZ233IaiyI5fvtJa",
+                "is_local": false,
+                "name": "Overkill",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1eTD6LXZ233IaiyI5fvtJa"
+            },
+            "played_at": "2026-03-24T19:16:47.140Z",
+            "context": null
         }
     ]
 }
