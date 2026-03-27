@@ -78269,6 +78269,918 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208543,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0siNev9lCrz3vs8ep4Gh94"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0siNev9lCrz3vs8ep4Gh94",
+                "id": "0siNev9lCrz3vs8ep4Gh94",
+                "is_local": false,
+                "name": "I Hate The Way I Look Today.",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:0siNev9lCrz3vs8ep4Gh94"
+            },
+            "played_at": "2026-03-27T14:18:09.531Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 255639,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7BguGjelfXyHttxhfQVxzr",
+                "id": "7BguGjelfXyHttxhfQVxzr",
+                "is_local": false,
+                "name": "Life Boat.",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:7BguGjelfXyHttxhfQVxzr"
+            },
+            "played_at": "2026-03-27T14:14:43.779Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 377003,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ka0xUb0kho8KMOCuuPOZJ",
+                "id": "0ka0xUb0kho8KMOCuuPOZJ",
+                "is_local": false,
+                "name": "I Know You're Hurting.",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:0ka0xUb0kho8KMOCuuPOZJ"
+            },
+            "played_at": "2026-03-27T14:10:24.420Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                        "id": "0YC192cP3KPCRWx8zr8MfZ",
+                        "name": "Hans Zimmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 301674,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0XOynYFi9hQfIXKnTct9A7",
+                "id": "0XOynYFi9hQfIXKnTct9A7",
+                "is_local": false,
+                "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0XOynYFi9hQfIXKnTct9A7"
+            },
+            "played_at": "2026-03-27T14:04:07.398Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 260070,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/78RbVzmxF51GURFpCNRvz2",
+                "id": "78RbVzmxF51GURFpCNRvz2",
+                "is_local": false,
+                "name": "Winter Woman.",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:78RbVzmxF51GURFpCNRvz2"
+            },
+            "played_at": "2026-03-27T13:59:05.372Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 235511,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/59TbbTEDx5kbwjYOEZ9IT5",
+                "id": "59TbbTEDx5kbwjYOEZ9IT5",
+                "is_local": false,
+                "name": "The WhatsApp Shakespeare.",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:59TbbTEDx5kbwjYOEZ9IT5"
+            },
+            "played_at": "2026-03-27T13:54:45.441Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206122,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/60V50fekMrp2lTges6f28D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/60V50fekMrp2lTges6f28D",
+                "id": "60V50fekMrp2lTges6f28D",
+                "is_local": false,
+                "name": "Beware.. The South London Lover Boy.",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:60V50fekMrp2lTges6f28D"
+            },
+            "played_at": "2026-03-27T13:50:49.749Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 294645,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4VnLKvKQQcWnZagNedFSF9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4VnLKvKQQcWnZagNedFSF9",
+                "id": "4VnLKvKQQcWnZagNedFSF9",
+                "is_local": false,
+                "name": "I Will Overcome.",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4VnLKvKQQcWnZagNedFSF9"
+            },
+            "played_at": "2026-03-27T13:47:23.685Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 73249,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4BQMnvSbKs5yVJHEkc7yUT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4BQMnvSbKs5yVJHEkc7yUT",
+                "id": "4BQMnvSbKs5yVJHEkc7yUT",
+                "is_local": false,
+                "name": "Intro: Girl Under The Grey Cloud.",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4BQMnvSbKs5yVJHEkc7yUT"
+            },
+            "played_at": "2026-03-27T13:42:29.974Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1EIVSAkmhcp3XXsX0BkEce",
+                    "id": "1EIVSAkmhcp3XXsX0BkEce",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c4d3051a86f971a414d8fc4f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c4d3051a86f971a414d8fc4f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c4d3051a86f971a414d8fc4f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Back in Love",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:1EIVSAkmhcp3XXsX0BkEce"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194346,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3eFBPuf0y3Vguk6GUCNpwP",
+                "id": "3eFBPuf0y3Vguk6GUCNpwP",
+                "is_local": false,
+                "name": "Back in Love",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3eFBPuf0y3Vguk6GUCNpwP"
+            },
+            "played_at": "2026-03-27T13:41:03.069Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbwYcN296SA86"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbwYcN296SA86",
+                "uri": "spotify:playlist:37i9dQZEVXbwYcN296SA86"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5ybU1P0ufoGH5CMclUKebd",
+                            "id": "5ybU1P0ufoGH5CMclUKebd",
+                            "name": "Ruby Waters",
+                            "type": "artist",
+                            "uri": "spotify:artist:5ybU1P0ufoGH5CMclUKebd"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7xwPqByltDrgXM4UT0SjeO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7xwPqByltDrgXM4UT0SjeO",
+                    "id": "7xwPqByltDrgXM4UT0SjeO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731cad6a7d543f969b3c970d36",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021cad6a7d543f969b3c970d36",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511cad6a7d543f969b3c970d36",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Almost Naked",
+                    "release_date": "2019-11-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 7,
+                    "type": "album",
+                    "uri": "spotify:album:7xwPqByltDrgXM4UT0SjeO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ybU1P0ufoGH5CMclUKebd",
+                        "id": "5ybU1P0ufoGH5CMclUKebd",
+                        "name": "Ruby Waters",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ybU1P0ufoGH5CMclUKebd"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 200251,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7hUnSCUQDknVpKAnnhejlP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7hUnSCUQDknVpKAnnhejlP",
+                "id": "7hUnSCUQDknVpKAnnhejlP",
+                "is_local": false,
+                "name": "Sweet Sublime",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7hUnSCUQDknVpKAnnhejlP"
+            },
+            "played_at": "2026-03-27T13:37:47.300Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/4uEUACQmrWWMeN4UVFFAQJ?sessionId=1774483200001&mode=enhanced"
+                },
+                "href": "https://api.spotify.com/v1/playlists/4uEUACQmrWWMeN4UVFFAQJ",
+                "uri": "spotify:playlist:4uEUACQmrWWMeN4UVFFAQJ"
+            }
         }
     ]
 }
