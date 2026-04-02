@@ -9955,6 +9955,938 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:4uEUACQmrWWMeN4UVFFAQJ"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                            "id": "3dRfiJ2650SZu6GbydcHNb",
+                            "name": "John Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6zeHM5CV0CjcS0K8ouWE4N",
+                    "id": "6zeHM5CV0CjcS0K8ouWE4N",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0213f982aa5c43146c3d2c1964",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485113f982aa5c43146c3d2c1964",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+                    "release_date": "2001-10-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 19,
+                    "type": "album",
+                    "uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                        "id": "3dRfiJ2650SZu6GbydcHNb",
+                        "name": "John Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 309093,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1n8NKQRg8LVHy7oUhUgbFF",
+                "id": "1n8NKQRg8LVHy7oUhUgbFF",
+                "is_local": false,
+                "name": "Hedwig's Theme",
+                "preview_url": null,
+                "track_number": 19,
+                "type": "track",
+                "uri": "spotify:track:1n8NKQRg8LVHy7oUhUgbFF"
+            },
+            "played_at": "2026-04-02T17:03:21.726Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0OcclcP5o8VKH2TRqSY2A7",
+                            "id": "0OcclcP5o8VKH2TRqSY2A7",
+                            "name": "Howard Shore",
+                            "type": "artist",
+                            "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2Re6RMBEfD8iv1HMxLMdzI"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2Re6RMBEfD8iv1HMxLMdzI",
+                    "id": "2Re6RMBEfD8iv1HMxLMdzI",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022b4d071f7824b2c60c3b85cd",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512b4d071f7824b2c60c3b85cd",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",
+                    "release_date": "2003-12-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 53,
+                    "type": "album",
+                    "uri": "spotify:album:2Re6RMBEfD8iv1HMxLMdzI"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0OcclcP5o8VKH2TRqSY2A7",
+                        "id": "0OcclcP5o8VKH2TRqSY2A7",
+                        "name": "Howard Shore",
+                        "type": "artist",
+                        "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 543026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4Dax86RGUhE5xUEJokVTCd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4Dax86RGUhE5xUEJokVTCd",
+                "id": "4Dax86RGUhE5xUEJokVTCd",
+                "is_local": false,
+                "name": "The Lighting of the Beacons",
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:4Dax86RGUhE5xUEJokVTCd"
+            },
+            "played_at": "2026-04-02T16:58:11.649Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                            "id": "3dRfiJ2650SZu6GbydcHNb",
+                            "name": "John Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7DDls7RWrCLvZgTVCJgfcq",
+                    "id": "7DDls7RWrCLvZgTVCJgfcq",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273585f19adb14e7c92d9ec1b41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02585f19adb14e7c92d9ec1b41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851585f19adb14e7c92d9ec1b41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+                    "release_date": "2004-05-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:7DDls7RWrCLvZgTVCJgfcq"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                        "id": "3dRfiJ2650SZu6GbydcHNb",
+                        "name": "John Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 730546,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NrAMPb3hlWCmw9kepqBmM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NrAMPb3hlWCmw9kepqBmM",
+                "id": "3NrAMPb3hlWCmw9kepqBmM",
+                "is_local": false,
+                "name": "Mischief Managed!",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:3NrAMPb3hlWCmw9kepqBmM"
+            },
+            "played_at": "2026-04-02T16:49:11.219Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                            "id": "0YC192cP3KPCRWx8zr8MfZ",
+                            "name": "Hans Zimmer",
+                            "type": "artist",
+                            "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3B61kSKTxlY36cYgzvf3cP",
+                    "id": "3B61kSKTxlY36cYgzvf3cP",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730310d2e254062d98b2a92b2d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020310d2e254062d98b2a92b2d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510310d2e254062d98b2a92b2d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+                    "release_date": "2014-11-18",
+                    "release_date_precision": "day",
+                    "total_tracks": 30,
+                    "type": "album",
+                    "uri": "spotify:album:3B61kSKTxlY36cYgzvf3cP"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                        "id": "0YC192cP3KPCRWx8zr8MfZ",
+                        "name": "Hans Zimmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 126959,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6pWgRkpqVfxnj3WuIcJ7WP",
+                "id": "6pWgRkpqVfxnj3WuIcJ7WP",
+                "is_local": false,
+                "name": "Cornfield Chase",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6pWgRkpqVfxnj3WuIcJ7WP"
+            },
+            "played_at": "2026-04-02T16:36:56.908Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5TEFNL3l7ELSJCq8tq4PNy",
+                    "id": "5TEFNL3l7ELSJCq8tq4PNy",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273131830d267848232447ba5d5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02131830d267848232447ba5d5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851131830d267848232447ba5d5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Harry Potter And The Order Of The Phoenix (Original Motion Picture Soundtrack)",
+                    "release_date": "2007-07-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5TEFNL3l7ELSJCq8tq4PNy"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6S9bLkEZSVIcY18RNcNG50",
+                        "id": "6S9bLkEZSVIcY18RNcNG50",
+                        "name": "Nicholas Hooper",
+                        "type": "artist",
+                        "uri": "spotify:artist:6S9bLkEZSVIcY18RNcNG50"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 160253,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2GY8VKvfP3ZtKSk1byDYb1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2GY8VKvfP3ZtKSk1byDYb1",
+                "id": "2GY8VKvfP3ZtKSk1byDYb1",
+                "is_local": false,
+                "name": "Dumbledore's Army",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2GY8VKvfP3ZtKSk1byDYb1"
+            },
+            "played_at": "2026-04-02T16:34:49.549Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0JnNzCUsHuDcUcBatOzuGP",
+                            "id": "0JnNzCUsHuDcUcBatOzuGP",
+                            "name": "Sonya Belousova",
+                            "type": "artist",
+                            "uri": "spotify:artist:0JnNzCUsHuDcUcBatOzuGP"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2GGcFMw7PABKRpAS0lpYX6",
+                            "id": "2GGcFMw7PABKRpAS0lpYX6",
+                            "name": "Giona Ostinelli",
+                            "type": "artist",
+                            "uri": "spotify:artist:2GGcFMw7PABKRpAS0lpYX6"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3SpAbtsIKZ9omjpDCPUQKJ",
+                    "id": "3SpAbtsIKZ9omjpDCPUQKJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273319c188e43899ac07640ae12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02319c188e43899ac07640ae12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851319c188e43899ac07640ae12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "One Piece (Soundtrack from the Netflix Series)",
+                    "release_date": "2023-08-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 79,
+                    "type": "album",
+                    "uri": "spotify:album:3SpAbtsIKZ9omjpDCPUQKJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0JnNzCUsHuDcUcBatOzuGP",
+                        "id": "0JnNzCUsHuDcUcBatOzuGP",
+                        "name": "Sonya Belousova",
+                        "type": "artist",
+                        "uri": "spotify:artist:0JnNzCUsHuDcUcBatOzuGP"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2GGcFMw7PABKRpAS0lpYX6",
+                        "id": "2GGcFMw7PABKRpAS0lpYX6",
+                        "name": "Giona Ostinelli",
+                        "type": "artist",
+                        "uri": "spotify:artist:2GGcFMw7PABKRpAS0lpYX6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 266680,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6kwvj2GPbCsZx2z2AajHj9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6kwvj2GPbCsZx2z2AajHj9",
+                "id": "6kwvj2GPbCsZx2z2AajHj9",
+                "is_local": false,
+                "name": "I'm Gonna Be King Of The Pirates / We Are!",
+                "preview_url": null,
+                "track_number": 16,
+                "type": "track",
+                "uri": "spotify:track:6kwvj2GPbCsZx2z2AajHj9"
+            },
+            "played_at": "2026-04-02T16:32:08.682Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                            "id": "3dRfiJ2650SZu6GbydcHNb",
+                            "name": "John Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1yyFmCMeNtuLWsLZAXPStf",
+                    "id": "1yyFmCMeNtuLWsLZAXPStf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0292f051ce3c585b5c2db21d52",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485192f051ce3c585b5c2db21d52",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jurassic Park",
+                    "release_date": "1993-05-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:1yyFmCMeNtuLWsLZAXPStf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+                        "id": "3dRfiJ2650SZu6GbydcHNb",
+                        "name": "John Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 474933,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7MW1YzseA4CGfrZMBLqQWK",
+                "id": "7MW1YzseA4CGfrZMBLqQWK",
+                "is_local": false,
+                "name": "Welcome To Jurassic Park",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7MW1YzseA4CGfrZMBLqQWK"
+            },
+            "played_at": "2026-04-02T16:27:41.844Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2M4eNCvV3CJUswavkhAQg2",
+                            "id": "2M4eNCvV3CJUswavkhAQg2",
+                            "name": "James Newton Howard",
+                            "type": "artist",
+                            "uri": "spotify:artist:2M4eNCvV3CJUswavkhAQg2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6TCIP0qIaMYXYAFejY59cC"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6TCIP0qIaMYXYAFejY59cC",
+                    "id": "6TCIP0qIaMYXYAFejY59cC",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273afb73adc429656b773959252",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02afb73adc429656b773959252",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851afb73adc429656b773959252",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Treasure Planet",
+                    "release_date": "2002-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:6TCIP0qIaMYXYAFejY59cC"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2M4eNCvV3CJUswavkhAQg2",
+                        "id": "2M4eNCvV3CJUswavkhAQg2",
+                        "name": "James Newton Howard",
+                        "type": "artist",
+                        "uri": "spotify:artist:2M4eNCvV3CJUswavkhAQg2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/491SgTfng3iwBZlubejYxL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/491SgTfng3iwBZlubejYxL",
+                "id": "491SgTfng3iwBZlubejYxL",
+                "is_local": false,
+                "name": "12 Years Later - From \"Treasure Planet\"/Score",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:491SgTfng3iwBZlubejYxL"
+            },
+            "played_at": "2026-04-02T16:19:46.117Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2sG4zTOLvjKG1PSoOyf5Ej",
+                            "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+                            "name": "Brandi Carlile",
+                            "type": "artist",
+                            "uri": "spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5mIT7iw9w64DMP2vxP9L1f",
+                    "id": "5mIT7iw9w64DMP2vxP9L1f",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c5f072e40bad6ad42725d46d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c5f072e40bad6ad42725d46d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c5f072e40bad6ad42725d46d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "In These Silent Days",
+                    "release_date": "2021-10-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:5mIT7iw9w64DMP2vxP9L1f"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2sG4zTOLvjKG1PSoOyf5Ej",
+                        "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+                        "name": "Brandi Carlile",
+                        "type": "artist",
+                        "uri": "spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1WrqUPWlHN5FXCRcQgrkas",
+                        "id": "1WrqUPWlHN5FXCRcQgrkas",
+                        "name": "Lucius",
+                        "type": "artist",
+                        "uri": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 230098,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/61X73CJcpwGIxgQgKEXbw0",
+                "id": "61X73CJcpwGIxgQgKEXbw0",
+                "is_local": false,
+                "name": "You and Me On The Rock (feat. Lucius)",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:61X73CJcpwGIxgQgKEXbw0"
+            },
+            "played_at": "2026-04-02T16:17:00.899Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/13PoSkMaBxmC6EeAu2oBhH",
+                            "id": "13PoSkMaBxmC6EeAu2oBhH",
+                            "name": "Daniel Lopatin",
+                            "type": "artist",
+                            "uri": "spotify:artist:13PoSkMaBxmC6EeAu2oBhH"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ACAVXXQYUTmlZgdg0aG8U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4ACAVXXQYUTmlZgdg0aG8U",
+                    "id": "4ACAVXXQYUTmlZgdg0aG8U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27304d18a0910851815ea0ba6c5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0204d18a0910851815ea0ba6c5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485104d18a0910851815ea0ba6c5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Marty Supreme (Original Soundtrack)",
+                    "release_date": "2025-12-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:4ACAVXXQYUTmlZgdg0aG8U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/13PoSkMaBxmC6EeAu2oBhH",
+                        "id": "13PoSkMaBxmC6EeAu2oBhH",
+                        "name": "Daniel Lopatin",
+                        "type": "artist",
+                        "uri": "spotify:artist:13PoSkMaBxmC6EeAu2oBhH"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 289270,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2Yv9313K8Jg8JuVAePfHj4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2Yv9313K8Jg8JuVAePfHj4",
+                "id": "2Yv9313K8Jg8JuVAePfHj4",
+                "is_local": false,
+                "name": "The Real Game",
+                "preview_url": null,
+                "track_number": 20,
+                "type": "track",
+                "uri": "spotify:track:2Yv9313K8Jg8JuVAePfHj4"
+            },
+            "played_at": "2026-04-02T16:13:10.739Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08tZq3FDsspdU6ycn8Jl2o",
+                    "id": "08tZq3FDsspdU6ycn8Jl2o",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733e58e72de9d125c263eb55a3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023e58e72de9d125c263eb55a3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513e58e72de9d125c263eb55a3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rhythm Of The Saints",
+                    "release_date": "1990-10-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:08tZq3FDsspdU6ycn8Jl2o"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1deWgqhgAzI6dY35TbKKh7",
+                "id": "1deWgqhgAzI6dY35TbKKh7",
+                "is_local": false,
+                "name": "The Obvious Child",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1deWgqhgAzI6dY35TbKKh7"
+            },
+            "played_at": "2026-04-02T15:57:48.240Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/4uEUACQmrWWMeN4UVFFAQJ?sessionId=1775088000002&mode=enhanced"
+                },
+                "href": "https://api.spotify.com/v1/playlists/4uEUACQmrWWMeN4UVFFAQJ",
+                "uri": "spotify:playlist:4uEUACQmrWWMeN4UVFFAQJ"
+            }
         }
     ]
 }
