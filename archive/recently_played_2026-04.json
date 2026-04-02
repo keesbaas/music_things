@@ -10887,6 +10887,538 @@
                 "href": "https://api.spotify.com/v1/playlists/4uEUACQmrWWMeN4UVFFAQJ",
                 "uri": "spotify:playlist:4uEUACQmrWWMeN4UVFFAQJ"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0dsb8wm9tVgrZW3Cs1Xci4"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0dsb8wm9tVgrZW3Cs1Xci4",
+                    "id": "0dsb8wm9tVgrZW3Cs1Xci4",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273587224a82afcc0a4302dd6a1",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02587224a82afcc0a4302dd6a1",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851587224a82afcc0a4302dd6a1",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl: Music From The Feature Documentary",
+                    "release_date": "2022-05-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 35,
+                    "type": "album",
+                    "uri": "spotify:album:0dsb8wm9tVgrZW3Cs1Xci4"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 190880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0FKdaxsNHW6p1w8pDLTBo5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0FKdaxsNHW6p1w8pDLTBo5",
+                "id": "0FKdaxsNHW6p1w8pDLTBo5",
+                "is_local": false,
+                "name": "Strong Enough",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:0FKdaxsNHW6p1w8pDLTBo5"
+            },
+            "played_at": "2026-04-02T17:54:30.389Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 308209,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4OrbkHxMcZHCT3b47D5Qnp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4OrbkHxMcZHCT3b47D5Qnp",
+                "id": "4OrbkHxMcZHCT3b47D5Qnp",
+                "is_local": false,
+                "name": "A Change Would Do You Good - Live from the Ryman/2019",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4OrbkHxMcZHCT3b47D5Qnp"
+            },
+            "played_at": "2026-04-02T17:51:19.225Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 308209,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4OrbkHxMcZHCT3b47D5Qnp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4OrbkHxMcZHCT3b47D5Qnp",
+                "id": "4OrbkHxMcZHCT3b47D5Qnp",
+                "is_local": false,
+                "name": "A Change Would Do You Good - Live from the Ryman/2019",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4OrbkHxMcZHCT3b47D5Qnp"
+            },
+            "played_at": "2026-04-02T17:46:10.995Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3AvMXM7A4zMHNbjRI2zGan"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3AvMXM7A4zMHNbjRI2zGan",
+                "id": "3AvMXM7A4zMHNbjRI2zGan",
+                "is_local": false,
+                "name": "Steve McQueen",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3AvMXM7A4zMHNbjRI2zGan"
+            },
+            "played_at": "2026-04-02T17:12:47.189Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4kLvhMAuCloLxoP1aVM7Lr",
+                            "id": "4kLvhMAuCloLxoP1aVM7Lr",
+                            "name": "Michael Giacchino",
+                            "type": "artist",
+                            "uri": "spotify:artist:4kLvhMAuCloLxoP1aVM7Lr"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0dst3z0HnOCF0pdU05AZ4b",
+                    "id": "0dst3z0HnOCF0pdU05AZ4b",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273dc83f28e94f98a5605f48529",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02dc83f28e94f98a5605f48529",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851dc83f28e94f98a5605f48529",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+                    "release_date": "2013-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:0dst3z0HnOCF0pdU05AZ4b"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4kLvhMAuCloLxoP1aVM7Lr",
+                        "id": "4kLvhMAuCloLxoP1aVM7Lr",
+                        "name": "Michael Giacchino",
+                        "type": "artist",
+                        "uri": "spotify:artist:4kLvhMAuCloLxoP1aVM7Lr"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205573,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6fVX8mF9ZqS1V8G2ZFCbLQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6fVX8mF9ZqS1V8G2ZFCbLQ",
+                "id": "6fVX8mF9ZqS1V8G2ZFCbLQ",
+                "is_local": false,
+                "name": "Star Trek Main Theme",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:6fVX8mF9ZqS1V8G2ZFCbLQ"
+            },
+            "played_at": "2026-04-02T17:07:49.359Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/147dKKwnUn9qesNx8uAs3Z",
+                            "id": "147dKKwnUn9qesNx8uAs3Z",
+                            "name": "Ilan Eshkeri",
+                            "type": "artist",
+                            "uri": "spotify:artist:147dKKwnUn9qesNx8uAs3Z"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3fYr24qYhJejxewFrckFE4",
+                            "id": "3fYr24qYhJejxewFrckFE4",
+                            "name": "London Metropolitan Orchestra",
+                            "type": "artist",
+                            "uri": "spotify:artist:3fYr24qYhJejxewFrckFE4"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2Tn4bD6wcI4UzCTxBABeZe"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2Tn4bD6wcI4UzCTxBABeZe",
+                            "id": "2Tn4bD6wcI4UzCTxBABeZe",
+                            "name": "Andy Brown",
+                            "type": "artist",
+                            "uri": "spotify:artist:2Tn4bD6wcI4UzCTxBABeZe"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0HBJxR0Sm2tUcrL5wGOPof",
+                    "id": "0HBJxR0Sm2tUcrL5wGOPof",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fb490fe00998812e62e44404",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fb490fe00998812e62e44404",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fb490fe00998812e62e44404",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Stardust - Music From The Motion Picture",
+                    "release_date": "2007-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:0HBJxR0Sm2tUcrL5wGOPof"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/147dKKwnUn9qesNx8uAs3Z",
+                        "id": "147dKKwnUn9qesNx8uAs3Z",
+                        "name": "Ilan Eshkeri",
+                        "type": "artist",
+                        "uri": "spotify:artist:147dKKwnUn9qesNx8uAs3Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3fYr24qYhJejxewFrckFE4",
+                        "id": "3fYr24qYhJejxewFrckFE4",
+                        "name": "London Metropolitan Orchestra",
+                        "type": "artist",
+                        "uri": "spotify:artist:3fYr24qYhJejxewFrckFE4"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2Tn4bD6wcI4UzCTxBABeZe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2Tn4bD6wcI4UzCTxBABeZe",
+                        "id": "2Tn4bD6wcI4UzCTxBABeZe",
+                        "name": "Andy Brown",
+                        "type": "artist",
+                        "uri": "spotify:artist:2Tn4bD6wcI4UzCTxBABeZe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 61760,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4yMvmx0wQSPe97NrweeDTk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4yMvmx0wQSPe97NrweeDTk",
+                "id": "4yMvmx0wQSPe97NrweeDTk",
+                "is_local": false,
+                "name": "Eshkeri: Cap'n's At The Helm",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:4yMvmx0wQSPe97NrweeDTk"
+            },
+            "played_at": "2026-04-02T17:04:23.791Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/1GqicSelwbqHWLfvH2x55A",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/1GqicSelwbqHWLfvH2x55A"
+                },
+                "uri": "spotify:playlist:1GqicSelwbqHWLfvH2x55A"
+            }
         }
     ]
 }
