@@ -12938,6 +12938,498 @@
             },
             "played_at": "2026-04-05T17:07:52.193Z",
             "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                    "id": "3U8n8LzBx2o9gYXvvNq4uH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0294e5237ce925531dbb38e75f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485194e5237ce925531dbb38e75f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "My 21st Century Blues",
+                    "release_date": "2023-02-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 239786,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3yM4sIOrG4UOJve2fQU7Zc"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3yM4sIOrG4UOJve2fQU7Zc",
+                "id": "3yM4sIOrG4UOJve2fQU7Zc",
+                "is_local": false,
+                "name": "Black Mascara.",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3yM4sIOrG4UOJve2fQU7Zc"
+            },
+            "played_at": "2026-04-05T18:55:38.428Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                    "id": "3U8n8LzBx2o9gYXvvNq4uH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0294e5237ce925531dbb38e75f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485194e5237ce925531dbb38e75f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "My 21st Century Blues",
+                    "release_date": "2023-02-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191164,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0o4HD0mOtTiHSbycbg4IpT",
+                "id": "0o4HD0mOtTiHSbycbg4IpT",
+                "is_local": false,
+                "name": "Hard Out Here.",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:0o4HD0mOtTiHSbycbg4IpT"
+            },
+            "played_at": "2026-04-05T18:51:38.677Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                    "id": "3U8n8LzBx2o9gYXvvNq4uH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0294e5237ce925531dbb38e75f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485194e5237ce925531dbb38e75f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "My 21st Century Blues",
+                    "release_date": "2023-02-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183653,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0iO2iCAjtX0t5duvczNQt6",
+                "id": "0iO2iCAjtX0t5duvczNQt6",
+                "is_local": false,
+                "name": "Oscar Winning Tears.",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0iO2iCAjtX0t5duvczNQt6"
+            },
+            "played_at": "2026-04-05T18:48:27.453Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                    "id": "3U8n8LzBx2o9gYXvvNq4uH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0294e5237ce925531dbb38e75f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485194e5237ce925531dbb38e75f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "My 21st Century Blues",
+                    "release_date": "2023-02-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 57813,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3NW2NRsPJfA4moQ0UhxlZk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3NW2NRsPJfA4moQ0UhxlZk",
+                "id": "3NW2NRsPJfA4moQ0UhxlZk",
+                "is_local": false,
+                "name": "Introduction.",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3NW2NRsPJfA4moQ0UhxlZk"
+            },
+            "played_at": "2026-04-05T18:45:24.056Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206122,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/60V50fekMrp2lTges6f28D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/60V50fekMrp2lTges6f28D",
+                "id": "60V50fekMrp2lTges6f28D",
+                "is_local": false,
+                "name": "Beware.. The South London Lover Boy.",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:60V50fekMrp2lTges6f28D"
+            },
+            "played_at": "2026-04-05T18:43:35.986Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 294645,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4VnLKvKQQcWnZagNedFSF9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4VnLKvKQQcWnZagNedFSF9",
+                "id": "4VnLKvKQQcWnZagNedFSF9",
+                "is_local": false,
+                "name": "I Will Overcome.",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4VnLKvKQQcWnZagNedFSF9"
+            },
+            "played_at": "2026-04-05T18:12:19.232Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
         }
     ]
 }
