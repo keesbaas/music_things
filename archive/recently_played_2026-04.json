@@ -35577,6 +35577,1030 @@
                 "type": "album",
                 "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5CscrLqFBgPfZR8fGtikov",
+                "id": "5CscrLqFBgPfZR8fGtikov",
+                "is_local": false,
+                "name": "making the bed",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5CscrLqFBgPfZR8fGtikov"
+            },
+            "played_at": "2026-04-09T14:02:40.049Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203369,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5sp71CUt0jXRNqHblPGp7b",
+                "id": "5sp71CUt0jXRNqHblPGp7b",
+                "is_local": false,
+                "name": "ballad of a homeschooled girl",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5sp71CUt0jXRNqHblPGp7b"
+            },
+            "played_at": "2026-04-09T13:59:21.574Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 177212,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6QT6j7rKt7Vk3IuV2AUO9W",
+                "id": "6QT6j7rKt7Vk3IuV2AUO9W",
+                "is_local": false,
+                "name": "lacy",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6QT6j7rKt7Vk3IuV2AUO9W"
+            },
+            "played_at": "2026-04-09T13:55:57.898Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219724,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1kuGVB7EU95pJObxwvfwKS",
+                "id": "1kuGVB7EU95pJObxwvfwKS",
+                "is_local": false,
+                "name": "vampire",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS"
+            },
+            "played_at": "2026-04-09T13:53:00.385Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 184783,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3IX0yuEVvDbnqUwMBB3ouC",
+                "id": "3IX0yuEVvDbnqUwMBB3ouC",
+                "is_local": false,
+                "name": "bad idea right?",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC"
+            },
+            "played_at": "2026-04-09T13:49:20.714Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 165833,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/34sOdxWu9FljH84UXdRwu1",
+                "id": "34sOdxWu9FljH84UXdRwu1",
+                "is_local": false,
+                "name": "all-american bitch",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:34sOdxWu9FljH84UXdRwu1"
+            },
+            "played_at": "2026-04-09T13:46:16.246Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 387412,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/00aXfNHkqzLIq7WucwnmzL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/00aXfNHkqzLIq7WucwnmzL",
+                "id": "00aXfNHkqzLIq7WucwnmzL",
+                "is_local": false,
+                "name": "Fin.",
+                "preview_url": null,
+                "track_number": 17,
+                "type": "track",
+                "uri": "spotify:track:00aXfNHkqzLIq7WucwnmzL"
+            },
+            "played_at": "2026-04-09T13:43:33.598Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 270152,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5S8hSDSs49lKt9A21qriUU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5S8hSDSs49lKt9A21qriUU",
+                "id": "5S8hSDSs49lKt9A21qriUU",
+                "is_local": false,
+                "name": "Happier Times Ahead.",
+                "preview_url": null,
+                "track_number": 16,
+                "type": "track",
+                "uri": "spotify:track:5S8hSDSs49lKt9A21qriUU"
+            },
+            "played_at": "2026-04-09T13:32:53.891Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6rYqTmpl2LNEovR30mauo2",
+                        "id": "6rYqTmpl2LNEovR30mauo2",
+                        "name": "Amma",
+                        "type": "artist",
+                        "uri": "spotify:artist:6rYqTmpl2LNEovR30mauo2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4ellgkPyhbJetngXmHX5Zh",
+                        "id": "4ellgkPyhbJetngXmHX5Zh",
+                        "name": "Absolutely",
+                        "type": "artist",
+                        "uri": "spotify:artist:4ellgkPyhbJetngXmHX5Zh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263933,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5CKbUv7zkOdf8X2602qgei",
+                "id": "5CKbUv7zkOdf8X2602qgei",
+                "is_local": false,
+                "name": "Joy. (feat. Amma & Absolutely)",
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:5CKbUv7zkOdf8X2602qgei"
+            },
+            "played_at": "2026-04-09T13:28:23.688Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 377003,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ka0xUb0kho8KMOCuuPOZJ",
+                "id": "0ka0xUb0kho8KMOCuuPOZJ",
+                "is_local": false,
+                "name": "I Know You're Hurting.",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:0ka0xUb0kho8KMOCuuPOZJ"
+            },
+            "played_at": "2026-04-09T13:23:59.629Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                        "id": "0YC192cP3KPCRWx8zr8MfZ",
+                        "name": "Hans Zimmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 301674,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0XOynYFi9hQfIXKnTct9A7",
+                "id": "0XOynYFi9hQfIXKnTct9A7",
+                "is_local": false,
+                "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0XOynYFi9hQfIXKnTct9A7"
+            },
+            "played_at": "2026-04-09T13:17:42.394Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                        "id": "0YC192cP3KPCRWx8zr8MfZ",
+                        "name": "Hans Zimmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 301674,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0XOynYFi9hQfIXKnTct9A7",
+                "id": "0XOynYFi9hQfIXKnTct9A7",
+                "is_local": false,
+                "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0XOynYFi9hQfIXKnTct9A7"
+            },
+            "played_at": "2026-04-09T13:12:36.749Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
         }
     ]
 }
