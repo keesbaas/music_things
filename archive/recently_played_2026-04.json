@@ -43299,6 +43299,245 @@
                 },
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 272240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1Ibq8Ml6TAbIYHZw7fuZAp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1Ibq8Ml6TAbIYHZw7fuZAp",
+                "id": "1Ibq8Ml6TAbIYHZw7fuZAp",
+                "is_local": false,
+                "name": "Safe And Sound",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:1Ibq8Ml6TAbIYHZw7fuZAp"
+            },
+            "played_at": "2026-04-11T22:40:13.989Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Ppie0uPnbnvGBYRwYmlt0",
+                            "id": "5Ppie0uPnbnvGBYRwYmlt0",
+                            "name": "Megan Moroney",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Ppie0uPnbnvGBYRwYmlt0"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5wKUycH0Ppz3NQbpgEAR1B"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5wKUycH0Ppz3NQbpgEAR1B",
+                    "id": "5wKUycH0Ppz3NQbpgEAR1B",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b7d4d25c678a4d66ce4c930022",
+                            "width": 1280
+                        },
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b7d4d25c678a4d66ce4c930022",
+                            "width": 1280
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://i.scdn.co/image/ab6742d3000052b7d4d25c678a4d66ce4c930022",
+                            "width": 640
+                        }
+                    ],
+                    "name": "Wedding Dress (Live | Presented by Spotify)",
+                    "release_date": "2026-03-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5wKUycH0Ppz3NQbpgEAR1B"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Ppie0uPnbnvGBYRwYmlt0",
+                        "id": "5Ppie0uPnbnvGBYRwYmlt0",
+                        "name": "Megan Moroney",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Ppie0uPnbnvGBYRwYmlt0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 226517,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0QnNGwuYH4SDytSbKaCzEv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0QnNGwuYH4SDytSbKaCzEv",
+                "id": "0QnNGwuYH4SDytSbKaCzEv",
+                "is_local": false,
+                "name": "Wedding Dress - Live | Presented by Spotify",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0QnNGwuYH4SDytSbKaCzEv"
+            },
+            "played_at": "2026-04-11T22:37:52.870Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 272240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1Ibq8Ml6TAbIYHZw7fuZAp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1Ibq8Ml6TAbIYHZw7fuZAp",
+                "id": "1Ibq8Ml6TAbIYHZw7fuZAp",
+                "is_local": false,
+                "name": "Safe And Sound",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:1Ibq8Ml6TAbIYHZw7fuZAp"
+            },
+            "played_at": "2026-04-11T22:37:20.406Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
