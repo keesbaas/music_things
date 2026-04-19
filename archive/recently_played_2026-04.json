@@ -61242,6 +61242,88 @@
                 },
                 "uri": "spotify:artist:0qQCr8kpPnhZHnnHoVtErD"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0qQCr8kpPnhZHnnHoVtErD",
+                            "id": "0qQCr8kpPnhZHnnHoVtErD",
+                            "name": "Marfa",
+                            "type": "artist",
+                            "uri": "spotify:artist:0qQCr8kpPnhZHnnHoVtErD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4hGeEwj44b63cQHRmRfDPx",
+                    "id": "4hGeEwj44b63cQHRmRfDPx",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730f45163a304facf204cb9458",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020f45163a304facf204cb9458",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510f45163a304facf204cb9458",
+                            "width": 64
+                        }
+                    ],
+                    "name": "If It Ain't You",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:4hGeEwj44b63cQHRmRfDPx"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0qQCr8kpPnhZHnnHoVtErD",
+                        "id": "0qQCr8kpPnhZHnnHoVtErD",
+                        "name": "Marfa",
+                        "type": "artist",
+                        "uri": "spotify:artist:0qQCr8kpPnhZHnnHoVtErD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 210133,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3yx9pgiep8UZ9RADXUIBsp",
+                "id": "3yx9pgiep8UZ9RADXUIBsp",
+                "is_local": false,
+                "name": "If It Ain't You",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3yx9pgiep8UZ9RADXUIBsp"
+            },
+            "played_at": "2026-04-19T15:52:08.119Z",
+            "context": {
+                "type": "artist",
+                "href": "https://api.spotify.com/v1/artists/0qQCr8kpPnhZHnnHoVtErD",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+                },
+                "uri": "spotify:artist:0qQCr8kpPnhZHnnHoVtErD"
+            }
         }
     ]
 }
