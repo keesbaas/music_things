@@ -65790,6 +65790,1072 @@
                 "href": "https://api.spotify.com/v1/playlists/3cwTX3sl4WWRLuhKXuD3b1",
                 "uri": "spotify:playlist:3cwTX3sl4WWRLuhKXuD3b1"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231706,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6zWP0qMiOnkzCTyP5woFbX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6zWP0qMiOnkzCTyP5woFbX",
+                "id": "6zWP0qMiOnkzCTyP5woFbX",
+                "is_local": false,
+                "name": "No Consequences",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:6zWP0qMiOnkzCTyP5woFbX"
+            },
+            "played_at": "2026-04-21T14:10:24.651Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 281466,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Ftzsq58catsPcpSoWzjlo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Ftzsq58catsPcpSoWzjlo",
+                "id": "7Ftzsq58catsPcpSoWzjlo",
+                "is_local": false,
+                "name": "16 Summers",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:7Ftzsq58catsPcpSoWzjlo"
+            },
+            "played_at": "2026-04-21T14:06:33.160Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/79Qn3s0ZquNg6HVyoh0vB8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/79Qn3s0ZquNg6HVyoh0vB8",
+                "id": "79Qn3s0ZquNg6HVyoh0vB8",
+                "is_local": false,
+                "name": "Don\u2019t You Know Who I Am?",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:79Qn3s0ZquNg6HVyoh0vB8"
+            },
+            "played_at": "2026-04-21T14:01:51.706Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7bqeWZMBFOIeTqIovfrpx0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7bqeWZMBFOIeTqIovfrpx0",
+                "id": "7bqeWZMBFOIeTqIovfrpx0",
+                "is_local": false,
+                "name": "Ride",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:7bqeWZMBFOIeTqIovfrpx0"
+            },
+            "played_at": "2026-04-21T13:58:06.485Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5jNlXBGqcfimbAW7lq51nu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5jNlXBGqcfimbAW7lq51nu",
+                "id": "5jNlXBGqcfimbAW7lq51nu",
+                "is_local": false,
+                "name": "Love You For",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5jNlXBGqcfimbAW7lq51nu"
+            },
+            "played_at": "2026-04-21T13:53:27.408Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205880,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6uZ1pCKRQfu5JISvfvp2Wj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6uZ1pCKRQfu5JISvfvp2Wj",
+                "id": "6uZ1pCKRQfu5JISvfvp2Wj",
+                "is_local": false,
+                "name": "Mr Valentine",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:6uZ1pCKRQfu5JISvfvp2Wj"
+            },
+            "played_at": "2026-04-21T13:50:02.355Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 188093,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tydTipPThewhJGmlxdcC5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tydTipPThewhJGmlxdcC5",
+                "id": "4tydTipPThewhJGmlxdcC5",
+                "is_local": false,
+                "name": "Sauna",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4tydTipPThewhJGmlxdcC5"
+            },
+            "played_at": "2026-04-21T13:46:36.887Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 27973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4NWHHcNGKC2PyOOCLncaHz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4NWHHcNGKC2PyOOCLncaHz",
+                "id": "4NWHHcNGKC2PyOOCLncaHz",
+                "is_local": false,
+                "name": "Chariots of Love Interlude",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4NWHHcNGKC2PyOOCLncaHz"
+            },
+            "played_at": "2026-04-21T13:43:43.366Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 177173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3rtCZDdLpyeEp556iUzIli"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3rtCZDdLpyeEp556iUzIli",
+                "id": "3rtCZDdLpyeEp556iUzIli",
+                "is_local": false,
+                "name": "Automatic",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3rtCZDdLpyeEp556iUzIli"
+            },
+            "played_at": "2026-04-21T13:43:00.352Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/56imCiO83oUJj6z9favCWt",
+                "id": "56imCiO83oUJj6z9favCWt",
+                "is_local": false,
+                "name": "Superbloom",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:56imCiO83oUJj6z9favCWt"
+            },
+            "played_at": "2026-04-21T13:40:02.953Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221586,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5Tp8BO1Ocodur1mclvhQu9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5Tp8BO1Ocodur1mclvhQu9",
+                "id": "5Tp8BO1Ocodur1mclvhQu9",
+                "is_local": false,
+                "name": "I Could Get Used To This",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5Tp8BO1Ocodur1mclvhQu9"
+            },
+            "played_at": "2026-04-21T13:35:52.069Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 48013,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6YvNYOrGKPWKlUPpkruhRY",
+                "id": "6YvNYOrGKPWKlUPpkruhRY",
+                "is_local": false,
+                "name": "The Garden Prelude",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6YvNYOrGKPWKlUPpkruhRY"
+            },
+            "played_at": "2026-04-21T13:32:10.573Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                            "id": "5Mq7iqCWBzofK39FBqblNc",
+                            "name": "Jessie Ware",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                    "id": "56sKKg6lpmwyvbvLw3nVCN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fc729e4f9d5e6d9a65f974c9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Superbloom",
+                    "release_date": "2026-04-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+                        "id": "5Mq7iqCWBzofK39FBqblNc",
+                        "name": "Jessie Ware",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 177173,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3rtCZDdLpyeEp556iUzIli"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3rtCZDdLpyeEp556iUzIli",
+                "id": "3rtCZDdLpyeEp556iUzIli",
+                "is_local": false,
+                "name": "Automatic",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3rtCZDdLpyeEp556iUzIli"
+            },
+            "played_at": "2026-04-21T13:31:15.408Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+                },
+                "href": "https://api.spotify.com/v1/albums/56sKKg6lpmwyvbvLw3nVCN",
+                "uri": "spotify:album:56sKKg6lpmwyvbvLw3nVCN"
+            }
         }
     ]
 }
