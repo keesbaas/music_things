@@ -76904,6 +76904,484 @@
                 },
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 249933,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2BfRlKGF6UzuegjXCFmSCS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2BfRlKGF6UzuegjXCFmSCS",
+                "id": "2BfRlKGF6UzuegjXCFmSCS",
+                "is_local": false,
+                "name": "Diamond Road",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:2BfRlKGF6UzuegjXCFmSCS"
+            },
+            "played_at": "2026-04-27T01:36:56.022Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/11ZOyF9bKgnusVD1rUapwv",
+                    "id": "11ZOyF9bKgnusVD1rUapwv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b2f0a2eb8c8442b1a147da51",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b2f0a2eb8c8442b1a147da51",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b2f0a2eb8c8442b1a147da51",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club (Deluxe Edition)",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 248493,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4HQ8P19QcFOasu6Hn9JJ6M"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4HQ8P19QcFOasu6Hn9JJ6M",
+                "id": "4HQ8P19QcFOasu6Hn9JJ6M",
+                "is_local": false,
+                "name": "Solidify",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4HQ8P19QcFOasu6Hn9JJ6M"
+            },
+            "played_at": "2026-04-27T00:35:00.905Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb",
+                    "id": "3w7TTi80vZApF0rQE5DMYb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow",
+                    "release_date": "1996-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3w7TTi80vZApF0rQE5DMYb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5LbAeKBfLr8VLISj4pHS7e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5LbAeKBfLr8VLISj4pHS7e",
+                "id": "5LbAeKBfLr8VLISj4pHS7e",
+                "is_local": false,
+                "name": "Superstar",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:5LbAeKBfLr8VLISj4pHS7e"
+            },
+            "played_at": "2026-04-27T00:10:43.707Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+                            "id": "6fFcUOFcbjeIuEomuUthkw",
+                            "name": "Oklou",
+                            "type": "artist",
+                            "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6W1dSPLg0HlH35YApFcclX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6W1dSPLg0HlH35YApFcclX",
+                    "id": "6W1dSPLg0HlH35YApFcclX",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b73efed72c3d1782f403eb31b5",
+                            "width": 1280
+                        },
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b73efed72c3d1782f403eb31b5",
+                            "width": 1280
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://i.scdn.co/image/ab6742d3000052b73efed72c3d1782f403eb31b5",
+                            "width": 640
+                        }
+                    ],
+                    "name": "harvest sky",
+                    "release_date": "2026-04-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6W1dSPLg0HlH35YApFcclX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+                        "id": "6fFcUOFcbjeIuEomuUthkw",
+                        "name": "Oklou",
+                        "type": "artist",
+                        "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 269205,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0aXMRNwk58ShCQWaWgWSml"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0aXMRNwk58ShCQWaWgWSml",
+                "id": "0aXMRNwk58ShCQWaWgWSml",
+                "is_local": false,
+                "name": "harvest sky",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0aXMRNwk58ShCQWaWgWSml"
+            },
+            "played_at": "2026-04-27T00:09:31.154Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+                            "id": "6fFcUOFcbjeIuEomuUthkw",
+                            "name": "Oklou",
+                            "type": "artist",
+                            "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6W1dSPLg0HlH35YApFcclX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6W1dSPLg0HlH35YApFcclX",
+                    "id": "6W1dSPLg0HlH35YApFcclX",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b73efed72c3d1782f403eb31b5",
+                            "width": 1280
+                        },
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b73efed72c3d1782f403eb31b5",
+                            "width": 1280
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://i.scdn.co/image/ab6742d3000052b73efed72c3d1782f403eb31b5",
+                            "width": 640
+                        }
+                    ],
+                    "name": "harvest sky",
+                    "release_date": "2026-04-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6W1dSPLg0HlH35YApFcclX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+                        "id": "6fFcUOFcbjeIuEomuUthkw",
+                        "name": "Oklou",
+                        "type": "artist",
+                        "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 269205,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0aXMRNwk58ShCQWaWgWSml"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0aXMRNwk58ShCQWaWgWSml",
+                "id": "0aXMRNwk58ShCQWaWgWSml",
+                "is_local": false,
+                "name": "harvest sky",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0aXMRNwk58ShCQWaWgWSml"
+            },
+            "played_at": "2026-04-27T00:07:40.173Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb",
+                    "id": "3w7TTi80vZApF0rQE5DMYb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow",
+                    "release_date": "1996-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3w7TTi80vZApF0rQE5DMYb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5LbAeKBfLr8VLISj4pHS7e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5LbAeKBfLr8VLISj4pHS7e",
+                "id": "5LbAeKBfLr8VLISj4pHS7e",
+                "is_local": false,
+                "name": "Superstar",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:5LbAeKBfLr8VLISj4pHS7e"
+            },
+            "played_at": "2026-04-27T00:06:53.377Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
