@@ -7755,6 +7755,3592 @@
                 "href": "https://api.spotify.com/v1/albums/0z7l9VEJyFMv8p8wffRDaF",
                 "uri": "spotify:album:0z7l9VEJyFMv8p8wffRDaF"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6P5NO5hzJbuOqSdyPB7SJM",
+                            "id": "6P5NO5hzJbuOqSdyPB7SJM",
+                            "name": "Ashe",
+                            "type": "artist",
+                            "uri": "spotify:artist:6P5NO5hzJbuOqSdyPB7SJM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/46Jco9fSE6QrG6yIjaIK8q",
+                    "id": "46Jco9fSE6QrG6yIjaIK8q",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273569b43b82f8e23936805f808",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02569b43b82f8e23936805f808",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851569b43b82f8e23936805f808",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Rae",
+                    "release_date": "2022-10-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:46Jco9fSE6QrG6yIjaIK8q"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6P5NO5hzJbuOqSdyPB7SJM",
+                        "id": "6P5NO5hzJbuOqSdyPB7SJM",
+                        "name": "Ashe",
+                        "type": "artist",
+                        "uri": "spotify:artist:6P5NO5hzJbuOqSdyPB7SJM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171161,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2PMmfJHouzBB44paaJTgY8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2PMmfJHouzBB44paaJTgY8",
+                "id": "2PMmfJHouzBB44paaJTgY8",
+                "is_local": false,
+                "name": "omw",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:2PMmfJHouzBB44paaJTgY8"
+            },
+            "played_at": "2026-05-04T02:13:56.173Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0wKJlJVLq79jSWHTnsVVq6",
+                    "id": "0wKJlJVLq79jSWHTnsVVq6",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ddb63027b24c89246921609f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ddb63027b24c89246921609f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ddb63027b24c89246921609f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
+                    "release_date": "2012-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:0wKJlJVLq79jSWHTnsVVq6"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/03xb2BUdIFzuRQ6o88yfCB",
+                        "id": "03xb2BUdIFzuRQ6o88yfCB",
+                        "name": "Josh Homme",
+                        "type": "artist",
+                        "uri": "spotify:artist:03xb2BUdIFzuRQ6o88yfCB"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0MY9O8iCtWQ3M7nVqkNglA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0MY9O8iCtWQ3M7nVqkNglA",
+                "id": "0MY9O8iCtWQ3M7nVqkNglA",
+                "is_local": false,
+                "name": "Jackson - MTV Unplugged, 2012 / Live",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0MY9O8iCtWQ3M7nVqkNglA"
+            },
+            "played_at": "2026-05-04T02:11:04.423Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                            "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                            "name": "Hayley Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MROTtttK946gHaTkXeP8b",
+                    "id": "3MROTtttK946gHaTkXeP8b",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024f422ed700af8715b23326af",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514f422ed700af8715b23326af",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Ego Death At A Bachelorette Party",
+                    "release_date": "2025-11-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:3MROTtttK946gHaTkXeP8b"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                        "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                        "name": "Hayley Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220101,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5iALdwbhnUHa8zGStA3h1J",
+                "id": "5iALdwbhnUHa8zGStA3h1J",
+                "is_local": false,
+                "name": "Parachute",
+                "preview_url": null,
+                "track_number": 18,
+                "type": "track",
+                "uri": "spotify:track:5iALdwbhnUHa8zGStA3h1J"
+            },
+            "played_at": "2026-05-04T02:07:37.395Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+                            "id": "6oBm8HB0yfrIc9IHbxs6in",
+                            "name": "Lykke Li",
+                            "type": "artist",
+                            "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/51she33GpvE2U3e6HZ41fD",
+                    "id": "51she33GpvE2U3e6HZ41fD",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d22497070d96c26008f995e2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d22497070d96c26008f995e2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d22497070d96c26008f995e2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Lucky Again",
+                    "release_date": "2026-02-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:51she33GpvE2U3e6HZ41fD"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+                        "id": "6oBm8HB0yfrIc9IHbxs6in",
+                        "name": "Lykke Li",
+                        "type": "artist",
+                        "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 181550,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0n63xAny4NjxRNgKnboEp8",
+                "id": "0n63xAny4NjxRNgKnboEp8",
+                "is_local": false,
+                "name": "Lucky Again",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0n63xAny4NjxRNgKnboEp8"
+            },
+            "played_at": "2026-05-04T02:03:57.147Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2FgknX5e7fJlriQtxvpLhZ",
+                    "id": "2FgknX5e7fJlriQtxvpLhZ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020672b0f8756ae2af86e8a5ce",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Lungs (Deluxe Edition)",
+                    "release_date": "2009",
+                    "release_date_precision": "year",
+                    "total_tracks": 24,
+                    "type": "album",
+                    "uri": "spotify:album:2FgknX5e7fJlriQtxvpLhZ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 192720,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1T0Kkq1Oio6nHVhenMQeDR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1T0Kkq1Oio6nHVhenMQeDR",
+                "id": "1T0Kkq1Oio6nHVhenMQeDR",
+                "is_local": false,
+                "name": "Hurricane Drunk",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:1T0Kkq1Oio6nHVhenMQeDR"
+            },
+            "played_at": "2026-05-04T02:00:54.630Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2FgknX5e7fJlriQtxvpLhZ",
+                    "id": "2FgknX5e7fJlriQtxvpLhZ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020672b0f8756ae2af86e8a5ce",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Lungs (Deluxe Edition)",
+                    "release_date": "2009",
+                    "release_date_precision": "year",
+                    "total_tracks": 24,
+                    "type": "album",
+                    "uri": "spotify:album:2FgknX5e7fJlriQtxvpLhZ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199386,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3fNuoybebaufvtFBo5TDWO",
+                "id": "3fNuoybebaufvtFBo5TDWO",
+                "is_local": false,
+                "name": "Addicted To Love",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:3fNuoybebaufvtFBo5TDWO"
+            },
+            "played_at": "2026-05-04T01:58:01.265Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197142,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eYzn1CuiJK6VvUhf8zA6k",
+                "id": "7eYzn1CuiJK6VvUhf8zA6k",
+                "is_local": false,
+                "name": "WHERE IS MY HUSBAND!",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:7eYzn1CuiJK6VvUhf8zA6k"
+            },
+            "played_at": "2026-05-04T01:58:01.037Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2FgknX5e7fJlriQtxvpLhZ",
+                    "id": "2FgknX5e7fJlriQtxvpLhZ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020672b0f8756ae2af86e8a5ce",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Lungs (Deluxe Edition)",
+                    "release_date": "2009",
+                    "release_date_precision": "year",
+                    "total_tracks": 24,
+                    "type": "album",
+                    "uri": "spotify:album:2FgknX5e7fJlriQtxvpLhZ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 123333,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0jv5OcbvTUHgO8FgHhya8b",
+                "id": "0jv5OcbvTUHgO8FgHhya8b",
+                "is_local": false,
+                "name": "Kiss With A Fist",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:0jv5OcbvTUHgO8FgHhya8b"
+            },
+            "played_at": "2026-05-04T01:58:00.999Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250954,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0B3XiJ76SnOBgdcHWikLnE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0B3XiJ76SnOBgdcHWikLnE",
+                "id": "0B3XiJ76SnOBgdcHWikLnE",
+                "is_local": false,
+                "name": "Fields. (feat. Grandad Michael)",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:0B3XiJ76SnOBgdcHWikLnE"
+            },
+            "played_at": "2026-05-04T01:58:00.905Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224319,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4oUrl0RyDqr1DvNDvPNdRL",
+                "id": "4oUrl0RyDqr1DvNDvPNdRL",
+                "is_local": false,
+                "name": "BRITTANY MURPHY.",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:4oUrl0RyDqr1DvNDvPNdRL"
+            },
+            "played_at": "2026-05-04T01:57:59.694Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 377003,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ka0xUb0kho8KMOCuuPOZJ",
+                "id": "0ka0xUb0kho8KMOCuuPOZJ",
+                "is_local": false,
+                "name": "I Know You're Hurting.",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:0ka0xUb0kho8KMOCuuPOZJ"
+            },
+            "played_at": "2026-05-04T01:57:59.519Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 138355,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/14udREwCZTL0PQ6Rgp7Alq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/14udREwCZTL0PQ6Rgp7Alq",
+                "id": "14udREwCZTL0PQ6Rgp7Alq",
+                "is_local": false,
+                "name": "WHAT IS IT LIKE, TO BE LIKED?",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:14udREwCZTL0PQ6Rgp7Alq"
+            },
+            "played_at": "2026-05-04T01:57:59.178Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 260070,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/78RbVzmxF51GURFpCNRvz2",
+                "id": "78RbVzmxF51GURFpCNRvz2",
+                "is_local": false,
+                "name": "Winter Woman.",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:78RbVzmxF51GURFpCNRvz2"
+            },
+            "played_at": "2026-05-04T01:57:59.145Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 235511,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/59TbbTEDx5kbwjYOEZ9IT5",
+                "id": "59TbbTEDx5kbwjYOEZ9IT5",
+                "is_local": false,
+                "name": "The WhatsApp Shakespeare.",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:59TbbTEDx5kbwjYOEZ9IT5"
+            },
+            "played_at": "2026-05-04T01:57:58.792Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206122,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/60V50fekMrp2lTges6f28D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/60V50fekMrp2lTges6f28D",
+                "id": "60V50fekMrp2lTges6f28D",
+                "is_local": false,
+                "name": "Beware.. The South London Lover Boy.",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:60V50fekMrp2lTges6f28D"
+            },
+            "played_at": "2026-05-04T01:57:58.644Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                        "id": "0YC192cP3KPCRWx8zr8MfZ",
+                        "name": "Hans Zimmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 301674,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0XOynYFi9hQfIXKnTct9A7",
+                "id": "0XOynYFi9hQfIXKnTct9A7",
+                "is_local": false,
+                "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0XOynYFi9hQfIXKnTct9A7"
+            },
+            "played_at": "2026-05-04T01:57:58.348Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 294645,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4VnLKvKQQcWnZagNedFSF9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4VnLKvKQQcWnZagNedFSF9",
+                "id": "4VnLKvKQQcWnZagNedFSF9",
+                "is_local": false,
+                "name": "I Will Overcome.",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4VnLKvKQQcWnZagNedFSF9"
+            },
+            "played_at": "2026-05-04T01:57:58.257Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                            "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                            "name": "RAYE",
+                            "type": "artist",
+                            "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                    "id": "3ZN01xzenGMhWHdC5kfAe9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "THIS MUSIC MAY CONTAIN HOPE.",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5KKpBU5eC2tJDzf0wmlRp2",
+                        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                        "name": "RAYE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 73249,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4BQMnvSbKs5yVJHEkc7yUT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4BQMnvSbKs5yVJHEkc7yUT",
+                "id": "4BQMnvSbKs5yVJHEkc7yUT",
+                "is_local": false,
+                "name": "Intro: Girl Under The Grey Cloud.",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4BQMnvSbKs5yVJHEkc7yUT"
+            },
+            "played_at": "2026-05-04T01:57:58.063Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 37147,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6uFebmbfFydAvi0eKYVuvy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6uFebmbfFydAvi0eKYVuvy",
+                "id": "6uFebmbfFydAvi0eKYVuvy",
+                "is_local": false,
+                "name": "*PRAYER*",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:6uFebmbfFydAvi0eKYVuvy"
+            },
+            "played_at": "2026-05-04T01:57:57.944Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 156344,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0FnvAn6pU9CjIUaBH82tCO",
+                "id": "0FnvAn6pU9CjIUaBH82tCO",
+                "is_local": false,
+                "name": "I'M ACTUALLY KINDA FAMOUS",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:0FnvAn6pU9CjIUaBH82tCO"
+            },
+            "played_at": "2026-05-04T01:57:57.534Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 217206,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6xcmJL4UfGrf7ExrPHS88G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6xcmJL4UfGrf7ExrPHS88G",
+                "id": "6xcmJL4UfGrf7ExrPHS88G",
+                "is_local": false,
+                "name": "OLD FLING$",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:6xcmJL4UfGrf7ExrPHS88G"
+            },
+            "played_at": "2026-05-04T01:57:57.463Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215495,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5rAVQ6tq13wub1EHAWRX9t"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5rAVQ6tq13wub1EHAWRX9t",
+                "id": "5rAVQ6tq13wub1EHAWRX9t",
+                "is_local": false,
+                "name": "$T. LOSER",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:5rAVQ6tq13wub1EHAWRX9t"
+            },
+            "played_at": "2026-05-04T01:57:57.264Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199323,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5GgxJ8afPLKHg4MHIxP0av"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5GgxJ8afPLKHg4MHIxP0av",
+                "id": "5GgxJ8afPLKHg4MHIxP0av",
+                "is_local": false,
+                "name": "UNKNOWN LOVERZ",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5GgxJ8afPLKHg4MHIxP0av"
+            },
+            "played_at": "2026-05-04T01:57:57.098Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159691,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4P1zfoLVuBfKHGShgXUjQy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4P1zfoLVuBfKHGShgXUjQy",
+                "id": "4P1zfoLVuBfKHGShgXUjQy",
+                "is_local": false,
+                "name": "YES GODDD",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:4P1zfoLVuBfKHGShgXUjQy"
+            },
+            "played_at": "2026-05-04T01:57:56.834Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 218802,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2CEMCQbU2zy5bVKTcrMDzN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2CEMCQbU2zy5bVKTcrMDzN",
+                "id": "2CEMCQbU2zy5bVKTcrMDzN",
+                "is_local": false,
+                "name": "GAS STATION",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:2CEMCQbU2zy5bVKTcrMDzN"
+            },
+            "played_at": "2026-05-04T01:57:56.453Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 175743,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6eqQLOOiqBnrwKQEzXoHll",
+                "id": "6eqQLOOiqBnrwKQEzXoHll",
+                "is_local": false,
+                "name": "CRANK",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6eqQLOOiqBnrwKQEzXoHll"
+            },
+            "played_at": "2026-05-04T01:57:56.450Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198937,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0rLtUuQgwIlw6vv2eqHKdt",
+                "id": "0rLtUuQgwIlw6vv2eqHKdt",
+                "is_local": false,
+                "name": "BEAT UP CHANEL$",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0rLtUuQgwIlw6vv2eqHKdt"
+            },
+            "played_at": "2026-05-04T01:57:55.880Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 188767,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4XzAJ5UubRHl8mSx3T4Aab",
+                "id": "4XzAJ5UubRHl8mSx3T4Aab",
+                "is_local": false,
+                "name": "Hell On Me",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:4XzAJ5UubRHl8mSx3T4Aab"
+            },
+            "played_at": "2026-05-04T01:57:55.860Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 287055,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6Xp2Zm2sJLdODReZWBBifO",
+                "id": "6Xp2Zm2sJLdODReZWBBifO",
+                "is_local": false,
+                "name": "DANCE...",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6Xp2Zm2sJLdODReZWBBifO"
+            },
+            "played_at": "2026-05-04T01:57:55.804Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167156,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6jMEUqnoREUTIJyVqJaWth"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6jMEUqnoREUTIJyVqJaWth",
+                "id": "6jMEUqnoREUTIJyVqJaWth",
+                "is_local": false,
+                "name": "CANNIBALISM!",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:6jMEUqnoREUTIJyVqJaWth"
+            },
+            "played_at": "2026-05-04T01:57:55.708Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                            "id": "4QM5QCHicznALtX885CnZC",
+                            "name": "Slayyyter",
+                            "type": "artist",
+                            "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5siV9C6eK0NpAqER2FfCVA",
+                    "id": "5siV9C6eK0NpAqER2FfCVA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514c6a0c9499470002aa8ba96f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "WOR$T GIRL IN AMERICA",
+                    "release_date": "2026-03-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5siV9C6eK0NpAqER2FfCVA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4QM5QCHicznALtX885CnZC",
+                        "id": "4QM5QCHicznALtX885CnZC",
+                        "name": "Slayyyter",
+                        "type": "artist",
+                        "uri": "spotify:artist:4QM5QCHicznALtX885CnZC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 159198,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4m9DCecxzytC3ikqqVvtbd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4m9DCecxzytC3ikqqVvtbd",
+                "id": "4m9DCecxzytC3ikqqVvtbd",
+                "is_local": false,
+                "name": "OLD TECHNOLOGY",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:4m9DCecxzytC3ikqqVvtbd"
+            },
+            "played_at": "2026-05-04T01:57:55.657Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3",
+                        "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+                        "name": "Willie Nelson",
+                        "type": "artist",
+                        "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213382,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5TiQigVz1QEdGp7blCbYLQ",
+                "id": "5TiQigVz1QEdGp7blCbYLQ",
+                "is_local": false,
+                "name": "Uncertain, TX (feat. Willie Nelson)",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:5TiQigVz1QEdGp7blCbYLQ"
+            },
+            "played_at": "2026-05-04T01:57:54.467Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213801,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3gzUTPvmKy7L7xaKoVIvBD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3gzUTPvmKy7L7xaKoVIvBD",
+                "id": "3gzUTPvmKy7L7xaKoVIvBD",
+                "is_local": false,
+                "name": "Rhinestoned",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:3gzUTPvmKy7L7xaKoVIvBD"
+            },
+            "played_at": "2026-05-04T01:57:54.268Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223332,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7xKr077iMufVJwge6aO9xJ",
+                "id": "7xKr077iMufVJwge6aO9xJ",
+                "is_local": false,
+                "name": "Mexico Honey",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:7xKr077iMufVJwge6aO9xJ"
+            },
+            "played_at": "2026-05-04T01:57:54.187Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/66lH4jAE7pqPlOlzUKbwA0",
+                        "id": "66lH4jAE7pqPlOlzUKbwA0",
+                        "name": "Miranda Lambert",
+                        "type": "artist",
+                        "uri": "spotify:artist:66lH4jAE7pqPlOlzUKbwA0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 163689,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/44tr6kkaMRgd2UVG44wqv7",
+                "id": "44tr6kkaMRgd2UVG44wqv7",
+                "is_local": false,
+                "name": "Horses and Divorces (feat. Miranda Lambert)",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:44tr6kkaMRgd2UVG44wqv7"
+            },
+            "played_at": "2026-05-04T01:57:54.138Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 168208,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1jqDLQJVbfYh525gPEZkvC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1jqDLQJVbfYh525gPEZkvC",
+                "id": "1jqDLQJVbfYh525gPEZkvC",
+                "is_local": false,
+                "name": "Abilene",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:1jqDLQJVbfYh525gPEZkvC"
+            },
+            "played_at": "2026-05-04T01:57:51.529Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231419,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/02xaiXgg0a7tcAuDShJ7AQ",
+                "id": "02xaiXgg0a7tcAuDShJ7AQ",
+                "is_local": false,
+                "name": "Back On The Wagon",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:02xaiXgg0a7tcAuDShJ7AQ"
+            },
+            "played_at": "2026-05-04T01:57:51.523Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 256475,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2GOAQ9e3SL6W9AlwoudUGB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2GOAQ9e3SL6W9AlwoudUGB",
+                "id": "2GOAQ9e3SL6W9AlwoudUGB",
+                "is_local": false,
+                "name": "Loneliest Girl",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2GOAQ9e3SL6W9AlwoudUGB"
+            },
+            "played_at": "2026-05-04T01:57:51.490Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ZN1c1qWEGZNX1pGeKCPpf",
+                        "id": "1ZN1c1qWEGZNX1pGeKCPpf",
+                        "name": "Billy Strings",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ZN1c1qWEGZNX1pGeKCPpf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219357,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6ULjjAbwB2BoTZthQKv1Q2",
+                "id": "6ULjjAbwB2BoTZthQKv1Q2",
+                "is_local": false,
+                "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:6ULjjAbwB2BoTZthQKv1Q2"
+            },
+            "played_at": "2026-05-04T01:57:51.464Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 156973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3kABshsEtLKsJpi8Oh0Wr4",
+                "id": "3kABshsEtLKsJpi8Oh0Wr4",
+                "is_local": false,
+                "name": "Middle of Nowhere",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3kABshsEtLKsJpi8Oh0Wr4"
+            },
+            "played_at": "2026-05-04T01:57:51.433Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5sXaGoRLSpd7VeyZrLkKwt",
+                        "id": "5sXaGoRLSpd7VeyZrLkKwt",
+                        "name": "Gregory Alan Isakov",
+                        "type": "artist",
+                        "uri": "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 192397,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/795nt0TKDtjIe0o0f1eMx5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/795nt0TKDtjIe0o0f1eMx5",
+                "id": "795nt0TKDtjIe0o0f1eMx5",
+                "is_local": false,
+                "name": "Coyote (feat. Gregory Alan Isakov)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:795nt0TKDtjIe0o0f1eMx5"
+            },
+            "played_at": "2026-05-04T01:57:51.408Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197681,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5rS4oyksANQJJeUgTNld5b"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5rS4oyksANQJJeUgTNld5b",
+                "id": "5rS4oyksANQJJeUgTNld5b",
+                "is_local": false,
+                "name": "Dry Spell",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5rS4oyksANQJJeUgTNld5b"
+            },
+            "played_at": "2026-05-04T01:57:51.399Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                            "id": "70kkdajctXSbqSMJbQO424",
+                            "name": "Kacey Musgraves",
+                            "type": "artist",
+                            "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                    "id": "1quFS6EneVBW7PTbipPlNg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273db4692c1c73f5e63cbeeb2fe",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02db4692c1c73f5e63cbeeb2fe",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851db4692c1c73f5e63cbeeb2fe",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Middle of Nowhere",
+                    "release_date": "2026-05-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/70kkdajctXSbqSMJbQO424",
+                        "id": "70kkdajctXSbqSMJbQO424",
+                        "name": "Kacey Musgraves",
+                        "type": "artist",
+                        "uri": "spotify:artist:70kkdajctXSbqSMJbQO424"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231253,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7grbib2M3CyUJUf4dcm7uQ",
+                "id": "7grbib2M3CyUJUf4dcm7uQ",
+                "is_local": false,
+                "name": "I Believe In Ghosts",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:7grbib2M3CyUJUf4dcm7uQ"
+            },
+            "played_at": "2026-05-04T01:57:51.394Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1quFS6EneVBW7PTbipPlNg",
+                "type": "album",
+                "uri": "spotify:album:1quFS6EneVBW7PTbipPlNg"
+            }
         }
     ]
 }
