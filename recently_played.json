@@ -267317,6 +267317,1430 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MhG5IXiezatEXyNsXPLPm",
+                    "id": "3MhG5IXiezatEXyNsXPLPm",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fca4cb3216d3db3e533b07b3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fca4cb3216d3db3e533b07b3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fca4cb3216d3db3e533b07b3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "She Wolf (Expanded Edition)",
+                    "release_date": "2009-10-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:3MhG5IXiezatEXyNsXPLPm"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/50nXBeI5RwKshansUZrdSQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/50nXBeI5RwKshansUZrdSQ",
+                "id": "50nXBeI5RwKshansUZrdSQ",
+                "is_local": false,
+                "name": "Men in This Town",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:50nXBeI5RwKshansUZrdSQ"
+            },
+            "played_at": "2026-05-07T20:19:09.444Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+                    "id": "6bUxh58rYTL67FS8dyTKMN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eec120f35546507f59f05c41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851eec120f35546507f59f05c41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "El Dorado",
+                    "release_date": "2017-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189395,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VD3oQilL00HfIEW6ICSQq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VD3oQilL00HfIEW6ICSQq",
+                "id": "5VD3oQilL00HfIEW6ICSQq",
+                "is_local": false,
+                "name": "Toneladas",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:5VD3oQilL00HfIEW6ICSQq"
+            },
+            "played_at": "2026-05-07T20:15:40.406Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3HLngzP9wVd8p3SMDQgyd9",
+                    "id": "3HLngzP9wVd8p3SMDQgyd9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273021b9779a9dbaa6a976edb2d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02021b9779a9dbaa6a976edb2d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851021b9779a9dbaa6a976edb2d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pies Descalzos",
+                    "release_date": "1995-10-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:3HLngzP9wVd8p3SMDQgyd9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5yKQTwznar5I75UyYJ9CnR",
+                "id": "5yKQTwznar5I75UyYJ9CnR",
+                "is_local": false,
+                "name": "Pies Descalzos, Sue\u00f1os Blancos",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5yKQTwznar5I75UyYJ9CnR"
+            },
+            "played_at": "2026-05-07T20:12:23.035Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fonA82Hl7huJiQCwKkzGA",
+                    "id": "3fonA82Hl7huJiQCwKkzGA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ce5d64fac62023f21f8f04a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ce5d64fac62023f21f8f04a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ce5d64fac62023f21f8f04a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Las Mujeres Ya No Lloran",
+                    "release_date": "2024-03-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3fonA82Hl7huJiQCwKkzGA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 179000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/40Ccxt7rKCXiViGQKPPACR",
+                "id": "40Ccxt7rKCXiViGQKPPACR",
+                "is_local": false,
+                "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:40Ccxt7rKCXiViGQKPPACR"
+            },
+            "played_at": "2026-05-07T20:09:01.598Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MhG5IXiezatEXyNsXPLPm",
+                    "id": "3MhG5IXiezatEXyNsXPLPm",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fca4cb3216d3db3e533b07b3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fca4cb3216d3db3e533b07b3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fca4cb3216d3db3e533b07b3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "She Wolf (Expanded Edition)",
+                    "release_date": "2009-10-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:3MhG5IXiezatEXyNsXPLPm"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245066,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5uDGB0GbShBBUQ4LXBH61q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5uDGB0GbShBBUQ4LXBH61q",
+                "id": "5uDGB0GbShBBUQ4LXBH61q",
+                "is_local": false,
+                "name": "Mon Amour",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5uDGB0GbShBBUQ4LXBH61q"
+            },
+            "played_at": "2026-05-07T20:04:47.694Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 196160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2lnzGkdtDj5mtlcOW2yRtG",
+                "id": "2lnzGkdtDj5mtlcOW2yRtG",
+                "is_local": false,
+                "name": "Whenever, Wherever",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2lnzGkdtDj5mtlcOW2yRtG"
+            },
+            "played_at": "2026-05-07T20:00:42.004Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5meb7aKE722LA66ssBhvfM",
+                    "id": "5meb7aKE722LA66ssBhvfM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020da1a7e7f3e9ef163e1c1dbf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510da1a7e7f3e9ef163e1c1dbf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition) [Spanish Version]",
+                    "release_date": "2014-03-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:5meb7aKE722LA66ssBhvfM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+                        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+                        "name": "Rihanna",
+                        "type": "artist",
+                        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7o1Pm9jpH0wFpN5g793Lnq",
+                "id": "7o1Pm9jpH0wFpN5g793Lnq",
+                "is_local": false,
+                "name": "Can't Remember to Forget You (feat. Rihanna)",
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:7o1Pm9jpH0wFpN5g793Lnq"
+            },
+            "played_at": "2026-05-07T19:57:22.501Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 253066,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4EUyYRMOyIWEd6tesaiYU6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4EUyYRMOyIWEd6tesaiYU6",
+                "id": "4EUyYRMOyIWEd6tesaiYU6",
+                "is_local": false,
+                "name": "Ready for the Good Times",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4EUyYRMOyIWEd6tesaiYU6"
+            },
+            "played_at": "2026-05-07T19:53:45.434Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2cHhcN6iNLNXc7FByWBGi5",
+                    "id": "2cHhcN6iNLNXc7FByWBGi5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0285432abc16fd92be0d435cb9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485185432abc16fd92be0d435cb9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+                    "release_date": "2005-11-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:2cHhcN6iNLNXc7FByWBGi5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 259560,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4tN0D2OeDh2pErMXCu86Du"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4tN0D2OeDh2pErMXCu86Du",
+                "id": "4tN0D2OeDh2pErMXCu86Du",
+                "is_local": false,
+                "name": "Don't Bother",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4tN0D2OeDh2pErMXCu86Du"
+            },
+            "played_at": "2026-05-07T19:49:28.799Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3gR578qnw47M30LVBTjrlW",
+                    "id": "3gR578qnw47M30LVBTjrlW",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734214ddc9e33e76de6a8ee888",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024214ddc9e33e76de6a8ee888",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514214ddc9e33e76de6a8ee888",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sale el Sol",
+                    "release_date": "2010-10-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:3gR578qnw47M30LVBTjrlW"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 147480,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4zy1s9GnxWsNzZp1688euA",
+                "id": "4zy1s9GnxWsNzZp1688euA",
+                "is_local": false,
+                "name": "Addicted to You",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:4zy1s9GnxWsNzZp1688euA"
+            },
+            "played_at": "2026-05-07T19:45:29.452Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3HLngzP9wVd8p3SMDQgyd9",
+                    "id": "3HLngzP9wVd8p3SMDQgyd9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273021b9779a9dbaa6a976edb2d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02021b9779a9dbaa6a976edb2d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851021b9779a9dbaa6a976edb2d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pies Descalzos",
+                    "release_date": "1995-10-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:3HLngzP9wVd8p3SMDQgyd9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 231693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6IGvaQ4aFBjy66TdUurIiA",
+                "id": "6IGvaQ4aFBjy66TdUurIiA",
+                "is_local": false,
+                "name": "Donde Estas Corazon",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:6IGvaQ4aFBjy66TdUurIiA"
+            },
+            "played_at": "2026-05-07T19:42:40.469Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2cHhcN6iNLNXc7FByWBGi5",
+                    "id": "2cHhcN6iNLNXc7FByWBGi5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0285432abc16fd92be0d435cb9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485185432abc16fd92be0d435cb9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+                    "release_date": "2005-11-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:2cHhcN6iNLNXc7FByWBGi5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0MsXN56oNCyqorqEPViWgQ",
+                        "id": "0MsXN56oNCyqorqEPViWgQ",
+                        "name": "Carlos Santana",
+                        "type": "artist",
+                        "uri": "spotify:artist:0MsXN56oNCyqorqEPViWgQ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236106,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5toWsyTlR9gyxAtKm4Z1A8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5toWsyTlR9gyxAtKm4Z1A8",
+                "id": "5toWsyTlR9gyxAtKm4Z1A8",
+                "is_local": false,
+                "name": "Illegal (feat. Carlos Santana)",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5toWsyTlR9gyxAtKm4Z1A8"
+            },
+            "played_at": "2026-05-07T19:38:47.964Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4ohh1zQ4yybSK9FS7LLyDE",
+                    "id": "4ohh1zQ4yybSK9FS7LLyDE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025fd9e21618182df7d70b2186",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515fd9e21618182df7d70b2186",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Dance Fever",
+                    "release_date": "2022-05-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:4ohh1zQ4yybSK9FS7LLyDE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 262001,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2HtpqUSxCZ5FnbQ6PTtY4L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2HtpqUSxCZ5FnbQ6PTtY4L",
+                "id": "2HtpqUSxCZ5FnbQ6PTtY4L",
+                "is_local": false,
+                "name": "Morning Elvis",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:2HtpqUSxCZ5FnbQ6PTtY4L"
+            },
+            "played_at": "2026-05-07T19:37:22.588Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3cwTX3sl4WWRLuhKXuD3b1",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3cwTX3sl4WWRLuhKXuD3b1"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3cwTX3sl4WWRLuhKXuD3b1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2cHhcN6iNLNXc7FByWBGi5",
+                    "id": "2cHhcN6iNLNXc7FByWBGi5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0285432abc16fd92be0d435cb9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485185432abc16fd92be0d435cb9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+                    "release_date": "2005-11-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:2cHhcN6iNLNXc7FByWBGi5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+                        "id": "7aBzpmFXB4WWpPl2F7RjBe",
+                        "name": "Wyclef Jean",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3d0WouFnFmr0K3kjeza3fF",
+                "id": "3d0WouFnFmr0K3kjeza3fF",
+                "is_local": false,
+                "name": "Hips Don't Lie (feat. Wyclef Jean)",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3d0WouFnFmr0K3kjeza3fF"
+            },
+            "played_at": "2026-05-07T19:34:51.630Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+                    "id": "6bUxh58rYTL67FS8dyTKMN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eec120f35546507f59f05c41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851eec120f35546507f59f05c41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "El Dorado",
+                    "release_date": "2017-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198106,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6MFVCPU3QN3YqMjJz4mtFe",
+                "id": "6MFVCPU3QN3YqMjJz4mtFe",
+                "is_local": false,
+                "name": "When a Woman",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6MFVCPU3QN3YqMjJz4mtFe"
+            },
+            "played_at": "2026-05-07T19:31:10.743Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2gOSZzsO8EZJvtdmVOVtJE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2gOSZzsO8EZJvtdmVOVtJE",
+                    "id": "2gOSZzsO8EZJvtdmVOVtJE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737d949f3caae8a2b3b7e63b16",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027d949f3caae8a2b3b7e63b16",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517d949f3caae8a2b3b7e63b16",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition)",
+                    "release_date": "2014-03-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:2gOSZzsO8EZJvtdmVOVtJE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2g1jbrVOuX488h5ILA1Cb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2g1jbrVOuX488h5ILA1Cb2",
+                "id": "2g1jbrVOuX488h5ILA1Cb2",
+                "is_local": false,
+                "name": "Dare (La La La)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2g1jbrVOuX488h5ILA1Cb2"
+            },
+            "played_at": "2026-05-07T19:27:51.728Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2gOSZzsO8EZJvtdmVOVtJE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2gOSZzsO8EZJvtdmVOVtJE",
+                    "id": "2gOSZzsO8EZJvtdmVOVtJE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737d949f3caae8a2b3b7e63b16",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027d949f3caae8a2b3b7e63b16",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517d949f3caae8a2b3b7e63b16",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition)",
+                    "release_date": "2014-03-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:2gOSZzsO8EZJvtdmVOVtJE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 186506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2g1jbrVOuX488h5ILA1Cb2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2g1jbrVOuX488h5ILA1Cb2",
+                "id": "2g1jbrVOuX488h5ILA1Cb2",
+                "is_local": false,
+                "name": "Dare (La La La)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2g1jbrVOuX488h5ILA1Cb2"
+            },
+            "played_at": "2026-05-07T19:27:37.345Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/7B9EC1RsxFZXv5shDibiTU",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7B9EC1RsxFZXv5shDibiTU"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7B9EC1RsxFZXv5shDibiTU"
+            }
         }
     ]
 }
