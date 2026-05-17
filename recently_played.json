@@ -287785,6 +287785,252 @@
                 },
                 "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/57u5thaIOVk1Z7fmeiEWtv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/57u5thaIOVk1Z7fmeiEWtv",
+                    "id": "57u5thaIOVk1Z7fmeiEWtv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737ff9214819dc0ea9886a3a1a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027ff9214819dc0ea9886a3a1a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517ff9214819dc0ea9886a3a1a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Circles",
+                    "release_date": "2022-08-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:57u5thaIOVk1Z7fmeiEWtv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237860,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3OsguMn8eDcVxNAqQSFPTf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3OsguMn8eDcVxNAqQSFPTf",
+                "id": "3OsguMn8eDcVxNAqQSFPTf",
+                "is_local": false,
+                "name": "Circles",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3OsguMn8eDcVxNAqQSFPTf"
+            },
+            "played_at": "2026-05-17T13:47:45.240Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/11ZOyF9bKgnusVD1rUapwv",
+                    "id": "11ZOyF9bKgnusVD1rUapwv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b2f0a2eb8c8442b1a147da51",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b2f0a2eb8c8442b1a147da51",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b2f0a2eb8c8442b1a147da51",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club (Deluxe Edition)",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189986,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/58ilyyghgQUtFyT9b3VWJJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/58ilyyghgQUtFyT9b3VWJJ",
+                "id": "58ilyyghgQUtFyT9b3VWJJ",
+                "is_local": false,
+                "name": "Strong Enough",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:58ilyyghgQUtFyT9b3VWJJ"
+            },
+            "played_at": "2026-05-17T13:43:45.703Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J",
+                            "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+                            "name": "Kim Petras",
+                            "type": "artist",
+                            "uri": "spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4ktNXlFfaU5AckDtYUmB3S"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4ktNXlFfaU5AckDtYUmB3S",
+                    "id": "4ktNXlFfaU5AckDtYUmB3S",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733f55b1885423572f8fb7638c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023f55b1885423572f8fb7638c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513f55b1885423572f8fb7638c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jeep",
+                    "release_date": "2026-05-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:4ktNXlFfaU5AckDtYUmB3S"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J",
+                        "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+                        "name": "Kim Petras",
+                        "type": "artist",
+                        "uri": "spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209613,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2NePND1BuFcrVdrDFR2HsS",
+                "id": "2NePND1BuFcrVdrDFR2HsS",
+                "is_local": false,
+                "name": "Jeep",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2NePND1BuFcrVdrDFR2HsS"
+            },
+            "played_at": "2026-05-17T13:40:21.943Z",
+            "context": {
+                "type": "artist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J",
+                "uri": "spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J"
+            }
         }
     ]
 }
