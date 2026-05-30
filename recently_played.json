@@ -325778,6 +325778,530 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky",
+                    "id": "6WgGWYw6XXQyLTsWt7tXky",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e5855edffddef46b7feff49b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e5855edffddef46b7feff49b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Graceland (25th Anniversary Deluxe Edition)",
+                    "release_date": "1986-08-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 291200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/51KKQAgYFoJHgVIuJWHdHb",
+                "id": "51KKQAgYFoJHgVIuJWHdHb",
+                "is_local": false,
+                "name": "Graceland",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:51KKQAgYFoJHgVIuJWHdHb"
+            },
+            "played_at": "2026-05-30T18:05:36.204Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/60B2BBjn6yEQEl8XLYMZU2",
+                            "id": "60B2BBjn6yEQEl8XLYMZU2",
+                            "name": "Christopher Tin",
+                            "type": "artist",
+                            "uri": "spotify:artist:60B2BBjn6yEQEl8XLYMZU2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0s1sXci3Ok4t6fy2y1Xzh5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0s1sXci3Ok4t6fy2y1Xzh5",
+                    "id": "0s1sXci3Ok4t6fy2y1Xzh5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27328b81cfd1f77cf0568ff4ef2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0228b81cfd1f77cf0568ff4ef2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485128b81cfd1f77cf0568ff4ef2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Calling All Dawns",
+                    "release_date": "2009-10-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0s1sXci3Ok4t6fy2y1Xzh5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/60B2BBjn6yEQEl8XLYMZU2",
+                        "id": "60B2BBjn6yEQEl8XLYMZU2",
+                        "name": "Christopher Tin",
+                        "type": "artist",
+                        "uri": "spotify:artist:60B2BBjn6yEQEl8XLYMZU2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mMaqfhEcPjrR2FEKWVpOl",
+                        "id": "6mMaqfhEcPjrR2FEKWVpOl",
+                        "name": "Soweto Gospel Choir",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mMaqfhEcPjrR2FEKWVpOl"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209946,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6UDFkqHY5gLREnSh9jd5th"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6UDFkqHY5gLREnSh9jd5th",
+                "id": "6UDFkqHY5gLREnSh9jd5th",
+                "is_local": false,
+                "name": "Baba Yetu",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6UDFkqHY5gLREnSh9jd5th"
+            },
+            "played_at": "2026-05-30T18:00:44.404Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0lpe8GmqY2RVE54SdQRPmj",
+                            "id": "0lpe8GmqY2RVE54SdQRPmj",
+                            "name": "Judah Earl",
+                            "type": "artist",
+                            "uri": "spotify:artist:0lpe8GmqY2RVE54SdQRPmj"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/31OM7jxJlFyQdPiPm2oT3i"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/31OM7jxJlFyQdPiPm2oT3i",
+                            "id": "31OM7jxJlFyQdPiPm2oT3i",
+                            "name": "Odeta",
+                            "type": "artist",
+                            "uri": "spotify:artist:31OM7jxJlFyQdPiPm2oT3i"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6vytOyhAyFu5EMNlc6hz4q"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6vytOyhAyFu5EMNlc6hz4q",
+                    "id": "6vytOyhAyFu5EMNlc6hz4q",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732289017424b996d35fdabcc8",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022289017424b996d35fdabcc8",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512289017424b996d35fdabcc8",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Heritage",
+                    "release_date": "2020-11-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 4,
+                    "type": "album",
+                    "uri": "spotify:album:6vytOyhAyFu5EMNlc6hz4q"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0lpe8GmqY2RVE54SdQRPmj",
+                        "id": "0lpe8GmqY2RVE54SdQRPmj",
+                        "name": "Judah Earl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0lpe8GmqY2RVE54SdQRPmj"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/31OM7jxJlFyQdPiPm2oT3i"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/31OM7jxJlFyQdPiPm2oT3i",
+                        "id": "31OM7jxJlFyQdPiPm2oT3i",
+                        "name": "Odeta",
+                        "type": "artist",
+                        "uri": "spotify:artist:31OM7jxJlFyQdPiPm2oT3i"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237897,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4y8PX0JKwkoHcMlTiS1SQC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4y8PX0JKwkoHcMlTiS1SQC",
+                "id": "4y8PX0JKwkoHcMlTiS1SQC",
+                "is_local": false,
+                "name": "Urambona",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4y8PX0JKwkoHcMlTiS1SQC"
+            },
+            "played_at": "2026-05-30T17:57:13.975Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky",
+                    "id": "6WgGWYw6XXQyLTsWt7tXky",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e5855edffddef46b7feff49b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e5855edffddef46b7feff49b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Graceland (25th Anniversary Deluxe Edition)",
+                    "release_date": "1986-08-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3FdLhnmXynPvZkbILPpB6d",
+                        "id": "3FdLhnmXynPvZkbILPpB6d",
+                        "name": "Ladysmith Black Mambazo",
+                        "type": "artist",
+                        "uri": "spotify:artist:3FdLhnmXynPvZkbILPpB6d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228413,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/75fomtP3etOOIJDBAXVawy",
+                "id": "75fomtP3etOOIJDBAXVawy",
+                "is_local": false,
+                "name": "Homeless (with Ladysmith Black Mambazo)",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:75fomtP3etOOIJDBAXVawy"
+            },
+            "played_at": "2026-05-30T17:53:15.608Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5QPkUg8ZHjFMD1dVQHpJUX"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5QPkUg8ZHjFMD1dVQHpJUX",
+                            "id": "5QPkUg8ZHjFMD1dVQHpJUX",
+                            "name": "FunkPharm",
+                            "type": "artist",
+                            "uri": "spotify:artist:5QPkUg8ZHjFMD1dVQHpJUX"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2YyZrDoQn0alXttMnAFCMm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2YyZrDoQn0alXttMnAFCMm",
+                            "id": "2YyZrDoQn0alXttMnAFCMm",
+                            "name": "MaMuse",
+                            "type": "artist",
+                            "uri": "spotify:artist:2YyZrDoQn0alXttMnAFCMm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3hb68KaZt7IeYrAIXDIGtV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3hb68KaZt7IeYrAIXDIGtV",
+                    "id": "3hb68KaZt7IeYrAIXDIGtV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273429e1d5a968859cb41d3c356",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02429e1d5a968859cb41d3c356",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851429e1d5a968859cb41d3c356",
+                            "width": 64
+                        }
+                    ],
+                    "name": "ReMuse",
+                    "release_date": "2024-10-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 8,
+                    "type": "album",
+                    "uri": "spotify:album:3hb68KaZt7IeYrAIXDIGtV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5QPkUg8ZHjFMD1dVQHpJUX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5QPkUg8ZHjFMD1dVQHpJUX",
+                        "id": "5QPkUg8ZHjFMD1dVQHpJUX",
+                        "name": "FunkPharm",
+                        "type": "artist",
+                        "uri": "spotify:artist:5QPkUg8ZHjFMD1dVQHpJUX"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YyZrDoQn0alXttMnAFCMm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YyZrDoQn0alXttMnAFCMm",
+                        "id": "2YyZrDoQn0alXttMnAFCMm",
+                        "name": "MaMuse",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YyZrDoQn0alXttMnAFCMm"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 200244,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6LfTv50WazEM9tQNUQcQpM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6LfTv50WazEM9tQNUQcQpM",
+                "id": "6LfTv50WazEM9tQNUQcQpM",
+                "is_local": false,
+                "name": "Oh River (FunkPharm Mix)",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:6LfTv50WazEM9tQNUQcQpM"
+            },
+            "played_at": "2026-05-30T17:48:42.494Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/4nlaAPeVtLJkqfIYQYDfdE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/4nlaAPeVtLJkqfIYQYDfdE"
+                },
+                "uri": "spotify:playlist:4nlaAPeVtLJkqfIYQYDfdE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                            "name": "Yebba",
+                            "type": "artist",
+                            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/27SQuR7jPiGkJJXl8njEqY",
+                    "id": "27SQuR7jPiGkJJXl8njEqY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735932b2362d978f6fa10ca63e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025932b2362d978f6fa10ca63e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515932b2362d978f6fa10ca63e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Jean",
+                    "release_date": "2026-03-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:27SQuR7jPiGkJJXl8njEqY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                        "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                        "name": "Yebba",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 162096,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4l3MfSQrxCWfUYUyE2sMy6",
+                "id": "4l3MfSQrxCWfUYUyE2sMy6",
+                "is_local": false,
+                "name": "Yellow Eyes",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:4l3MfSQrxCWfUYUyE2sMy6"
+            },
+            "played_at": "2026-05-30T17:42:03.375Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3ZN01xzenGMhWHdC5kfAe9",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+                },
+                "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
+            }
         }
     ]
 }
