@@ -336224,6 +336224,852 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/32Ko3nL0210QAt14S3Rs4Y",
+                            "id": "32Ko3nL0210QAt14S3Rs4Y",
+                            "name": "Sjowgren",
+                            "type": "artist",
+                            "uri": "spotify:artist:32Ko3nL0210QAt14S3Rs4Y"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6uR4bPGGdQHDphbyubK9zc",
+                    "id": "6uR4bPGGdQHDphbyubK9zc",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735edda7834f7be30c71bb137e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025edda7834f7be30c71bb137e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515edda7834f7be30c71bb137e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Now & Then",
+                    "release_date": "2017-01-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6uR4bPGGdQHDphbyubK9zc"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/32Ko3nL0210QAt14S3Rs4Y",
+                        "id": "32Ko3nL0210QAt14S3Rs4Y",
+                        "name": "Sjowgren",
+                        "type": "artist",
+                        "uri": "spotify:artist:32Ko3nL0210QAt14S3Rs4Y"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205893,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+                },
+                "href": "https://api.spotify.com/v1/tracks/41oqThgUF4yiNz77TazXtl",
+                "id": "41oqThgUF4yiNz77TazXtl",
+                "is_local": false,
+                "name": "Now & Then",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:41oqThgUF4yiNz77TazXtl"
+            },
+            "played_at": "2026-06-03T01:40:17.637Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/32Ko3nL0210QAt14S3Rs4Y",
+                            "id": "32Ko3nL0210QAt14S3Rs4Y",
+                            "name": "Sjowgren",
+                            "type": "artist",
+                            "uri": "spotify:artist:32Ko3nL0210QAt14S3Rs4Y"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4BrJEabBSw59bwSjKZl25p",
+                    "id": "4BrJEabBSw59bwSjKZl25p",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ea18068c00c9780c65415c6a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ea18068c00c9780c65415c6a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ea18068c00c9780c65415c6a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Seventeen",
+                    "release_date": "2016-08-05",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:4BrJEabBSw59bwSjKZl25p"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/32Ko3nL0210QAt14S3Rs4Y",
+                        "id": "32Ko3nL0210QAt14S3Rs4Y",
+                        "name": "Sjowgren",
+                        "type": "artist",
+                        "uri": "spotify:artist:32Ko3nL0210QAt14S3Rs4Y"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4gsR34XSIE2fUY4odwZqym",
+                "id": "4gsR34XSIE2fUY4odwZqym",
+                "is_local": false,
+                "name": "Seventeen",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4gsR34XSIE2fUY4odwZqym"
+            },
+            "played_at": "2026-06-03T01:32:52.284Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/661EtVkZYuH41VXXuOMBbo",
+                    "id": "661EtVkZYuH41VXXuOMBbo",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737dacaf4b4e51b685ed1c4e90",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027dacaf4b4e51b685ed1c4e90",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517dacaf4b4e51b685ed1c4e90",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Try Everything (From \"Zootropolis\")",
+                    "release_date": "2016-02-05",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:661EtVkZYuH41VXXuOMBbo"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 196706,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3qrH2YFnbEiQeUe4wzgOuP",
+                "id": "3qrH2YFnbEiQeUe4wzgOuP",
+                "is_local": false,
+                "name": "Try Everything - From \"Zootropolis\"",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3qrH2YFnbEiQeUe4wzgOuP"
+            },
+            "played_at": "2026-06-03T01:03:41.877Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 196160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2lnzGkdtDj5mtlcOW2yRtG",
+                "id": "2lnzGkdtDj5mtlcOW2yRtG",
+                "is_local": false,
+                "name": "Whenever, Wherever",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2lnzGkdtDj5mtlcOW2yRtG"
+            },
+            "played_at": "2026-06-03T00:57:08.035Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5meb7aKE722LA66ssBhvfM",
+                    "id": "5meb7aKE722LA66ssBhvfM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020da1a7e7f3e9ef163e1c1dbf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510da1a7e7f3e9ef163e1c1dbf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition) [Spanish Version]",
+                    "release_date": "2014-03-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:5meb7aKE722LA66ssBhvfM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+                        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+                        "name": "Rihanna",
+                        "type": "artist",
+                        "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206866,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7o1Pm9jpH0wFpN5g793Lnq",
+                "id": "7o1Pm9jpH0wFpN5g793Lnq",
+                "is_local": false,
+                "name": "Can't Remember to Forget You (feat. Rihanna)",
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:7o1Pm9jpH0wFpN5g793Lnq"
+            },
+            "played_at": "2026-06-03T00:53:51.447Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+                            "id": "1yxSLGMDHlW21z4YXirZDS",
+                            "name": "Black Eyed Peas",
+                            "type": "artist",
+                            "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0uxvuY8Ek2ojzHrWTg2PDc",
+                    "id": "0uxvuY8Ek2ojzHrWTg2PDc",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737a7bb3f6985052cd97c15279",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027a7bb3f6985052cd97c15279",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517a7bb3f6985052cd97c15279",
+                            "width": 64
+                        }
+                    ],
+                    "name": "TRANSLATION",
+                    "release_date": "2020-11-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:0uxvuY8Ek2ojzHrWTg2PDc"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS",
+                        "id": "1yxSLGMDHlW21z4YXirZDS",
+                        "name": "Black Eyed Peas",
+                        "type": "artist",
+                        "uri": "spotify:artist:1yxSLGMDHlW21z4YXirZDS"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 222522,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1zLBsSVxETQOfINOLYvT5m",
+                "id": "1zLBsSVxETQOfINOLYvT5m",
+                "is_local": false,
+                "name": "GIRL LIKE ME",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:1zLBsSVxETQOfINOLYvT5m"
+            },
+            "played_at": "2026-06-03T00:50:24.047Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+                            "id": "790FomKkXshlbRYZFtlgla",
+                            "name": "KAROL G",
+                            "type": "artist",
+                            "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4kS7bSuU0Jm9LYMosFU2x5",
+                    "id": "4kS7bSuU0Jm9LYMosFU2x5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485182de1ca074ae63cb18fce335",
+                            "width": 64
+                        }
+                    ],
+                    "name": "MA\u00d1ANA SER\u00c1 BONITO",
+                    "release_date": "2023-02-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:4kS7bSuU0Jm9LYMosFU2x5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+                        "id": "790FomKkXshlbRYZFtlgla",
+                        "name": "KAROL G",
+                        "type": "artist",
+                        "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197933,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0DWdj2oZMBFSzRsi2Cvfzf",
+                "id": "0DWdj2oZMBFSzRsi2Cvfzf",
+                "is_local": false,
+                "name": "TQG",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0DWdj2oZMBFSzRsi2Cvfzf"
+            },
+            "played_at": "2026-06-03T00:20:58.468Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+                    "id": "6bUxh58rYTL67FS8dyTKMN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eec120f35546507f59f05c41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851eec120f35546507f59f05c41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "El Dorado",
+                    "release_date": "2017-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189395,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VD3oQilL00HfIEW6ICSQq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VD3oQilL00HfIEW6ICSQq",
+                "id": "5VD3oQilL00HfIEW6ICSQq",
+                "is_local": false,
+                "name": "Toneladas",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:5VD3oQilL00HfIEW6ICSQq"
+            },
+            "played_at": "2026-06-03T00:17:40.058Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+                    "id": "6bUxh58rYTL67FS8dyTKMN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eec120f35546507f59f05c41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851eec120f35546507f59f05c41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "El Dorado",
+                    "release_date": "2017-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+                        "id": "1r4hJ1h58CWwUQe3MxPuau",
+                        "name": "Maluma",
+                        "type": "artist",
+                        "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195840,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6mICuAdrwEjh6Y6lroV2Kg",
+                "id": "6mICuAdrwEjh6Y6lroV2Kg",
+                "is_local": false,
+                "name": "Chantaje (feat. Maluma)",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:6mICuAdrwEjh6Y6lroV2Kg"
+            },
+            "played_at": "2026-06-03T00:11:23.525Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fonA82Hl7huJiQCwKkzGA",
+                    "id": "3fonA82Hl7huJiQCwKkzGA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ce5d64fac62023f21f8f04a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ce5d64fac62023f21f8f04a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ce5d64fac62023f21f8f04a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Las Mujeres Ya No Lloran",
+                    "release_date": "2024-03-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:3fonA82Hl7huJiQCwKkzGA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 179000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/40Ccxt7rKCXiViGQKPPACR",
+                "id": "40Ccxt7rKCXiViGQKPPACR",
+                "is_local": false,
+                "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:40Ccxt7rKCXiViGQKPPACR"
+            },
+            "played_at": "2026-06-03T00:08:07.125Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            }
         }
     ]
 }
