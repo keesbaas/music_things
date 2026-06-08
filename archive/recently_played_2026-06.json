@@ -18409,6 +18409,508 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164842,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49dBB2KMMmsSCIGVwwH0v3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49dBB2KMMmsSCIGVwwH0v3",
+                "id": "49dBB2KMMmsSCIGVwwH0v3",
+                "is_local": false,
+                "name": "Don't Go Yet",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:49dBB2KMMmsSCIGVwwH0v3"
+            },
+            "played_at": "2026-06-08T23:03:31.083Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                            "id": "1moxjboGR7GNWYIMWsRjgG",
+                            "name": "Florence + The Machine",
+                            "type": "artist",
+                            "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2FgknX5e7fJlriQtxvpLhZ",
+                    "id": "2FgknX5e7fJlriQtxvpLhZ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020672b0f8756ae2af86e8a5ce",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510672b0f8756ae2af86e8a5ce",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Lungs (Deluxe Edition)",
+                    "release_date": "2009",
+                    "release_date_precision": "year",
+                    "total_tracks": 24,
+                    "type": "album",
+                    "uri": "spotify:album:2FgknX5e7fJlriQtxvpLhZ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+                        "id": "1moxjboGR7GNWYIMWsRjgG",
+                        "name": "Florence + The Machine",
+                        "type": "artist",
+                        "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 251840,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1YLJVmuzeM2YSUkCCaTNUB",
+                "id": "1YLJVmuzeM2YSUkCCaTNUB",
+                "is_local": false,
+                "name": "Dog Days Are Over",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1YLJVmuzeM2YSUkCCaTNUB"
+            },
+            "played_at": "2026-06-08T23:00:45.663Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08tZq3FDsspdU6ycn8Jl2o",
+                    "id": "08tZq3FDsspdU6ycn8Jl2o",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733e58e72de9d125c263eb55a3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023e58e72de9d125c263eb55a3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513e58e72de9d125c263eb55a3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rhythm Of The Saints",
+                    "release_date": "1990-10-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:08tZq3FDsspdU6ycn8Jl2o"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1deWgqhgAzI6dY35TbKKh7",
+                "id": "1deWgqhgAzI6dY35TbKKh7",
+                "is_local": false,
+                "name": "The Obvious Child",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1deWgqhgAzI6dY35TbKKh7"
+            },
+            "played_at": "2026-06-08T22:56:33.324Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/08tZq3FDsspdU6ycn8Jl2o",
+                    "id": "08tZq3FDsspdU6ycn8Jl2o",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733e58e72de9d125c263eb55a3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023e58e72de9d125c263eb55a3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513e58e72de9d125c263eb55a3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rhythm Of The Saints",
+                    "release_date": "1990-10-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:08tZq3FDsspdU6ycn8Jl2o"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1deWgqhgAzI6dY35TbKKh7",
+                "id": "1deWgqhgAzI6dY35TbKKh7",
+                "is_local": false,
+                "name": "The Obvious Child",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1deWgqhgAzI6dY35TbKKh7"
+            },
+            "played_at": "2026-06-08T22:53:52.577Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/23EA28263XvtIrXuySX6oI",
+                            "id": "23EA28263XvtIrXuySX6oI",
+                            "name": "Francis and the Lights",
+                            "type": "artist",
+                            "uri": "spotify:artist:23EA28263XvtIrXuySX6oI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/25KYUrojMfQ12t7IRan2Vx",
+                    "id": "25KYUrojMfQ12t7IRan2Vx",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b12c66cbee07ff97c6fe2d2e",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b12c66cbee07ff97c6fe2d2e",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b12c66cbee07ff97c6fe2d2e",
+                            "width": 64
+                        }
+                    ],
+                    "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+                    "release_date": "2017-05-18",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:25KYUrojMfQ12t7IRan2Vx"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/23EA28263XvtIrXuySX6oI",
+                        "id": "23EA28263XvtIrXuySX6oI",
+                        "name": "Francis and the Lights",
+                        "type": "artist",
+                        "uri": "spotify:artist:23EA28263XvtIrXuySX6oI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1anyVhU62p31KFi8MEzkbf",
+                        "id": "1anyVhU62p31KFi8MEzkbf",
+                        "name": "Chance the Rapper",
+                        "type": "artist",
+                        "uri": "spotify:artist:1anyVhU62p31KFi8MEzkbf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195356,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0VaIsQoIQY10uxBrOyZ5cQ",
+                "id": "0VaIsQoIQY10uxBrOyZ5cQ",
+                "is_local": false,
+                "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0VaIsQoIQY10uxBrOyZ5cQ"
+            },
+            "played_at": "2026-06-08T22:02:21.019Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                            "id": "0MBIKH9DjtBkv8O3nS6szj",
+                            "name": "10,000 Maniacs",
+                            "type": "artist",
+                            "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4Z8B7aRCB34COXcjCDPgzg",
+                    "id": "4Z8B7aRCB34COXcjCDPgzg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c2b347ff549319d8cdd96e31",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c2b347ff549319d8cdd96e31",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c2b347ff549319d8cdd96e31",
+                            "width": 64
+                        }
+                    ],
+                    "name": "MTV Unplugged (Live)",
+                    "release_date": "1993-10-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:4Z8B7aRCB34COXcjCDPgzg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                        "id": "0MBIKH9DjtBkv8O3nS6szj",
+                        "name": "10,000 Maniacs",
+                        "type": "artist",
+                        "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223373,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VzvK7YiwWbRePA2JOzhYq",
+                "id": "5VzvK7YiwWbRePA2JOzhYq",
+                "is_local": false,
+                "name": "Because the Night - Live Unplugged",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:5VzvK7YiwWbRePA2JOzhYq"
+            },
+            "played_at": "2026-06-08T21:59:05.086Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
         }
     ]
 }
