@@ -347908,6 +347908,88 @@
                 "type": "album",
                 "uri": "spotify:album:3ZN01xzenGMhWHdC5kfAe9"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+                            "id": "4Ui2kfOqGujY81UcPrb5KE",
+                            "name": "HAIM",
+                            "type": "artist",
+                            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/396EJBtUzseofX2YCBJVvM",
+                    "id": "396EJBtUzseofX2YCBJVvM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e8be33a5e8efee9be2afffc3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e8be33a5e8efee9be2afffc3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Women In Music Pt. III",
+                    "release_date": "2021-02-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:396EJBtUzseofX2YCBJVvM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+                        "id": "4Ui2kfOqGujY81UcPrb5KE",
+                        "name": "HAIM",
+                        "type": "artist",
+                        "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 171360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1IBTccxl0oEa6Ea2HPnTXs"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1IBTccxl0oEa6Ea2HPnTXs",
+                "id": "1IBTccxl0oEa6Ea2HPnTXs",
+                "is_local": false,
+                "name": "I've Been Down",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1IBTccxl0oEa6Ea2HPnTXs"
+            },
+            "played_at": "2026-06-07T22:30:57.519Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
