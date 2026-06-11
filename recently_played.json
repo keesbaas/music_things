@@ -354700,6 +354700,416 @@
                 "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
                 "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                            "id": "0MBIKH9DjtBkv8O3nS6szj",
+                            "name": "10,000 Maniacs",
+                            "type": "artist",
+                            "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0jtmYtkmyrMDpo7M2FTzZ2"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0jtmYtkmyrMDpo7M2FTzZ2",
+                    "id": "0jtmYtkmyrMDpo7M2FTzZ2",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ae0d7919fc8dea91a2154d68",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ae0d7919fc8dea91a2154d68",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ae0d7919fc8dea91a2154d68",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Our Time in Eden",
+                    "release_date": "1992",
+                    "release_date_precision": "year",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:0jtmYtkmyrMDpo7M2FTzZ2"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                        "id": "0MBIKH9DjtBkv8O3nS6szj",
+                        "name": "10,000 Maniacs",
+                        "type": "artist",
+                        "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219893,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/786h4kDeZiX5nYvOwA3wtE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/786h4kDeZiX5nYvOwA3wtE",
+                "id": "786h4kDeZiX5nYvOwA3wtE",
+                "is_local": false,
+                "name": "These Are Days",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:786h4kDeZiX5nYvOwA3wtE"
+            },
+            "played_at": "2026-06-11T02:54:19.626Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3w7TTi80vZApF0rQE5DMYb",
+                    "id": "3w7TTi80vZApF0rQE5DMYb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b3ed19f9985ca08a7a30f6c4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b3ed19f9985ca08a7a30f6c4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b3ed19f9985ca08a7a30f6c4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow",
+                    "release_date": "1996-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3w7TTi80vZApF0rQE5DMYb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 323400,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5XrfFo0JFOnWD9ZMNXGkQh",
+                "id": "5XrfFo0JFOnWD9ZMNXGkQh",
+                "is_local": false,
+                "name": "If It Makes You Happy",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5XrfFo0JFOnWD9ZMNXGkQh"
+            },
+            "played_at": "2026-06-11T02:50:39.250Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/01Ppu7N8uYJI8SAONo2YZA",
+                            "id": "01Ppu7N8uYJI8SAONo2YZA",
+                            "name": "Melissa Etheridge",
+                            "type": "artist",
+                            "uri": "spotify:artist:01Ppu7N8uYJI8SAONo2YZA"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1qzfqlEyzPD0VyCcSSQwZD",
+                    "id": "1qzfqlEyzPD0VyCcSSQwZD",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e35d3afe0720c97b60ade3c8",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e35d3afe0720c97b60ade3c8",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e35d3afe0720c97b60ade3c8",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Yes I Am",
+                    "release_date": "1993-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:1qzfqlEyzPD0VyCcSSQwZD"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/01Ppu7N8uYJI8SAONo2YZA",
+                        "id": "01Ppu7N8uYJI8SAONo2YZA",
+                        "name": "Melissa Etheridge",
+                        "type": "artist",
+                        "uri": "spotify:artist:01Ppu7N8uYJI8SAONo2YZA"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4LmlGaGTEbTGE5VngAbpA3",
+                "id": "4LmlGaGTEbTGE5VngAbpA3",
+                "is_local": false,
+                "name": "Come To My Window",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:4LmlGaGTEbTGE5VngAbpA3"
+            },
+            "played_at": "2026-06-11T02:30:16.565Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6FbDoZnMBTdhhhLuJBOOqP",
+                            "id": "6FbDoZnMBTdhhhLuJBOOqP",
+                            "name": "Jewel",
+                            "type": "artist",
+                            "uri": "spotify:artist:6FbDoZnMBTdhhhLuJBOOqP"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3g9baRrkyeaxVVlKALv9Pr",
+                    "id": "3g9baRrkyeaxVVlKALv9Pr",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c9b83d0f8a38ab1a0fd85d20",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c9b83d0f8a38ab1a0fd85d20",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c9b83d0f8a38ab1a0fd85d20",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pieces Of You",
+                    "release_date": "1995-02-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3g9baRrkyeaxVVlKALv9Pr"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6FbDoZnMBTdhhhLuJBOOqP",
+                        "id": "6FbDoZnMBTdhhhLuJBOOqP",
+                        "name": "Jewel",
+                        "type": "artist",
+                        "uri": "spotify:artist:6FbDoZnMBTdhhhLuJBOOqP"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 239293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OH8dSQmKm2zjhqRPYsk1h",
+                "id": "0OH8dSQmKm2zjhqRPYsk1h",
+                "is_local": false,
+                "name": "Who Will Save Your Soul",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OH8dSQmKm2zjhqRPYsk1h"
+            },
+            "played_at": "2026-06-11T02:26:20.103Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6FbDoZnMBTdhhhLuJBOOqP",
+                            "id": "6FbDoZnMBTdhhhLuJBOOqP",
+                            "name": "Jewel",
+                            "type": "artist",
+                            "uri": "spotify:artist:6FbDoZnMBTdhhhLuJBOOqP"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3g9baRrkyeaxVVlKALv9Pr",
+                    "id": "3g9baRrkyeaxVVlKALv9Pr",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c9b83d0f8a38ab1a0fd85d20",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c9b83d0f8a38ab1a0fd85d20",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c9b83d0f8a38ab1a0fd85d20",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Pieces Of You",
+                    "release_date": "1995-02-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3g9baRrkyeaxVVlKALv9Pr"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6FbDoZnMBTdhhhLuJBOOqP",
+                        "id": "6FbDoZnMBTdhhhLuJBOOqP",
+                        "name": "Jewel",
+                        "type": "artist",
+                        "uri": "spotify:artist:6FbDoZnMBTdhhhLuJBOOqP"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 239293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OH8dSQmKm2zjhqRPYsk1h",
+                "id": "0OH8dSQmKm2zjhqRPYsk1h",
+                "is_local": false,
+                "name": "Who Will Save Your Soul",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OH8dSQmKm2zjhqRPYsk1h"
+            },
+            "played_at": "2026-06-10T23:14:11.687Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
         }
     ]
 }
