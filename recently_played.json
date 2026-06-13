@@ -358695,6 +358695,170 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:4uEUACQmrWWMeN4UVFFAQJ"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3gdIwZY6Q3RXhDteYr4ZvC",
+                            "id": "3gdIwZY6Q3RXhDteYr4ZvC",
+                            "name": "Sophie B. Hawkins",
+                            "type": "artist",
+                            "uri": "spotify:artist:3gdIwZY6Q3RXhDteYr4ZvC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2oKbwv9ClTQKWHHTKCqN59",
+                    "id": "2oKbwv9ClTQKWHHTKCqN59",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ae165106095e1e8908e49e44",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ae165106095e1e8908e49e44",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ae165106095e1e8908e49e44",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Whaler",
+                    "release_date": "1994-07-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2oKbwv9ClTQKWHHTKCqN59"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3gdIwZY6Q3RXhDteYr4ZvC",
+                        "id": "3gdIwZY6Q3RXhDteYr4ZvC",
+                        "name": "Sophie B. Hawkins",
+                        "type": "artist",
+                        "uri": "spotify:artist:3gdIwZY6Q3RXhDteYr4ZvC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 248893,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6S8ZXzeXsfCj8qi9179McI",
+                "id": "6S8ZXzeXsfCj8qi9179McI",
+                "is_local": false,
+                "name": "As I Lay Me Down",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6S8ZXzeXsfCj8qi9179McI"
+            },
+            "played_at": "2026-06-13T19:23:41.396Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "type": "playlist",
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                            "id": "0MBIKH9DjtBkv8O3nS6szj",
+                            "name": "10,000 Maniacs",
+                            "type": "artist",
+                            "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4Z8B7aRCB34COXcjCDPgzg",
+                    "id": "4Z8B7aRCB34COXcjCDPgzg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c2b347ff549319d8cdd96e31",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c2b347ff549319d8cdd96e31",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c2b347ff549319d8cdd96e31",
+                            "width": 64
+                        }
+                    ],
+                    "name": "MTV Unplugged (Live)",
+                    "release_date": "1993-10-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:4Z8B7aRCB34COXcjCDPgzg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0MBIKH9DjtBkv8O3nS6szj",
+                        "id": "0MBIKH9DjtBkv8O3nS6szj",
+                        "name": "10,000 Maniacs",
+                        "type": "artist",
+                        "uri": "spotify:artist:0MBIKH9DjtBkv8O3nS6szj"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223373,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VzvK7YiwWbRePA2JOzhYq",
+                "id": "5VzvK7YiwWbRePA2JOzhYq",
+                "is_local": false,
+                "name": "Because the Night - Live Unplugged",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:5VzvK7YiwWbRePA2JOzhYq"
+            },
+            "played_at": "2026-06-13T19:19:31.986Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "type": "playlist",
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
         }
     ]
 }
