@@ -358859,6 +358859,88 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4awU3JRQXIYoxabdwO92AU",
+                            "id": "4awU3JRQXIYoxabdwO92AU",
+                            "name": "Edie Brickell & New Bohemians",
+                            "type": "artist",
+                            "uri": "spotify:artist:4awU3JRQXIYoxabdwO92AU"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2oZzKVi2mqkQnZOad6DXMw",
+                    "id": "2oZzKVi2mqkQnZOad6DXMw",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c4cc3c70e4896a692ca6b582",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c4cc3c70e4896a692ca6b582",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c4cc3c70e4896a692ca6b582",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shooting Rubberbands At The Stars",
+                    "release_date": "1988-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:2oZzKVi2mqkQnZOad6DXMw"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4awU3JRQXIYoxabdwO92AU",
+                        "id": "4awU3JRQXIYoxabdwO92AU",
+                        "name": "Edie Brickell & New Bohemians",
+                        "type": "artist",
+                        "uri": "spotify:artist:4awU3JRQXIYoxabdwO92AU"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 296360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6hHUiDe461VUoTHnsplRYs",
+                "id": "6hHUiDe461VUoTHnsplRYs",
+                "is_local": false,
+                "name": "What I Am",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6hHUiDe461VUoTHnsplRYs"
+            },
+            "played_at": "2026-06-13T19:38:01.252Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
         }
     ]
 }
