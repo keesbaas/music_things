@@ -31019,6 +31019,81 @@
                 "type": "album",
                 "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+                            "id": "08GQAI4eElDnROBrJRGE0X",
+                            "name": "Fleetwood Mac",
+                            "type": "artist",
+                            "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5VIQ3VaAoRKOEpJ0fewdvo",
+                    "id": "5VIQ3VaAoRKOEpJ0fewdvo",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514fb043195e8d07e72edc7226",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Fleetwood Mac",
+                    "release_date": "1975-07-11",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5VIQ3VaAoRKOEpJ0fewdvo"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+                        "id": "08GQAI4eElDnROBrJRGE0X",
+                        "name": "Fleetwood Mac",
+                        "type": "artist",
+                        "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199493,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ihS6UUlyQAfmp48eSkxuQ",
+                "id": "5ihS6UUlyQAfmp48eSkxuQ",
+                "is_local": false,
+                "name": "Landslide",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:5ihS6UUlyQAfmp48eSkxuQ"
+            },
+            "played_at": "2026-06-17T13:41:12.633Z",
+            "context": null
         }
     ]
 }
