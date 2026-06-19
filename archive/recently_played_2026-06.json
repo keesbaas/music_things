@@ -32911,6 +32911,170 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4iS7gVZUawLaXYADeRZL36",
+                            "id": "4iS7gVZUawLaXYADeRZL36",
+                            "name": "Annabelle Dinda",
+                            "type": "artist",
+                            "uri": "spotify:artist:4iS7gVZUawLaXYADeRZL36"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2LD2Ef2279ZEOgtZSxVzUs",
+                    "id": "2LD2Ef2279ZEOgtZSxVzUs",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d36b4368a5464d444bdbc8be",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d36b4368a5464d444bdbc8be",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d36b4368a5464d444bdbc8be",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Whatever You Wanna",
+                    "release_date": "2026-06-15",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:2LD2Ef2279ZEOgtZSxVzUs"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4iS7gVZUawLaXYADeRZL36",
+                        "id": "4iS7gVZUawLaXYADeRZL36",
+                        "name": "Annabelle Dinda",
+                        "type": "artist",
+                        "uri": "spotify:artist:4iS7gVZUawLaXYADeRZL36"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 211486,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2km0sa7d4W5kgO4TU0KdPz",
+                "id": "2km0sa7d4W5kgO4TU0KdPz",
+                "is_local": false,
+                "name": "Whatever You Wanna",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2km0sa7d4W5kgO4TU0KdPz"
+            },
+            "played_at": "2026-06-19T20:03:01.306Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6wt3jLFFESUPHIWgnYKxB6"
+                },
+                "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6ZFv3wQwwWPiVDWhv0mjQK",
+                            "id": "6ZFv3wQwwWPiVDWhv0mjQK",
+                            "name": "Toots & The Maytals",
+                            "type": "artist",
+                            "uri": "spotify:artist:6ZFv3wQwwWPiVDWhv0mjQK"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6FuHnw9KkeYH6TSJaNOlto",
+                    "id": "6FuHnw9KkeYH6TSJaNOlto",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c22424eb54f4132e30efa886",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c22424eb54f4132e30efa886",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c22424eb54f4132e30efa886",
+                            "width": 64
+                        }
+                    ],
+                    "name": "In The Dark",
+                    "release_date": "1973-03-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6FuHnw9KkeYH6TSJaNOlto"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ZFv3wQwwWPiVDWhv0mjQK",
+                        "id": "6ZFv3wQwwWPiVDWhv0mjQK",
+                        "name": "Toots & The Maytals",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ZFv3wQwwWPiVDWhv0mjQK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1q8gelFgFYUwoWpQV7WNCe",
+                "id": "1q8gelFgFYUwoWpQV7WNCe",
+                "is_local": false,
+                "name": "54-46 Was My Number",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:1q8gelFgFYUwoWpQV7WNCe"
+            },
+            "played_at": "2026-06-19T19:56:50.886Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
