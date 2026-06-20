@@ -364930,6 +364930,252 @@
                 "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
                 "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                            "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                            "name": "Hayley Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MROTtttK946gHaTkXeP8b",
+                    "id": "3MROTtttK946gHaTkXeP8b",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734f422ed700af8715b23326af",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e024f422ed700af8715b23326af",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048514f422ed700af8715b23326af",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Ego Death At A Bachelorette Party",
+                    "release_date": "2025-11-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:3MROTtttK946gHaTkXeP8b"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                        "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                        "name": "Hayley Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 203710,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0X1Bz7NKvIh90nIptl5tlG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0X1Bz7NKvIh90nIptl5tlG",
+                "id": "0X1Bz7NKvIh90nIptl5tlG",
+                "is_local": false,
+                "name": "Good Ol' Days",
+                "preview_url": null,
+                "track_number": 19,
+                "type": "track",
+                "uri": "spotify:track:0X1Bz7NKvIh90nIptl5tlG"
+            },
+            "played_at": "2026-06-20T18:47:21.289Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3dBccCBVyx1YO1ZGXPMIAs",
+                    "id": "3dBccCBVyx1YO1ZGXPMIAs",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730aa7a40c3863a862986c3ccf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020aa7a40c3863a862986c3ccf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510aa7a40c3863a862986c3ccf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tiny Raisin",
+                    "release_date": "2026-04-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:3dBccCBVyx1YO1ZGXPMIAs"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178600,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1mSO89SOD17R1dFyrxdSBT",
+                "id": "1mSO89SOD17R1dFyrxdSBT",
+                "is_local": false,
+                "name": "Tiny Raisin",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1mSO89SOD17R1dFyrxdSBT"
+            },
+            "played_at": "2026-06-20T18:25:55.124Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5zMtHU3DU4bqUshT2Z6Sab",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5zMtHU3DU4bqUshT2Z6Sab"
+                },
+                "uri": "spotify:playlist:5zMtHU3DU4bqUshT2Z6Sab"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+                            "id": "16GcWuvvybAoaHr0NqT8Eh",
+                            "name": "Alabama Shakes",
+                            "type": "artist",
+                            "uri": "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5bnSQEjcDV0GXzxTtvI4xz",
+                    "id": "5bnSQEjcDV0GXzxTtvI4xz",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27395f92bd79542a186bfc68fe9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0295f92bd79542a186bfc68fe9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485195f92bd79542a186bfc68fe9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Always Alright",
+                    "release_date": "2013-12-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5bnSQEjcDV0GXzxTtvI4xz"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+                        "id": "16GcWuvvybAoaHr0NqT8Eh",
+                        "name": "Alabama Shakes",
+                        "type": "artist",
+                        "uri": "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 249169,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6ckUX8cgcqjoNGTd2A2Pvd",
+                "id": "6ckUX8cgcqjoNGTd2A2Pvd",
+                "is_local": false,
+                "name": "Always Alright",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6ckUX8cgcqjoNGTd2A2Pvd"
+            },
+            "played_at": "2026-06-20T18:22:38.031Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6wt3jLFFESUPHIWgnYKxB6"
+                },
+                "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
+            }
         }
     ]
 }
