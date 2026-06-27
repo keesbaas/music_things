@@ -379740,6 +379740,764 @@
                 },
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6G7P2EzH5A36ujN9VPm4B0",
+                        "id": "6G7P2EzH5A36ujN9VPm4B0",
+                        "name": "Robert Smith",
+                        "type": "artist",
+                        "uri": "spotify:artist:6G7P2EzH5A36ujN9VPm4B0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224906,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1W7023CuJrWPbD4q2Sipoh",
+                "id": "1W7023CuJrWPbD4q2Sipoh",
+                "is_local": false,
+                "name": "what\u2019s wrong with me",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh"
+            },
+            "played_at": "2026-06-27T00:14:42.542Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 217869,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3BnMfPPWs59CVfcQ8CcdfR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3BnMfPPWs59CVfcQ8CcdfR",
+                "id": "3BnMfPPWs59CVfcQ8CcdfR",
+                "is_local": false,
+                "name": "begged",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR"
+            },
+            "played_at": "2026-06-27T00:10:57.634Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297090,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+                },
+                "href": "https://api.spotify.com/v1/tracks/55pBIZO1cqoldeqpp5WR7H",
+                "id": "55pBIZO1cqoldeqpp5WR7H",
+                "is_local": false,
+                "name": "the cure",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H"
+            },
+            "played_at": "2026-06-27T00:07:19.748Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240115,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4XYCWx98N3h7Y4FtDFmpd5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4XYCWx98N3h7Y4FtDFmpd5",
+                "id": "4XYCWx98N3h7Y4FtDFmpd5",
+                "is_local": false,
+                "name": "purple",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5"
+            },
+            "played_at": "2026-06-27T00:02:22.651Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 211141,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2gyxAWHebV7xPYVxqoi86f",
+                "id": "2gyxAWHebV7xPYVxqoi86f",
+                "is_local": false,
+                "name": "get him back!",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:2gyxAWHebV7xPYVxqoi86f"
+            },
+            "played_at": "2026-06-26T23:58:22.083Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+                    "id": "1xJHno7SmdVtZAtXbdbDZp",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "GUTS",
+                    "release_date": "2023-09-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 184783,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3IX0yuEVvDbnqUwMBB3ouC",
+                "id": "3IX0yuEVvDbnqUwMBB3ouC",
+                "is_local": false,
+                "name": "bad idea right?",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC"
+            },
+            "played_at": "2026-06-26T23:38:29.914Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 247586,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6Hdc3IQeyCxG5d14uAcwQW",
+                "id": "6Hdc3IQeyCxG5d14uAcwQW",
+                "is_local": false,
+                "name": "u + me = <3",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW"
+            },
+            "played_at": "2026-06-26T23:34:59.179Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                            "id": "1McMsnEElThX1knmY4oliG",
+                            "name": "Olivia Rodrigo",
+                            "type": "artist",
+                            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                    "id": "3WZZF72ihlKPZBS4zSsNHl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+                            "width": 64
+                        }
+                    ],
+                    "name": "you seem pretty sad for a girl so in love",
+                    "release_date": "2026-06-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                        "id": "1McMsnEElThX1knmY4oliG",
+                        "name": "Olivia Rodrigo",
+                        "type": "artist",
+                        "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240100,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K"
+                },
+                "href": "https://api.spotify.com/v1/tracks/22l7ocwYpEYGvYpM9T2C5K",
+                "id": "22l7ocwYpEYGvYpM9T2C5K",
+                "is_local": false,
+                "name": "maggots for brains",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:22l7ocwYpEYGvYpM9T2C5K"
+            },
+            "played_at": "2026-06-26T23:20:52.854Z",
+            "context": {
+                "type": "album",
+                "href": "https://api.spotify.com/v1/albums/3WZZF72ihlKPZBS4zSsNHl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+                },
+                "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2sG4zTOLvjKG1PSoOyf5Ej",
+                        "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+                        "name": "Brandi Carlile",
+                        "type": "artist",
+                        "uri": "spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 227455,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2P7HyWGsDFmX4NpKEN2EDu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2P7HyWGsDFmX4NpKEN2EDu",
+                "id": "2P7HyWGsDFmX4NpKEN2EDu",
+                "is_local": false,
+                "name": "Beware Of Darkness - Live from Newport Folk Festivel/2019",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:2P7HyWGsDFmX4NpKEN2EDu"
+            },
+            "played_at": "2026-06-26T16:20:34.505Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
