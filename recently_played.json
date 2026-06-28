@@ -383512,6 +383512,88 @@
                 "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
                 "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+                            "id": "1w5Kfo2jwwIPruYS2UWh56",
+                            "name": "Pearl Jam",
+                            "type": "artist",
+                            "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5pd9B3KQWKshHw4lnsSLNy",
+                    "id": "5pd9B3KQWKshHw4lnsSLNy",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730ccbe4584f7827e66fa2ab3a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020ccbe4584f7827e66fa2ab3a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510ccbe4584f7827e66fa2ab3a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Vitalogy",
+                    "release_date": "1994-11-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:5pd9B3KQWKshHw4lnsSLNy"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+                        "id": "1w5Kfo2jwwIPruYS2UWh56",
+                        "name": "Pearl Jam",
+                        "type": "artist",
+                        "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 268602,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2B98ljvzqpCVgt5reTHq28",
+                "id": "2B98ljvzqpCVgt5reTHq28",
+                "is_local": false,
+                "name": "Better Man",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:2B98ljvzqpCVgt5reTHq28"
+            },
+            "played_at": "2026-06-28T03:06:31.675Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6wt3jLFFESUPHIWgnYKxB6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
+                "type": "playlist",
+                "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
+            }
         }
     ]
 }
