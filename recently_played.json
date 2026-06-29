@@ -385958,6 +385958,334 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3Vsbl0diFGw8HNSjG8ue9m",
+                    "id": "3Vsbl0diFGw8HNSjG8ue9m",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f8fc9e1b46c32dff21cede72",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f8fc9e1b46c32dff21cede72",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f8fc9e1b46c32dff21cede72",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Romance",
+                    "release_date": "2019-12-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3Vsbl0diFGw8HNSjG8ue9m"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208425,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/073ILU1C3APNRGF66VhtyA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/073ILU1C3APNRGF66VhtyA",
+                "id": "073ILU1C3APNRGF66VhtyA",
+                "is_local": false,
+                "name": "Liar",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:073ILU1C3APNRGF66VhtyA"
+            },
+            "played_at": "2026-06-29T20:34:01.105Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246426,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3znoF3XEVQgg1ej2jV0QXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3znoF3XEVQgg1ej2jV0QXw",
+                "id": "3znoF3XEVQgg1ej2jV0QXw",
+                "is_local": false,
+                "name": "Poem to a Horse",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:3znoF3XEVQgg1ej2jV0QXw"
+            },
+            "played_at": "2026-06-29T20:30:32.212Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5meb7aKE722LA66ssBhvfM",
+                    "id": "5meb7aKE722LA66ssBhvfM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020da1a7e7f3e9ef163e1c1dbf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510da1a7e7f3e9ef163e1c1dbf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition) [Spanish Version]",
+                    "release_date": "2014-03-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:5meb7aKE722LA66ssBhvfM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/26vBL8SkXIU0je6mSZN0WV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/26vBL8SkXIU0je6mSZN0WV",
+                "id": "26vBL8SkXIU0je6mSZN0WV",
+                "is_local": false,
+                "name": "You Don't Care About Me",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:26vBL8SkXIU0je6mSZN0WV"
+            },
+            "played_at": "2026-06-29T20:26:20.116Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5meb7aKE722LA66ssBhvfM",
+                    "id": "5meb7aKE722LA66ssBhvfM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020da1a7e7f3e9ef163e1c1dbf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510da1a7e7f3e9ef163e1c1dbf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Shakira. (Expanded Edition) [Spanish Version]",
+                    "release_date": "2014-03-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:5meb7aKE722LA66ssBhvfM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/26vBL8SkXIU0je6mSZN0WV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/26vBL8SkXIU0je6mSZN0WV",
+                "id": "26vBL8SkXIU0je6mSZN0WV",
+                "is_local": false,
+                "name": "You Don't Care About Me",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:26vBL8SkXIU0je6mSZN0WV"
+            },
+            "played_at": "2026-06-29T20:24:15.037Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
         }
     ]
 }
