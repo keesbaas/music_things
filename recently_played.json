@@ -383840,6 +383840,170 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+                            "id": "10exVja0key0uqUkk6LJRT",
+                            "name": "Vance Joy",
+                            "type": "artist",
+                            "uri": "spotify:artist:10exVja0key0uqUkk6LJRT"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2biVG6BYnVVSwLYd1OjbPT",
+                    "id": "2biVG6BYnVVSwLYd1OjbPT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27305d081cbdc2f67d37a364d63",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0205d081cbdc2f67d37a364d63",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485105d081cbdc2f67d37a364d63",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Dream Your Life Away (Deluxe Edition)",
+                    "release_date": "2014-08-05",
+                    "release_date_precision": "day",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:2biVG6BYnVVSwLYd1OjbPT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/10exVja0key0uqUkk6LJRT",
+                        "id": "10exVja0key0uqUkk6LJRT",
+                        "name": "Vance Joy",
+                        "type": "artist",
+                        "uri": "spotify:artist:10exVja0key0uqUkk6LJRT"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204280,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2uXlHCUbq9OMUwx3hrk06o",
+                "id": "2uXlHCUbq9OMUwx3hrk06o",
+                "is_local": false,
+                "name": "Riptide",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o"
+            },
+            "played_at": "2026-06-28T23:58:56.528Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6wt3jLFFESUPHIWgnYKxB6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
+                "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky",
+                    "id": "6WgGWYw6XXQyLTsWt7tXky",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e5855edffddef46b7feff49b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e5855edffddef46b7feff49b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Graceland (25th Anniversary Deluxe Edition)",
+                    "release_date": "1986-08-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 291200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/51KKQAgYFoJHgVIuJWHdHb",
+                "id": "51KKQAgYFoJHgVIuJWHdHb",
+                "is_local": false,
+                "name": "Graceland",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:51KKQAgYFoJHgVIuJWHdHb"
+            },
+            "played_at": "2026-06-28T23:55:31.733Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6wt3jLFFESUPHIWgnYKxB6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/6wt3jLFFESUPHIWgnYKxB6",
+                "uri": "spotify:playlist:6wt3jLFFESUPHIWgnYKxB6"
+            }
         }
     ]
 }
