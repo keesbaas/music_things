@@ -388776,6 +388776,88 @@
                 },
                 "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+                            "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+                            "name": "Selena Gomez",
+                            "type": "artist",
+                            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2jGa3OwXatFYQAIS7OV7k9",
+                    "id": "2jGa3OwXatFYQAIS7OV7k9",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738b11b0be988e17da2799b94d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028b11b0be988e17da2799b94d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518b11b0be988e17da2799b94d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Revelaci\u00f3n - EP",
+                    "release_date": "2021-03-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 7,
+                    "type": "album",
+                    "uri": "spotify:album:2jGa3OwXatFYQAIS7OV7k9"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+                        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+                        "name": "Selena Gomez",
+                        "type": "artist",
+                        "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 130143,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5MUZhMWlbypeWFeRY4sE2l"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5MUZhMWlbypeWFeRY4sE2l",
+                "id": "5MUZhMWlbypeWFeRY4sE2l",
+                "is_local": false,
+                "name": "Adi\u00f3s",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:5MUZhMWlbypeWFeRY4sE2l"
+            },
+            "played_at": "2026-07-01T02:56:42.619Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
         }
     ]
 }
