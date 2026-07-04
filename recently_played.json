@@ -397048,6 +397048,463 @@
                 },
                 "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7LCp4MN0SOIVWlssid9KyE",
+                            "id": "7LCp4MN0SOIVWlssid9KyE",
+                            "name": "Mountain",
+                            "type": "artist",
+                            "uri": "spotify:artist:7LCp4MN0SOIVWlssid9KyE"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2tWvZmP9EVRYqmWyJPLzjP",
+                    "id": "2tWvZmP9EVRYqmWyJPLzjP",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273411cacfc3518a9f2c4a670f6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02411cacfc3518a9f2c4a670f6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851411cacfc3518a9f2c4a670f6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Climbing!",
+                    "release_date": "1970",
+                    "release_date_precision": "year",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:2tWvZmP9EVRYqmWyJPLzjP"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7LCp4MN0SOIVWlssid9KyE",
+                        "id": "7LCp4MN0SOIVWlssid9KyE",
+                        "name": "Mountain",
+                        "type": "artist",
+                        "uri": "spotify:artist:7LCp4MN0SOIVWlssid9KyE"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 151293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4vO9dmzNRqDhFY3jD1a3P7",
+                "id": "4vO9dmzNRqDhFY3jD1a3P7",
+                "is_local": false,
+                "name": "Mississippi Queen",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4vO9dmzNRqDhFY3jD1a3P7"
+            },
+            "played_at": "2026-07-04T19:42:42.846Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+                            "id": "3IYUhFvPQItj6xySrBmZkd",
+                            "name": "Creedence Clearwater Revival",
+                            "type": "artist",
+                            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/31q47gQszFt0CddSyMksgO",
+                    "id": "31q47gQszFt0CddSyMksgO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029f39192f9f8ca1c90847b3e5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519f39192f9f8ca1c90847b3e5",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Willy And The Poor Boys (Expanded Edition)",
+                    "release_date": "1969-11-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:31q47gQszFt0CddSyMksgO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+                        "id": "3IYUhFvPQItj6xySrBmZkd",
+                        "name": "Creedence Clearwater Revival",
+                        "type": "artist",
+                        "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140773,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4BP3uh0hFLFRb5cjsgLqDh",
+                "id": "4BP3uh0hFLFRb5cjsgLqDh",
+                "is_local": false,
+                "name": "Fortunate Son",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4BP3uh0hFLFRb5cjsgLqDh"
+            },
+            "played_at": "2026-07-04T19:40:11.043Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+                            "id": "4MVyzYMgTwdP7Z49wAZHx0",
+                            "name": "Lynyrd Skynyrd",
+                            "type": "artist",
+                            "uri": "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/54V1ljNtyzAm053oJqi0SH",
+                    "id": "54V1ljNtyzAm053oJqi0SH",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Second Helping (Expanded Edition)",
+                    "release_date": "1974-04-15",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:54V1ljNtyzAm053oJqi0SH"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+                        "id": "4MVyzYMgTwdP7Z49wAZHx0",
+                        "name": "Lynyrd Skynyrd",
+                        "type": "artist",
+                        "uri": "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 283800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7e89621JPkKaeDSTQ3avtg",
+                "id": "7e89621JPkKaeDSTQ3avtg",
+                "is_local": false,
+                "name": "Sweet Home Alabama",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7e89621JPkKaeDSTQ3avtg"
+            },
+            "played_at": "2026-07-04T19:37:49.742Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                            "id": "3eqjTLE0HfPfh78zjh6TqT",
+                            "name": "Bruce Springsteen",
+                            "type": "artist",
+                            "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0PMasrHdpaoIRuHuhHp72O",
+                    "id": "0PMasrHdpaoIRuHuhHp72O",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a43a6482e327d623bb0c0f77",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a43a6482e327d623bb0c0f77",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a43a6482e327d623bb0c0f77",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Born In The U.S.A.",
+                    "release_date": "1984-06-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0PMasrHdpaoIRuHuhHp72O"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 279786,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0dOg1ySSI7NkpAe89Zo0b9",
+                "id": "0dOg1ySSI7NkpAe89Zo0b9",
+                "is_local": false,
+                "name": "Born in the U.S.A.",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0dOg1ySSI7NkpAe89Zo0b9"
+            },
+            "played_at": "2026-07-04T19:31:11.992Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8",
+                            "id": "2bA6fzP0lMAQ4kz6CF61w8",
+                            "name": "Toby Keith",
+                            "type": "artist",
+                            "uri": "spotify:artist:2bA6fzP0lMAQ4kz6CF61w8"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7ExectJocqn8sMKq4Tn4LY",
+                    "id": "7ExectJocqn8sMKq4Tn4LY",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bb5c54a68f9ce31f83b98de4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bb5c54a68f9ce31f83b98de4",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Unleashed",
+                    "release_date": "2002-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:7ExectJocqn8sMKq4Tn4LY"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8",
+                        "id": "2bA6fzP0lMAQ4kz6CF61w8",
+                        "name": "Toby Keith",
+                        "type": "artist",
+                        "uri": "spotify:artist:2bA6fzP0lMAQ4kz6CF61w8"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0M7mWKqwTIaVjYyxfZmtTa",
+                "id": "0M7mWKqwTIaVjYyxfZmtTa",
+                "is_local": false,
+                "name": "Courtesy Of The Red, White And Blue (The Angry American)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0M7mWKqwTIaVjYyxfZmtTa"
+            },
+            "played_at": "2026-07-04T19:26:31.739Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7dC6axVAeBDpRMmNtRbpwU",
+                    "id": "7dC6axVAeBDpRMmNtRbpwU",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b478a8ce3aac61a3675aac2a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b478a8ce3aac61a3675aac2a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b478a8ce3aac61a3675aac2a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:7dC6axVAeBDpRMmNtRbpwU"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 309200,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6MWJy3DXI0Je49FW3gDpLp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6MWJy3DXI0Je49FW3gDpLp",
+                "id": "6MWJy3DXI0Je49FW3gDpLp",
+                "is_local": false,
+                "name": "Leaving Las Vegas",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:6MWJy3DXI0Je49FW3gDpLp"
+            },
+            "played_at": "2026-07-04T18:56:26.127Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5mWa8KVHD11b3zTy44d7np"
+                },
+                "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
+            }
         }
     ]
 }
