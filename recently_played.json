@@ -397754,6 +397754,88 @@
             },
             "played_at": "2026-07-05T19:20:00.274Z",
             "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164842,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49dBB2KMMmsSCIGVwwH0v3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49dBB2KMMmsSCIGVwwH0v3",
+                "id": "49dBB2KMMmsSCIGVwwH0v3",
+                "is_local": false,
+                "name": "Don't Go Yet",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:49dBB2KMMmsSCIGVwwH0v3"
+            },
+            "played_at": "2026-07-05T19:39:14.789Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
         }
     ]
 }
