@@ -16919,6 +16919,81 @@
                 },
                 "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0nOyxRsVicKeiBbB6zdIMu",
+                            "id": "0nOyxRsVicKeiBbB6zdIMu",
+                            "name": "Kinto Sol",
+                            "type": "artist",
+                            "uri": "spotify:artist:0nOyxRsVicKeiBbB6zdIMu"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Vg2XD4nj01YO0knSICiir",
+                    "id": "5Vg2XD4nj01YO0knSICiir",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2736a3fc78d2462bdbee3071d9a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e026a3fc78d2462bdbee3071d9a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048516a3fc78d2462bdbee3071d9a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Hecho En Mexico",
+                    "release_date": "2003",
+                    "release_date_precision": "year",
+                    "total_tracks": 20,
+                    "type": "album",
+                    "uri": "spotify:album:5Vg2XD4nj01YO0knSICiir"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nOyxRsVicKeiBbB6zdIMu",
+                        "id": "0nOyxRsVicKeiBbB6zdIMu",
+                        "name": "Kinto Sol",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nOyxRsVicKeiBbB6zdIMu"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 262693,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7kCp04jo6XWGVC3ZENX1vI",
+                "id": "7kCp04jo6XWGVC3ZENX1vI",
+                "is_local": false,
+                "name": "Hecho En Mexico",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:7kCp04jo6XWGVC3ZENX1vI"
+            },
+            "played_at": "2026-07-12T01:43:12.965Z",
+            "context": null
         }
     ]
 }
