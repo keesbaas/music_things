@@ -408423,6 +408423,1738 @@
                 "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
                 "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+                            "id": "6oBm8HB0yfrIc9IHbxs6in",
+                            "name": "Lykke Li",
+                            "type": "artist",
+                            "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3eqH5aQKPKLKD1kFNBczwl",
+                    "id": "3eqH5aQKPKLKD1kFNBczwl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27390dd2011ea9c67547500b26f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0290dd2011ea9c67547500b26f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485190dd2011ea9c67547500b26f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Afterparty",
+                    "release_date": "2026-05-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:3eqH5aQKPKLKD1kFNBczwl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6oBm8HB0yfrIc9IHbxs6in",
+                        "id": "6oBm8HB0yfrIc9IHbxs6in",
+                        "name": "Lykke Li",
+                        "type": "artist",
+                        "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 181550,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2MdZ3S4bMOqBRPvY2hlGNZ",
+                "id": "2MdZ3S4bMOqBRPvY2hlGNZ",
+                "is_local": false,
+                "name": "Lucky Again",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2MdZ3S4bMOqBRPvY2hlGNZ"
+            },
+            "played_at": "2026-07-14T15:49:44.784Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4jRq9On9S1F6JkTebaZHqE",
+                            "id": "4jRq9On9S1F6JkTebaZHqE",
+                            "name": "Nell Mescal",
+                            "type": "artist",
+                            "uri": "spotify:artist:4jRq9On9S1F6JkTebaZHqE"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2pTyUXXYADDihZpf20ZE3q"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2pTyUXXYADDihZpf20ZE3q",
+                    "id": "2pTyUXXYADDihZpf20ZE3q",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273436521e46e176ae59e51aa63",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02436521e46e176ae59e51aa63",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851436521e46e176ae59e51aa63",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Settles",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2pTyUXXYADDihZpf20ZE3q"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4jRq9On9S1F6JkTebaZHqE",
+                        "id": "4jRq9On9S1F6JkTebaZHqE",
+                        "name": "Nell Mescal",
+                        "type": "artist",
+                        "uri": "spotify:artist:4jRq9On9S1F6JkTebaZHqE"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 212047,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3krv0hI3YMv8XQpC9lnvhI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3krv0hI3YMv8XQpC9lnvhI",
+                "id": "3krv0hI3YMv8XQpC9lnvhI",
+                "is_local": false,
+                "name": "Settles",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3krv0hI3YMv8XQpC9lnvhI"
+            },
+            "played_at": "2026-07-14T15:46:42.663Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/392WuM1Yb4QRI0GG4epyn5",
+                            "id": "392WuM1Yb4QRI0GG4epyn5",
+                            "name": "Goldie Boutilier",
+                            "type": "artist",
+                            "uri": "spotify:artist:392WuM1Yb4QRI0GG4epyn5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0apMpMpEBEqdZj2X51ay62",
+                    "id": "0apMpMpEBEqdZj2X51ay62",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273da79124bb0958d448d4b12de",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02da79124bb0958d448d4b12de",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851da79124bb0958d448d4b12de",
+                            "width": 64
+                        }
+                    ],
+                    "name": "HOW TO BE A LOVER",
+                    "release_date": "2026-07-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0apMpMpEBEqdZj2X51ay62"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/392WuM1Yb4QRI0GG4epyn5",
+                        "id": "392WuM1Yb4QRI0GG4epyn5",
+                        "name": "Goldie Boutilier",
+                        "type": "artist",
+                        "uri": "spotify:artist:392WuM1Yb4QRI0GG4epyn5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 266103,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xbP92TbLVfUlS2BtkTidi",
+                "id": "1xbP92TbLVfUlS2BtkTidi",
+                "is_local": false,
+                "name": "HOW TO BE A LOVER",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1xbP92TbLVfUlS2BtkTidi"
+            },
+            "played_at": "2026-07-14T15:43:10.183Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dZ1fTizrmY5jfkf0jrvav",
+                            "id": "3dZ1fTizrmY5jfkf0jrvav",
+                            "name": "Syd Taylor",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dZ1fTizrmY5jfkf0jrvav"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0g2kBVbW6p8vYxuHDxFzMC"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0g2kBVbW6p8vYxuHDxFzMC",
+                    "id": "0g2kBVbW6p8vYxuHDxFzMC",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27337856f929101968e7a67cdf0",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0237856f929101968e7a67cdf0",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485137856f929101968e7a67cdf0",
+                            "width": 64
+                        }
+                    ],
+                    "name": "After the Fact",
+                    "release_date": "2025-06-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0g2kBVbW6p8vYxuHDxFzMC"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dZ1fTizrmY5jfkf0jrvav",
+                        "id": "3dZ1fTizrmY5jfkf0jrvav",
+                        "name": "Syd Taylor",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dZ1fTizrmY5jfkf0jrvav"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208398,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6FN478OlRuqwWvBwSHgLhi"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6FN478OlRuqwWvBwSHgLhi",
+                "id": "6FN478OlRuqwWvBwSHgLhi",
+                "is_local": false,
+                "name": "After the Fact",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6FN478OlRuqwWvBwSHgLhi"
+            },
+            "played_at": "2026-07-14T15:38:43.591Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5PflJDKGFMTBj49PF4KlOX",
+                    "id": "5PflJDKGFMTBj49PF4KlOX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a9b6153a531deea48b17b26b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a9b6153a531deea48b17b26b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a9b6153a531deea48b17b26b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Memoir of a Sparklemuffin",
+                    "release_date": "2024-09-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:5PflJDKGFMTBj49PF4KlOX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178569,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5vYjTN8d0DZ2SosbKSx5Nj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5vYjTN8d0DZ2SosbKSx5Nj",
+                "id": "5vYjTN8d0DZ2SosbKSx5Nj",
+                "is_local": false,
+                "name": "OMG",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:5vYjTN8d0DZ2SosbKSx5Nj"
+            },
+            "played_at": "2026-07-14T15:35:14.623Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                            "id": "25uiPmTg16RbhZWAqwLBy5",
+                            "name": "Charli xcx",
+                            "type": "artist",
+                            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1WjjAPm4lSHSjupTleJaCA",
+                    "id": "1WjjAPm4lSHSjupTleJaCA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737aa38b76a2c915ed73ca15c6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027aa38b76a2c915ed73ca15c6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517aa38b76a2c915ed73ca15c6",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wink Wink",
+                    "release_date": "2026-06-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:1WjjAPm4lSHSjupTleJaCA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli xcx",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 122685,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6GjXR9FaxCuDNbqBrP9aYO",
+                "id": "6GjXR9FaxCuDNbqBrP9aYO",
+                "is_local": false,
+                "name": "Wink Wink",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6GjXR9FaxCuDNbqBrP9aYO"
+            },
+            "played_at": "2026-07-14T15:32:15.555Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 211280,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0sZLzafgqCzvnzhh8B97r2",
+                "id": "0sZLzafgqCzvnzhh8B97r2",
+                "is_local": false,
+                "name": "Weirdo",
+                "preview_url": null,
+                "track_number": 14,
+                "type": "track",
+                "uri": "spotify:track:0sZLzafgqCzvnzhh8B97r2"
+            },
+            "played_at": "2026-07-14T15:30:12.368Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178440,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0i0QWEnQAhJDSUP4p8CWHR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0i0QWEnQAhJDSUP4p8CWHR",
+                "id": "0i0QWEnQAhJDSUP4p8CWHR",
+                "is_local": false,
+                "name": "Loveland",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:0i0QWEnQAhJDSUP4p8CWHR"
+            },
+            "played_at": "2026-07-14T15:26:41.047Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140880,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1EVR07FNoOEQ8fEfJNs37G",
+                "id": "1EVR07FNoOEQ8fEfJNs37G",
+                "is_local": false,
+                "name": "Morals",
+                "preview_url": null,
+                "track_number": 12,
+                "type": "track",
+                "uri": "spotify:track:1EVR07FNoOEQ8fEfJNs37G"
+            },
+            "played_at": "2026-07-14T15:23:42.638Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 148146,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1410mOVD43lzivpQlpW1JE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1410mOVD43lzivpQlpW1JE",
+                "id": "1410mOVD43lzivpQlpW1JE",
+                "is_local": false,
+                "name": "Puppy Dog Eyes",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:1410mOVD43lzivpQlpW1JE"
+            },
+            "played_at": "2026-07-14T15:21:21.750Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 185120,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1F60jn1Y6P7ShpqRc4wQMw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1F60jn1Y6P7ShpqRc4wQMw",
+                "id": "1F60jn1Y6P7ShpqRc4wQMw",
+                "is_local": false,
+                "name": "Almost",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1F60jn1Y6P7ShpqRc4wQMw"
+            },
+            "played_at": "2026-07-14T15:18:27.465Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 178600,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1jfS1Vn83pkaBcGPYdFOdU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1jfS1Vn83pkaBcGPYdFOdU",
+                "id": "1jfS1Vn83pkaBcGPYdFOdU",
+                "is_local": false,
+                "name": "Tiny Raisin",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:1jfS1Vn83pkaBcGPYdFOdU"
+            },
+            "played_at": "2026-07-14T15:15:22.366Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180453,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4FsR3Qwxnnrmi8bzqBQqup"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4FsR3Qwxnnrmi8bzqBQqup",
+                "id": "4FsR3Qwxnnrmi8bzqBQqup",
+                "is_local": false,
+                "name": "Seasons",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:4FsR3Qwxnnrmi8bzqBQqup"
+            },
+            "played_at": "2026-07-14T15:12:23.763Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 191360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0FSz3pntgznGeUPkrh0ZXE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0FSz3pntgznGeUPkrh0ZXE",
+                "id": "0FSz3pntgznGeUPkrh0ZXE",
+                "is_local": false,
+                "name": "Jukebox",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:0FSz3pntgznGeUPkrh0ZXE"
+            },
+            "played_at": "2026-07-14T15:09:23.249Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205720,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HDNcD0s6lqt7pVurm0neZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HDNcD0s6lqt7pVurm0neZ",
+                "id": "1HDNcD0s6lqt7pVurm0neZ",
+                "is_local": false,
+                "name": "When I Get Drunk (I Want You Boy)",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:1HDNcD0s6lqt7pVurm0neZ"
+            },
+            "played_at": "2026-07-14T15:06:11.928Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224293,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3es94VG64imX0Z3RZOR9Gy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3es94VG64imX0Z3RZOR9Gy",
+                "id": "3es94VG64imX0Z3RZOR9Gy",
+                "is_local": false,
+                "name": "Teardrops",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3es94VG64imX0Z3RZOR9Gy"
+            },
+            "played_at": "2026-07-14T15:02:46.227Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 190213,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/30Wb4wrx78MZ8lAXfVb7wk",
+                "id": "30Wb4wrx78MZ8lAXfVb7wk",
+                "is_local": false,
+                "name": "Notting Hill",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:30Wb4wrx78MZ8lAXfVb7wk"
+            },
+            "played_at": "2026-07-14T14:59:01.932Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 197533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6JcsP5IHMUxrwph3K7nQhv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6JcsP5IHMUxrwph3K7nQhv",
+                "id": "6JcsP5IHMUxrwph3K7nQhv",
+                "is_local": false,
+                "name": "Happy With It",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:6JcsP5IHMUxrwph3K7nQhv"
+            },
+            "played_at": "2026-07-14T14:55:51.730Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166386,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0FeHSfzNeNbLtfii09pC5i",
+                "id": "0FeHSfzNeNbLtfii09pC5i",
+                "is_local": false,
+                "name": "Any Man",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0FeHSfzNeNbLtfii09pC5i"
+            },
+            "played_at": "2026-07-14T14:52:34.153Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                            "id": "5GGJosGMs08YEmKTZJe1fL",
+                            "name": "Suki Waterhouse",
+                            "type": "artist",
+                            "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                    "id": "3fnrOzZsn9MnYR5NMVyYv1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a1277199bf4a7b3f4724fb12",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a1277199bf4a7b3f4724fb12",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a1277199bf4a7b3f4724fb12",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Loveland",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5GGJosGMs08YEmKTZJe1fL",
+                        "id": "5GGJosGMs08YEmKTZJe1fL",
+                        "name": "Suki Waterhouse",
+                        "type": "artist",
+                        "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 194346,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i"
+                },
+                "href": "https://api.spotify.com/v1/tracks/62S62F7p3A7qOjkbApWe5i",
+                "id": "62S62F7p3A7qOjkbApWe5i",
+                "is_local": false,
+                "name": "Back in Love",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:62S62F7p3A7qOjkbApWe5i"
+            },
+            "played_at": "2026-07-14T14:49:47.766Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fnrOzZsn9MnYR5NMVyYv1",
+                "type": "album",
+                "uri": "spotify:album:3fnrOzZsn9MnYR5NMVyYv1"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/11ZOyF9bKgnusVD1rUapwv",
+                    "id": "11ZOyF9bKgnusVD1rUapwv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b2f0a2eb8c8442b1a147da51",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b2f0a2eb8c8442b1a147da51",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b2f0a2eb8c8442b1a147da51",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club (Deluxe Edition)",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0TQjC0H17Fr6ZraNoh9EY1"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0TQjC0H17Fr6ZraNoh9EY1",
+                        "id": "0TQjC0H17Fr6ZraNoh9EY1",
+                        "name": "Bill Bottrell",
+                        "type": "artist",
+                        "uri": "spotify:artist:0TQjC0H17Fr6ZraNoh9EY1"
+                    }
+                ],
+                "disc_number": 2,
+                "duration_ms": 275266,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3s8FttCw2vIFXrzlNf6WTI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3s8FttCw2vIFXrzlNf6WTI",
+                "id": "3s8FttCw2vIFXrzlNf6WTI",
+                "is_local": false,
+                "name": "I Shall Believe - 2009 Remix",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:3s8FttCw2vIFXrzlNf6WTI"
+            },
+            "played_at": "2026-07-14T14:46:20.798Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
