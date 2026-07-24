@@ -44272,6 +44272,108 @@
                 "href": "https://api.spotify.com/v1/albums/6rLBGig7awR8nRMt0suKbv",
                 "uri": "spotify:album:6rLBGig7awR8nRMt0suKbv"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/13dTrWNNrnZ3AkgNyQNKP5",
+                            "id": "13dTrWNNrnZ3AkgNyQNKP5",
+                            "name": "The Linda Lindas",
+                            "type": "artist",
+                            "uri": "spotify:artist:13dTrWNNrnZ3AkgNyQNKP5"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                            "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                            "name": "Hayley Williams",
+                            "type": "artist",
+                            "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/07uewP6C55i9uDV9B2kdoy",
+                    "id": "07uewP6C55i9uDV9B2kdoy",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273cea8d0bdc47ad3639544df15",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02cea8d0bdc47ad3639544df15",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851cea8d0bdc47ad3639544df15",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Closer",
+                    "release_date": "2026-07-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:07uewP6C55i9uDV9B2kdoy"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/13dTrWNNrnZ3AkgNyQNKP5",
+                        "id": "13dTrWNNrnZ3AkgNyQNKP5",
+                        "name": "The Linda Lindas",
+                        "type": "artist",
+                        "uri": "spotify:artist:13dTrWNNrnZ3AkgNyQNKP5"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM",
+                        "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+                        "name": "Hayley Williams",
+                        "type": "artist",
+                        "uri": "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189677,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0OgIjOcARxnYgm5iL5P6AA",
+                "id": "0OgIjOcARxnYgm5iL5P6AA",
+                "is_local": false,
+                "name": "Closer",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0OgIjOcARxnYgm5iL5P6AA"
+            },
+            "played_at": "2026-07-24T11:38:58.413Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6rLBGig7awR8nRMt0suKbv"
+                },
+                "href": "https://api.spotify.com/v1/albums/6rLBGig7awR8nRMt0suKbv",
+                "uri": "spotify:album:6rLBGig7awR8nRMt0suKbv"
+            }
         }
     ]
 }
