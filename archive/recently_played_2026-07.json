@@ -52130,6 +52130,662 @@
                 "href": "https://api.spotify.com/v1/playlists/3ZrljuU7p7lXsnQ9Rofs0I",
                 "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4NgNsOXSwIzXlUIJcpnNUp",
+                            "id": "4NgNsOXSwIzXlUIJcpnNUp",
+                            "name": "Sarah McLachlan",
+                            "type": "artist",
+                            "uri": "spotify:artist:4NgNsOXSwIzXlUIJcpnNUp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0Jm8o4knRb3L5k5JhT5heJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0Jm8o4knRb3L5k5JhT5heJ",
+                    "id": "0Jm8o4knRb3L5k5JhT5heJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27312409bcb7d8aacf03dca1c93",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0212409bcb7d8aacf03dca1c93",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485112409bcb7d8aacf03dca1c93",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Solace",
+                    "release_date": "1992-01-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:0Jm8o4knRb3L5k5JhT5heJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4NgNsOXSwIzXlUIJcpnNUp",
+                        "id": "4NgNsOXSwIzXlUIJcpnNUp",
+                        "name": "Sarah McLachlan",
+                        "type": "artist",
+                        "uri": "spotify:artist:4NgNsOXSwIzXlUIJcpnNUp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209933,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1yyrwNvB7YxSliqBohK2x1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1yyrwNvB7YxSliqBohK2x1",
+                "id": "1yyrwNvB7YxSliqBohK2x1",
+                "is_local": false,
+                "name": "Into the Fire",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1yyrwNvB7YxSliqBohK2x1"
+            },
+            "played_at": "2026-07-26T19:18:28.542Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+                            "id": "1KsASRNugxU85T0u6zSg32",
+                            "name": "Tori Amos",
+                            "type": "artist",
+                            "uri": "spotify:artist:1KsASRNugxU85T0u6zSg32"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5bxqwBKvCyB67zOEVCrFZE",
+                    "id": "5bxqwBKvCyB67zOEVCrFZE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f2f65c08a66e03c69cbc0081",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f2f65c08a66e03c69cbc0081",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f2f65c08a66e03c69cbc0081",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Little Earthquakes (Deluxe Edition)",
+                    "release_date": "1992-01-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 30,
+                    "type": "album",
+                    "uri": "spotify:album:5bxqwBKvCyB67zOEVCrFZE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+                        "id": "1KsASRNugxU85T0u6zSg32",
+                        "name": "Tori Amos",
+                        "type": "artist",
+                        "uri": "spotify:artist:1KsASRNugxU85T0u6zSg32"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299386,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6DVySQASssOCxJOyWMY1jW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6DVySQASssOCxJOyWMY1jW",
+                "id": "6DVySQASssOCxJOyWMY1jW",
+                "is_local": false,
+                "name": "Crucify - 2015 Remaster",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6DVySQASssOCxJOyWMY1jW"
+            },
+            "played_at": "2026-07-26T18:57:59.051Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1c5w8KrxGwq44fxM5lGB4s",
+                            "id": "1c5w8KrxGwq44fxM5lGB4s",
+                            "name": "Katie Pruitt",
+                            "type": "artist",
+                            "uri": "spotify:artist:1c5w8KrxGwq44fxM5lGB4s"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1v30ZLtb2nYIWqDto4GuIP",
+                    "id": "1v30ZLtb2nYIWqDto4GuIP",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739d4a6e0fb3be3923cce56273",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029d4a6e0fb3be3923cce56273",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519d4a6e0fb3be3923cce56273",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Expectations",
+                    "release_date": "2020-02-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:1v30ZLtb2nYIWqDto4GuIP"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1c5w8KrxGwq44fxM5lGB4s",
+                        "id": "1c5w8KrxGwq44fxM5lGB4s",
+                        "name": "Katie Pruitt",
+                        "type": "artist",
+                        "uri": "spotify:artist:1c5w8KrxGwq44fxM5lGB4s"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 235226,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5j5bXVwxBapNPj0MbYBa6f",
+                "id": "5j5bXVwxBapNPj0MbYBa6f",
+                "is_local": false,
+                "name": "Expectations",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5j5bXVwxBapNPj0MbYBa6f"
+            },
+            "played_at": "2026-07-26T18:48:36.066Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4QCpyPj8LCnc5C8Lpz7ueE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4QCpyPj8LCnc5C8Lpz7ueE",
+                    "id": "4QCpyPj8LCnc5C8Lpz7ueE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27363f323c22a772bf0208d6682",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0263f323c22a772bf0208d6682",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485163f323c22a772bf0208d6682",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rounder Records Story",
+                    "release_date": "2010-10-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 87,
+                    "type": "album",
+                    "uri": "spotify:album:4QCpyPj8LCnc5C8Lpz7ueE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0RyvcOVrlV86NmFz0MrG9e",
+                        "id": "0RyvcOVrlV86NmFz0MrG9e",
+                        "name": "Sarah Harmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0RyvcOVrlV86NmFz0MrG9e"
+                    }
+                ],
+                "disc_number": 4,
+                "duration_ms": 246733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3auOmSfzDKUFxaMUVziziE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3auOmSfzDKUFxaMUVziziE",
+                "id": "3auOmSfzDKUFxaMUVziziE",
+                "is_local": false,
+                "name": "Basement Apt.",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:3auOmSfzDKUFxaMUVziziE"
+            },
+            "played_at": "2026-07-26T18:39:02.948Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4QCpyPj8LCnc5C8Lpz7ueE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4QCpyPj8LCnc5C8Lpz7ueE",
+                    "id": "4QCpyPj8LCnc5C8Lpz7ueE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27363f323c22a772bf0208d6682",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0263f323c22a772bf0208d6682",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485163f323c22a772bf0208d6682",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rounder Records Story",
+                    "release_date": "2010-10-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 87,
+                    "type": "album",
+                    "uri": "spotify:album:4QCpyPj8LCnc5C8Lpz7ueE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0RyvcOVrlV86NmFz0MrG9e",
+                        "id": "0RyvcOVrlV86NmFz0MrG9e",
+                        "name": "Sarah Harmer",
+                        "type": "artist",
+                        "uri": "spotify:artist:0RyvcOVrlV86NmFz0MrG9e"
+                    }
+                ],
+                "disc_number": 4,
+                "duration_ms": 246733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3auOmSfzDKUFxaMUVziziE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3auOmSfzDKUFxaMUVziziE",
+                "id": "3auOmSfzDKUFxaMUVziziE",
+                "is_local": false,
+                "name": "Basement Apt.",
+                "preview_url": null,
+                "track_number": 13,
+                "type": "track",
+                "uri": "spotify:track:3auOmSfzDKUFxaMUVziziE"
+            },
+            "played_at": "2026-07-26T18:37:30.929Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0Je74SitssvJg1w4Ra2EK7",
+                            "id": "0Je74SitssvJg1w4Ra2EK7",
+                            "name": "4 Non Blondes",
+                            "type": "artist",
+                            "uri": "spotify:artist:0Je74SitssvJg1w4Ra2EK7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2P8M5eo4zWFD0JJtH4D0iA",
+                    "id": "2P8M5eo4zWFD0JJtH4D0iA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273381371cb8ce680d0dc324600",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02381371cb8ce680d0dc324600",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851381371cb8ce680d0dc324600",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Bigger, Better, Faster, More !",
+                    "release_date": "1992-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2P8M5eo4zWFD0JJtH4D0iA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Je74SitssvJg1w4Ra2EK7",
+                        "id": "0Je74SitssvJg1w4Ra2EK7",
+                        "name": "4 Non Blondes",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Je74SitssvJg1w4Ra2EK7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 277506,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0BEiMf0IidmdEeY2Kp1nUA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0BEiMf0IidmdEeY2Kp1nUA",
+                "id": "0BEiMf0IidmdEeY2Kp1nUA",
+                "is_local": false,
+                "name": "Superfly",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:0BEiMf0IidmdEeY2Kp1nUA"
+            },
+            "played_at": "2026-07-26T17:21:30.485Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 304409,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2sjH6OdrBQeXeeUBjR1kWr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2sjH6OdrBQeXeeUBjR1kWr",
+                "id": "2sjH6OdrBQeXeeUBjR1kWr",
+                "is_local": false,
+                "name": "Mezcal And Lime",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:2sjH6OdrBQeXeeUBjR1kWr"
+            },
+            "played_at": "2026-07-26T17:16:52.486Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 227075,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2PVyeuw30EaMazdfeH9HGG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2PVyeuw30EaMazdfeH9HGG",
+                "id": "2PVyeuw30EaMazdfeH9HGG",
+                "is_local": false,
+                "name": "Good At What I Do",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:2PVyeuw30EaMazdfeH9HGG"
+            },
+            "played_at": "2026-07-26T17:11:48.004Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
         }
     ]
 }
