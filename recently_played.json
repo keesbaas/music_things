@@ -439831,6 +439831,836 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 238143,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3JyTLFhh1HL1L1u0kK7LMU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3JyTLFhh1HL1L1u0kK7LMU",
+                "id": "3JyTLFhh1HL1L1u0kK7LMU",
+                "is_local": false,
+                "name": "Days Can Turn Around",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:3JyTLFhh1HL1L1u0kK7LMU"
+            },
+            "played_at": "2026-07-26T17:08:00.908Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234406,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0F6VVziurxRUbjpE1Lzi9P"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0F6VVziurxRUbjpE1Lzi9P",
+                "id": "0F6VVziurxRUbjpE1Lzi9P",
+                "is_local": false,
+                "name": "Don\u2019t Break Down On Me",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0F6VVziurxRUbjpE1Lzi9P"
+            },
+            "played_at": "2026-07-26T17:04:02.811Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 275460,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2bQZlyw6QQNYhMQdvTzkeD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2bQZlyw6QQNYhMQdvTzkeD",
+                "id": "2bQZlyw6QQNYhMQdvTzkeD",
+                "is_local": false,
+                "name": "Take The High Road",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2bQZlyw6QQNYhMQdvTzkeD"
+            },
+            "played_at": "2026-07-26T17:00:08.411Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 255207,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7js9vrXTuU3fBIG2CyU3n5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7js9vrXTuU3fBIG2CyU3n5",
+                "id": "7js9vrXTuU3fBIG2CyU3n5",
+                "is_local": false,
+                "name": "Columbus & 89th",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:7js9vrXTuU3fBIG2CyU3n5"
+            },
+            "played_at": "2026-07-26T16:55:32.921Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 217884,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1EADPMYWwbSAGDZbWd8Z28"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1EADPMYWwbSAGDZbWd8Z28",
+                "id": "1EADPMYWwbSAGDZbWd8Z28",
+                "is_local": false,
+                "name": "Dying Ember",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:1EADPMYWwbSAGDZbWd8Z28"
+            },
+            "played_at": "2026-07-26T16:51:17.720Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 226195,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6R4geQkXhYl9nMqFJT1e3Z"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6R4geQkXhYl9nMqFJT1e3Z",
+                "id": "6R4geQkXhYl9nMqFJT1e3Z",
+                "is_local": false,
+                "name": "The Way It Is Now",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:6R4geQkXhYl9nMqFJT1e3Z"
+            },
+            "played_at": "2026-07-26T16:47:39.826Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180524,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3cebUq89Iq26AHYYu5sLac",
+                "id": "3cebUq89Iq26AHYYu5sLac",
+                "is_local": false,
+                "name": "Runaway Train",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3cebUq89Iq26AHYYu5sLac"
+            },
+            "played_at": "2026-07-26T16:43:53.633Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195887,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5ttsRlNd48P0mshRbEY4to"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ttsRlNd48P0mshRbEY4to",
+                "id": "5ttsRlNd48P0mshRbEY4to",
+                "is_local": false,
+                "name": "When The Lights Go Out",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5ttsRlNd48P0mshRbEY4to"
+            },
+            "played_at": "2026-07-26T16:40:53.146Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                            "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                            "name": "Sarah Jarosz",
+                            "type": "artist",
+                            "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5vzRjqCajfWrWhE92o9gPG",
+                    "id": "5vzRjqCajfWrWhE92o9gPG",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738af6fc57315f9a1e172153fa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028af6fc57315f9a1e172153fa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518af6fc57315f9a1e172153fa",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Polaroid Lovers",
+                    "release_date": "2024-01-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:5vzRjqCajfWrWhE92o9gPG"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6nFBonVf7Lqaj05R0v5VGJ",
+                        "id": "6nFBonVf7Lqaj05R0v5VGJ",
+                        "name": "Sarah Jarosz",
+                        "type": "artist",
+                        "uri": "spotify:artist:6nFBonVf7Lqaj05R0v5VGJ"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 264809,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4wnvybp8Ft6W2hGZemdSRO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4wnvybp8Ft6W2hGZemdSRO",
+                "id": "4wnvybp8Ft6W2hGZemdSRO",
+                "is_local": false,
+                "name": "Jealous Moon",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4wnvybp8Ft6W2hGZemdSRO"
+            },
+            "played_at": "2026-07-26T16:35:52.907Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcWoO2bIMLbdq"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcWoO2bIMLbdq",
+                "uri": "spotify:playlist:37i9dQZEVXcWoO2bIMLbdq"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2vAUwx2nm0chxnNXkAcHD7",
+                            "id": "2vAUwx2nm0chxnNXkAcHD7",
+                            "name": "Nan\u00e9",
+                            "type": "artist",
+                            "uri": "spotify:artist:2vAUwx2nm0chxnNXkAcHD7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2IXxnl8jWACV3QC8WtyHIt",
+                    "id": "2IXxnl8jWACV3QC8WtyHIt",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273927460811088f08ab426a7a2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02927460811088f08ab426a7a2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851927460811088f08ab426a7a2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Always on My Mind (Acoustic)",
+                    "release_date": "2022-03-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2IXxnl8jWACV3QC8WtyHIt"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2vAUwx2nm0chxnNXkAcHD7",
+                        "id": "2vAUwx2nm0chxnNXkAcHD7",
+                        "name": "Nan\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:2vAUwx2nm0chxnNXkAcHD7"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4vPbKW4M6Q3kvz8kUBuXrX",
+                        "id": "4vPbKW4M6Q3kvz8kUBuXrX",
+                        "name": "Ley Line",
+                        "type": "artist",
+                        "uri": "spotify:artist:4vPbKW4M6Q3kvz8kUBuXrX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 214820,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4BzkIjqAMi2MYU5ZJoV9my",
+                "id": "4BzkIjqAMi2MYU5ZJoV9my",
+                "is_local": false,
+                "name": "Always on My Mind (Acoustic)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4BzkIjqAMi2MYU5ZJoV9my"
+            },
+            "played_at": "2026-07-26T16:31:04.231Z",
+            "context": {
+                "type": "playlist",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3ZrljuU7p7lXsnQ9Rofs0I"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3ZrljuU7p7lXsnQ9Rofs0I",
+                "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
+            }
         }
     ]
 }
