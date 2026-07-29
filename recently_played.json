@@ -444371,6 +444371,1184 @@
                 "href": "https://api.spotify.com/v1/playlists/5mWa8KVHD11b3zTy44d7np",
                 "uri": "spotify:playlist:5mWa8KVHD11b3zTy44d7np"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 314364,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6RXSnVjVJJmbE5nsD8du0Z"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6RXSnVjVJJmbE5nsD8du0Z",
+                "id": "6RXSnVjVJJmbE5nsD8du0Z",
+                "is_local": false,
+                "name": "If It Makes You Happy - Live from the Ryman/2019",
+                "preview_url": null,
+                "track_number": 24,
+                "type": "track",
+                "uri": "spotify:track:6RXSnVjVJJmbE5nsD8du0Z"
+            },
+            "played_at": "2026-07-29T16:09:23.506Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0dsb8wm9tVgrZW3Cs1Xci4"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0dsb8wm9tVgrZW3Cs1Xci4",
+                    "id": "0dsb8wm9tVgrZW3Cs1Xci4",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273587224a82afcc0a4302dd6a1",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02587224a82afcc0a4302dd6a1",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851587224a82afcc0a4302dd6a1",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl: Music From The Feature Documentary",
+                    "release_date": "2022-05-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 35,
+                    "type": "album",
+                    "uri": "spotify:album:0dsb8wm9tVgrZW3Cs1Xci4"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 282733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xTZ4AYVFXA4XYHYC3Khlx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xTZ4AYVFXA4XYHYC3Khlx",
+                "id": "1xTZ4AYVFXA4XYHYC3Khlx",
+                "is_local": false,
+                "name": "Love Is A Good Thing",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:1xTZ4AYVFXA4XYHYC3Khlx"
+            },
+            "played_at": "2026-07-29T16:02:47.907Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4JTpg4eRkkySuK7lf2O7Qo"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4JTpg4eRkkySuK7lf2O7Qo",
+                    "id": "4JTpg4eRkkySuK7lf2O7Qo",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27395d141e51e1cf6fb39ab11f2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0295d141e51e1cf6fb39ab11f2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485195d141e51e1cf6fb39ab11f2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "100 Miles From Memphis",
+                    "release_date": "2010-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:4JTpg4eRkkySuK7lf2O7Qo"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 299360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5yCJApWLN5JT2AqOxDoaDL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5yCJApWLN5JT2AqOxDoaDL",
+                "id": "5yCJApWLN5JT2AqOxDoaDL",
+                "is_local": false,
+                "name": "100 Miles From Memphis",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:5yCJApWLN5JT2AqOxDoaDL"
+            },
+            "played_at": "2026-07-29T15:57:29.913Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3OI3sEFno74916StJr3X49"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3OI3sEFno74916StJr3X49",
+                    "id": "3OI3sEFno74916StJr3X49",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b7f7894e5dd41ce629eed36d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b7f7894e5dd41ce629eed36d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b7f7894e5dd41ce629eed36d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Concert In The Sky",
+                    "release_date": "2004-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 8,
+                    "type": "album",
+                    "uri": "spotify:album:3OI3sEFno74916StJr3X49"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 303613,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5DWWADY6hurY0LAy3aPWkW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5DWWADY6hurY0LAy3aPWkW",
+                "id": "5DWWADY6hurY0LAy3aPWkW",
+                "is_local": false,
+                "name": "Soak Up The Sun - Live concert in the sky",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:5DWWADY6hurY0LAy3aPWkW"
+            },
+            "played_at": "2026-07-29T15:52:20.588Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/11ZOyF9bKgnusVD1rUapwv",
+                    "id": "11ZOyF9bKgnusVD1rUapwv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b2f0a2eb8c8442b1a147da51",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b2f0a2eb8c8442b1a147da51",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b2f0a2eb8c8442b1a147da51",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Tuesday Night Music Club (Deluxe Edition)",
+                    "release_date": "1993-08-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 329560,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3HvPGP3FjDZg1tk8gCcmXS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3HvPGP3FjDZg1tk8gCcmXS",
+                "id": "3HvPGP3FjDZg1tk8gCcmXS",
+                "is_local": false,
+                "name": "No One Said It Would Be Easy",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:3HvPGP3FjDZg1tk8gCcmXS"
+            },
+            "played_at": "2026-07-29T15:47:16.501Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/57u5thaIOVk1Z7fmeiEWtv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/57u5thaIOVk1Z7fmeiEWtv",
+                    "id": "57u5thaIOVk1Z7fmeiEWtv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737ff9214819dc0ea9886a3a1a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027ff9214819dc0ea9886a3a1a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517ff9214819dc0ea9886a3a1a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Circles",
+                    "release_date": "2022-08-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:57u5thaIOVk1Z7fmeiEWtv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237860,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3OsguMn8eDcVxNAqQSFPTf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3OsguMn8eDcVxNAqQSFPTf",
+                "id": "3OsguMn8eDcVxNAqQSFPTf",
+                "is_local": false,
+                "name": "Circles",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3OsguMn8eDcVxNAqQSFPTf"
+            },
+            "played_at": "2026-07-29T15:41:46.386Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/25EBI2aibErmpf3XDxHjid"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/25EBI2aibErmpf3XDxHjid",
+                    "id": "25EBI2aibErmpf3XDxHjid",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733801d9bebb63c8e79f9dc95c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023801d9bebb63c8e79f9dc95c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513801d9bebb63c8e79f9dc95c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl Crow And Friends Live From Central Park",
+                    "release_date": "1999-12-07",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:25EBI2aibErmpf3XDxHjid"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/08avsqaGIlK2x3i2Cu7rKH",
+                        "id": "08avsqaGIlK2x3i2Cu7rKH",
+                        "name": "Keith Richards",
+                        "type": "artist",
+                        "uri": "spotify:artist:08avsqaGIlK2x3i2Cu7rKH"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2ozLlEZTdSV3pjHgWwZMsi",
+                        "id": "2ozLlEZTdSV3pjHgWwZMsi",
+                        "name": "Chrissie Hynde",
+                        "type": "artist",
+                        "uri": "spotify:artist:2ozLlEZTdSV3pjHgWwZMsi"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 201000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/53lCzRbw1f5SUvMxi5X9Sd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/53lCzRbw1f5SUvMxi5X9Sd",
+                "id": "53lCzRbw1f5SUvMxi5X9Sd",
+                "is_local": false,
+                "name": "Happy - Live From Central Park/1999",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:53lCzRbw1f5SUvMxi5X9Sd"
+            },
+            "played_at": "2026-07-29T15:37:47.989Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6umHfVdm0kTvSVsasefD6U",
+                    "id": "6umHfVdm0kTvSVsasefD6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733bf0441cf70a9e69f304ff29",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023bf0441cf70a9e69f304ff29",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513bf0441cf70a9e69f304ff29",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Live From the Ryman And More",
+                    "release_date": "2021-08-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 27,
+                    "type": "album",
+                    "uri": "spotify:album:6umHfVdm0kTvSVsasefD6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1WrqUPWlHN5FXCRcQgrkas",
+                        "id": "1WrqUPWlHN5FXCRcQgrkas",
+                        "name": "Lucius",
+                        "type": "artist",
+                        "uri": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 327889,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17XyEyP3Weh1jOZbhjXhXv"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17XyEyP3Weh1jOZbhjXhXv",
+                "id": "17XyEyP3Weh1jOZbhjXhXv",
+                "is_local": false,
+                "name": "Run, Baby, Run - Live from the Theater at Ace Hotel/2019",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:17XyEyP3Weh1jOZbhjXhXv"
+            },
+            "played_at": "2026-07-29T15:34:26.481Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5NYcTXrRZHxNyRKVOd0vs1",
+                    "id": "5NYcTXrRZHxNyRKVOd0vs1",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739ba3d667e7cb1fa7697791ff",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029ba3d667e7cb1fa7697791ff",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519ba3d667e7cb1fa7697791ff",
+                            "width": 64
+                        }
+                    ],
+                    "name": "C'Mon, C'Mon",
+                    "release_date": "2002-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:5NYcTXrRZHxNyRKVOd0vs1"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 204906,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4NuYnnshvlLE8C3QJ6V4AI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4NuYnnshvlLE8C3QJ6V4AI",
+                "id": "4NuYnnshvlLE8C3QJ6V4AI",
+                "is_local": false,
+                "name": "It's So Easy",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:4NuYnnshvlLE8C3QJ6V4AI"
+            },
+            "played_at": "2026-07-29T15:28:53.082Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7shFCy9ndIUNpp52TubkTa"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7shFCy9ndIUNpp52TubkTa",
+                    "id": "7shFCy9ndIUNpp52TubkTa",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273713ec18394c98b1febffba00",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02713ec18394c98b1febffba00",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851713ec18394c98b1febffba00",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Be Myself",
+                    "release_date": "2017-04-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:7shFCy9ndIUNpp52TubkTa"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 261760,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Bmw1zhoY4BgidZrBNb6tG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Bmw1zhoY4BgidZrBNb6tG",
+                "id": "7Bmw1zhoY4BgidZrBNb6tG",
+                "is_local": false,
+                "name": "Be Myself",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:7Bmw1zhoY4BgidZrBNb6tG"
+            },
+            "played_at": "2026-07-29T15:25:27.634Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6js6AsbjWMdMXapWYkbVSm"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6js6AsbjWMdMXapWYkbVSm",
+                    "id": "6js6AsbjWMdMXapWYkbVSm",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d053d51b318b96947c0e158d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d053d51b318b96947c0e158d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d053d51b318b96947c0e158d",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Wildflower (Deluxe Edition)",
+                    "release_date": "2005-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:6js6AsbjWMdMXapWYkbVSm"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 267973,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5MNKFhpiDy3HGnMOEi12IR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5MNKFhpiDy3HGnMOEi12IR",
+                "id": "5MNKFhpiDy3HGnMOEi12IR",
+                "is_local": false,
+                "name": "I Don't Wanna Know",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5MNKFhpiDy3HGnMOEi12IR"
+            },
+            "played_at": "2026-07-29T15:21:05.370Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "compilation",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0dsb8wm9tVgrZW3Cs1Xci4"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0dsb8wm9tVgrZW3Cs1Xci4",
+                    "id": "0dsb8wm9tVgrZW3Cs1Xci4",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273587224a82afcc0a4302dd6a1",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02587224a82afcc0a4302dd6a1",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851587224a82afcc0a4302dd6a1",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Sheryl: Music From The Feature Documentary",
+                    "release_date": "2022-05-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 35,
+                    "type": "album",
+                    "uri": "spotify:album:0dsb8wm9tVgrZW3Cs1Xci4"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180181,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6NphVIMoQNlYFJuyAfULxf"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6NphVIMoQNlYFJuyAfULxf",
+                "id": "6NphVIMoQNlYFJuyAfULxf",
+                "is_local": false,
+                "name": "Real Gone - Live From Brooklyn Bowl/2021",
+                "preview_url": null,
+                "track_number": 17,
+                "type": "track",
+                "uri": "spotify:track:6NphVIMoQNlYFJuyAfULxf"
+            },
+            "played_at": "2026-07-29T15:16:36.982Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/245704RhuUXj2ty55RKoJh"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/245704RhuUXj2ty55RKoJh",
+                    "id": "245704RhuUXj2ty55RKoJh",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27371f4037bb8232f8a5814f53f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0271f4037bb8232f8a5814f53f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485171f4037bb8232f8a5814f53f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Detours",
+                    "release_date": "2008-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:245704RhuUXj2ty55RKoJh"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 227306,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5zqF72oRwWkDranxkxQPX8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zqF72oRwWkDranxkxQPX8",
+                "id": "5zqF72oRwWkDranxkxQPX8",
+                "is_local": false,
+                "name": "Motivation",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:5zqF72oRwWkDranxkxQPX8"
+            },
+            "played_at": "2026-07-29T15:13:36.217Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                            "id": "4TKTii6gnOnUXQHyuo9JaD",
+                            "name": "Sheryl Crow",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1eFS4z1AJJCn2zzkZBwzPb",
+                    "id": "1eFS4z1AJJCn2zzkZBwzPb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b194b89063fa7677010d88a9",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b194b89063fa7677010d88a9",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b194b89063fa7677010d88a9",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Globe Sessions",
+                    "release_date": "1998-09-21",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:1eFS4z1AJJCn2zzkZBwzPb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+                        "id": "4TKTii6gnOnUXQHyuo9JaD",
+                        "name": "Sheryl Crow",
+                        "type": "artist",
+                        "uri": "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 248400,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1eKPBcUKstvi0UKNvpSbl1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1eKPBcUKstvi0UKNvpSbl1",
+                "id": "1eKPBcUKstvi0UKNvpSbl1",
+                "is_local": false,
+                "name": "My Favorite Mistake",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1eKPBcUKstvi0UKNvpSbl1"
+            },
+            "played_at": "2026-07-29T15:09:48.461Z",
+            "context": {
+                "href": "https://api.spotify.com/v1/playlists/0mq4Oqmu1nbImnNNolNlNH",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0mq4Oqmu1nbImnNNolNlNH"
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0mq4Oqmu1nbImnNNolNlNH"
+            }
         }
     ]
 }
