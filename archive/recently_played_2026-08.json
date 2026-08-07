@@ -6259,6 +6259,422 @@
                 "type": "artist",
                 "uri": "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7rrTqtOUOwva4sgTx9C9F9",
+                            "id": "7rrTqtOUOwva4sgTx9C9F9",
+                            "name": "Joy Oladokun",
+                            "type": "artist",
+                            "uri": "spotify:artist:7rrTqtOUOwva4sgTx9C9F9"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/75o3sk5btG5NX8JaPw190o",
+                    "id": "75o3sk5btG5NX8JaPw190o",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27351ae6d228814681ba1e83c23",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0251ae6d228814681ba1e83c23",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485151ae6d228814681ba1e83c23",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Proof Of Life",
+                    "release_date": "2023-04-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:75o3sk5btG5NX8JaPw190o"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7rrTqtOUOwva4sgTx9C9F9",
+                        "id": "7rrTqtOUOwva4sgTx9C9F9",
+                        "name": "Joy Oladokun",
+                        "type": "artist",
+                        "uri": "spotify:artist:7rrTqtOUOwva4sgTx9C9F9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 216167,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3I6n5FDKw6TCjPw7JjLHSG",
+                "id": "3I6n5FDKw6TCjPw7JjLHSG",
+                "is_local": false,
+                "name": "Taking Things For Granted",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:3I6n5FDKw6TCjPw7JjLHSG"
+            },
+            "played_at": "2026-08-07T14:48:03.889Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7rrTqtOUOwva4sgTx9C9F9",
+                            "id": "7rrTqtOUOwva4sgTx9C9F9",
+                            "name": "Joy Oladokun",
+                            "type": "artist",
+                            "uri": "spotify:artist:7rrTqtOUOwva4sgTx9C9F9"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5VxAHmhEBVPwc63vpc0Zll"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5VxAHmhEBVPwc63vpc0Zll",
+                    "id": "5VxAHmhEBVPwc63vpc0Zll",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b7856e70af9125d93bc5caec0e",
+                            "width": 1280
+                        },
+                        {
+                            "height": 720,
+                            "url": "https://i.scdn.co/image/ab6742d3000053b7856e70af9125d93bc5caec0e",
+                            "width": 1280
+                        },
+                        {
+                            "height": 360,
+                            "url": "https://i.scdn.co/image/ab6742d3000052b7856e70af9125d93bc5caec0e",
+                            "width": 640
+                        }
+                    ],
+                    "name": "Taking Things For Granted",
+                    "release_date": "2023-05-11",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5VxAHmhEBVPwc63vpc0Zll"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7rrTqtOUOwva4sgTx9C9F9",
+                        "id": "7rrTqtOUOwva4sgTx9C9F9",
+                        "name": "Joy Oladokun",
+                        "type": "artist",
+                        "uri": "spotify:artist:7rrTqtOUOwva4sgTx9C9F9"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 219258,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1BExqTGHT5uWZPpuSR7grE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1BExqTGHT5uWZPpuSR7grE",
+                "id": "1BExqTGHT5uWZPpuSR7grE",
+                "is_local": false,
+                "name": "Taking Things For Granted",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1BExqTGHT5uWZPpuSR7grE"
+            },
+            "played_at": "2026-08-07T13:42:48.278Z",
+            "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3LjnXZYlHbblbd8OZTtSip",
+                            "id": "3LjnXZYlHbblbd8OZTtSip",
+                            "name": "Kyle Gordon",
+                            "type": "artist",
+                            "uri": "spotify:artist:3LjnXZYlHbblbd8OZTtSip"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7HSXzUBiSYVRL1kkMUoJgL"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7HSXzUBiSYVRL1kkMUoJgL",
+                    "id": "7HSXzUBiSYVRL1kkMUoJgL",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731ced26b72722e2b54d49d94c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021ced26b72722e2b54d49d94c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511ced26b72722e2b54d49d94c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Mr. Jambo (feat. Barry Bergen)",
+                    "release_date": "2026-07-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:7HSXzUBiSYVRL1kkMUoJgL"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3LjnXZYlHbblbd8OZTtSip",
+                        "id": "3LjnXZYlHbblbd8OZTtSip",
+                        "name": "Kyle Gordon",
+                        "type": "artist",
+                        "uri": "spotify:artist:3LjnXZYlHbblbd8OZTtSip"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3JIemd0wjT9SR9zB4gNO1X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3JIemd0wjT9SR9zB4gNO1X",
+                        "id": "3JIemd0wjT9SR9zB4gNO1X",
+                        "name": "Barry Bergen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3JIemd0wjT9SR9zB4gNO1X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 174854,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3gGH2xaIMtnlXoqIR1Qg4O"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3gGH2xaIMtnlXoqIR1Qg4O",
+                "id": "3gGH2xaIMtnlXoqIR1Qg4O",
+                "is_local": false,
+                "name": "Mr. Jambo (feat. Barry Bergen)",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:3gGH2xaIMtnlXoqIR1Qg4O"
+            },
+            "played_at": "2026-08-07T13:42:39.297Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4RZZYhClJSEVHGH4qpplyy"
+                },
+                "href": "https://api.spotify.com/v1/albums/4RZZYhClJSEVHGH4qpplyy",
+                "uri": "spotify:album:4RZZYhClJSEVHGH4qpplyy"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/60B2BBjn6yEQEl8XLYMZU2",
+                            "id": "60B2BBjn6yEQEl8XLYMZU2",
+                            "name": "Christopher Tin",
+                            "type": "artist",
+                            "uri": "spotify:artist:60B2BBjn6yEQEl8XLYMZU2"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0s1sXci3Ok4t6fy2y1Xzh5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0s1sXci3Ok4t6fy2y1Xzh5",
+                    "id": "0s1sXci3Ok4t6fy2y1Xzh5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27328b81cfd1f77cf0568ff4ef2",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0228b81cfd1f77cf0568ff4ef2",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485128b81cfd1f77cf0568ff4ef2",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Calling All Dawns",
+                    "release_date": "2009-10-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0s1sXci3Ok4t6fy2y1Xzh5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/60B2BBjn6yEQEl8XLYMZU2",
+                        "id": "60B2BBjn6yEQEl8XLYMZU2",
+                        "name": "Christopher Tin",
+                        "type": "artist",
+                        "uri": "spotify:artist:60B2BBjn6yEQEl8XLYMZU2"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mMaqfhEcPjrR2FEKWVpOl",
+                        "id": "6mMaqfhEcPjrR2FEKWVpOl",
+                        "name": "Soweto Gospel Choir",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mMaqfhEcPjrR2FEKWVpOl"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209946,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6UDFkqHY5gLREnSh9jd5th"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6UDFkqHY5gLREnSh9jd5th",
+                "id": "6UDFkqHY5gLREnSh9jd5th",
+                "is_local": false,
+                "name": "Baba Yetu",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6UDFkqHY5gLREnSh9jd5th"
+            },
+            "played_at": "2026-08-07T13:39:44.442Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4RZZYhClJSEVHGH4qpplyy"
+                },
+                "href": "https://api.spotify.com/v1/albums/4RZZYhClJSEVHGH4qpplyy",
+                "uri": "spotify:album:4RZZYhClJSEVHGH4qpplyy"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4EVdYJZgYYGKcBWi2uvCvy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4EVdYJZgYYGKcBWi2uvCvy",
+                            "id": "4EVdYJZgYYGKcBWi2uvCvy",
+                            "name": "The University Of Notre Dame Folk Choir",
+                            "type": "artist",
+                            "uri": "spotify:artist:4EVdYJZgYYGKcBWi2uvCvy"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4RZZYhClJSEVHGH4qpplyy"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4RZZYhClJSEVHGH4qpplyy",
+                    "id": "4RZZYhClJSEVHGH4qpplyy",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27339525fd14b895b8e6e82423b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0239525fd14b895b8e6e82423b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485139525fd14b895b8e6e82423b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Crossroads of Praise",
+                    "release_date": "1999",
+                    "release_date_precision": "year",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:4RZZYhClJSEVHGH4qpplyy"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4EVdYJZgYYGKcBWi2uvCvy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4EVdYJZgYYGKcBWi2uvCvy",
+                        "id": "4EVdYJZgYYGKcBWi2uvCvy",
+                        "name": "The University Of Notre Dame Folk Choir",
+                        "type": "artist",
+                        "uri": "spotify:artist:4EVdYJZgYYGKcBWi2uvCvy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 177946,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/36sUD4XPSwJjpWnMQyipcU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/36sUD4XPSwJjpWnMQyipcU",
+                "id": "36sUD4XPSwJjpWnMQyipcU",
+                "is_local": false,
+                "name": "Siyahamba/We Are Marching - USAXF0510416",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:36sUD4XPSwJjpWnMQyipcU"
+            },
+            "played_at": "2026-08-07T13:36:14.801Z",
+            "context": {
+                "type": "album",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4RZZYhClJSEVHGH4qpplyy"
+                },
+                "href": "https://api.spotify.com/v1/albums/4RZZYhClJSEVHGH4qpplyy",
+                "uri": "spotify:album:4RZZYhClJSEVHGH4qpplyy"
+            }
         }
     ]
 }
