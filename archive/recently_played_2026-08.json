@@ -6757,6 +6757,88 @@
                 "type": "album",
                 "uri": "spotify:album:2fnkyn9EybagIoFJ7a13oz"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4iS7gVZUawLaXYADeRZL36",
+                            "id": "4iS7gVZUawLaXYADeRZL36",
+                            "name": "Annabelle Dinda",
+                            "type": "artist",
+                            "uri": "spotify:artist:4iS7gVZUawLaXYADeRZL36"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6SjTebu5erz22LeboDHsML",
+                    "id": "6SjTebu5erz22LeboDHsML",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d3edfd84ef7407413495aeaf",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d3edfd84ef7407413495aeaf",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d3edfd84ef7407413495aeaf",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Some Things Never Leave",
+                    "release_date": "2026-01-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:6SjTebu5erz22LeboDHsML"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4iS7gVZUawLaXYADeRZL36",
+                        "id": "4iS7gVZUawLaXYADeRZL36",
+                        "name": "Annabelle Dinda",
+                        "type": "artist",
+                        "uri": "spotify:artist:4iS7gVZUawLaXYADeRZL36"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 190476,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7mFYoVfIh5JXfiUAQqSRYu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7mFYoVfIh5JXfiUAQqSRYu",
+                "id": "7mFYoVfIh5JXfiUAQqSRYu",
+                "is_local": false,
+                "name": "The Hand",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:7mFYoVfIh5JXfiUAQqSRYu"
+            },
+            "played_at": "2026-08-08T20:23:18.830Z",
+            "context": {
+                "type": "artist",
+                "href": "https://api.spotify.com/v1/artists/4iS7gVZUawLaXYADeRZL36",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+                },
+                "uri": "spotify:artist:4iS7gVZUawLaXYADeRZL36"
+            }
         }
     ]
 }
