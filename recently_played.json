@@ -460381,6 +460381,88 @@
                 },
                 "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                            "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                            "name": "Paul Simon",
+                            "type": "artist",
+                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6WgGWYw6XXQyLTsWt7tXky",
+                    "id": "6WgGWYw6XXQyLTsWt7tXky",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e5855edffddef46b7feff49b",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e5855edffddef46b7feff49b",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Graceland (25th Anniversary Deluxe Edition)",
+                    "release_date": "1986-08-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 17,
+                    "type": "album",
+                    "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                        "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                        "name": "Paul Simon",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 350723,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71GvlH0VdeClloLIkHrAVu",
+                "id": "71GvlH0VdeClloLIkHrAVu",
+                "is_local": false,
+                "name": "Diamonds on the Soles of Her Shoes",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:71GvlH0VdeClloLIkHrAVu"
+            },
+            "played_at": "2026-08-09T21:42:49.133Z",
+            "context": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3ZrljuU7p7lXsnQ9Rofs0I"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3ZrljuU7p7lXsnQ9Rofs0I",
+                "type": "playlist",
+                "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
+            }
         }
     ]
 }
