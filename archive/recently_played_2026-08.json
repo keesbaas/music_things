@@ -8827,6 +8827,848 @@
                 "type": "playlist",
                 "uri": "spotify:playlist:3ZrljuU7p7lXsnQ9Rofs0I"
             }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164842,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/49dBB2KMMmsSCIGVwwH0v3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/49dBB2KMMmsSCIGVwwH0v3",
+                "id": "49dBB2KMMmsSCIGVwwH0v3",
+                "is_local": false,
+                "name": "Don't Go Yet",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:49dBB2KMMmsSCIGVwwH0v3"
+            },
+            "played_at": "2026-08-13T18:15:36.298Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+                    "id": "6bUxh58rYTL67FS8dyTKMN",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eec120f35546507f59f05c41",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eec120f35546507f59f05c41",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851eec120f35546507f59f05c41",
+                            "width": 64
+                        }
+                    ],
+                    "name": "El Dorado",
+                    "release_date": "2017-05-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+                        "id": "1r4hJ1h58CWwUQe3MxPuau",
+                        "name": "Maluma",
+                        "type": "artist",
+                        "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195840,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6mICuAdrwEjh6Y6lroV2Kg",
+                "id": "6mICuAdrwEjh6Y6lroV2Kg",
+                "is_local": false,
+                "name": "Chantaje (feat. Maluma)",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:6mICuAdrwEjh6Y6lroV2Kg"
+            },
+            "played_at": "2026-08-13T18:12:50.984Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+                            "id": "2DlGxzQSjYe5N6G9nkYghR",
+                            "name": "Jennifer Lopez",
+                            "type": "artist",
+                            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/76QqoE30i9HVwxtxYMkWXT",
+                    "id": "76QqoE30i9HVwxtxYMkWXT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bfa0a1de59696c7a6fe15ebb",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bfa0a1de59696c7a6fe15ebb",
+                            "width": 64
+                        }
+                    ],
+                    "name": "J.Lo",
+                    "release_date": "2001-01-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:76QqoE30i9HVwxtxYMkWXT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+                        "id": "2DlGxzQSjYe5N6G9nkYghR",
+                        "name": "Jennifer Lopez",
+                        "type": "artist",
+                        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6J8vBmsokURohC3UygqYOH",
+                "id": "6J8vBmsokURohC3UygqYOH",
+                "is_local": false,
+                "name": "Ain't It Funny",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6J8vBmsokURohC3UygqYOH"
+            },
+            "played_at": "2026-08-13T18:09:34.553Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+                            "id": "2DlGxzQSjYe5N6G9nkYghR",
+                            "name": "Jennifer Lopez",
+                            "type": "artist",
+                            "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/76QqoE30i9HVwxtxYMkWXT",
+                    "id": "76QqoE30i9HVwxtxYMkWXT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bfa0a1de59696c7a6fe15ebb",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bfa0a1de59696c7a6fe15ebb",
+                            "width": 64
+                        }
+                    ],
+                    "name": "J.Lo",
+                    "release_date": "2001-01-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 16,
+                    "type": "album",
+                    "uri": "spotify:album:76QqoE30i9HVwxtxYMkWXT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+                        "id": "2DlGxzQSjYe5N6G9nkYghR",
+                        "name": "Jennifer Lopez",
+                        "type": "artist",
+                        "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245360,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6J8vBmsokURohC3UygqYOH",
+                "id": "6J8vBmsokURohC3UygqYOH",
+                "is_local": false,
+                "name": "Ain't It Funny",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6J8vBmsokURohC3UygqYOH"
+            },
+            "played_at": "2026-08-13T18:04:20.030Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4pjM3CHJOT9BvnlcnKcqLH"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4pjM3CHJOT9BvnlcnKcqLH",
+                            "id": "4pjM3CHJOT9BvnlcnKcqLH",
+                            "name": "West Side Story \u2013 Cast 2021",
+                            "type": "artist",
+                            "uri": "spotify:artist:4pjM3CHJOT9BvnlcnKcqLH"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+                            "id": "2LmyJyCF5V1eQyvHgJNbTn",
+                            "name": "Leonard Bernstein",
+                            "type": "artist",
+                            "uri": "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4TbtUt49IMXEIMmNdifHb1",
+                            "id": "4TbtUt49IMXEIMmNdifHb1",
+                            "name": "Stephen Sondheim",
+                            "type": "artist",
+                            "uri": "spotify:artist:4TbtUt49IMXEIMmNdifHb1"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/16oKZSg3msLgn69IK1puzi",
+                    "id": "16oKZSg3msLgn69IK1puzi",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ddc11deab41dba5060184334",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ddc11deab41dba5060184334",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ddc11deab41dba5060184334",
+                            "width": 64
+                        }
+                    ],
+                    "name": "West Side Story (Original Motion Picture Soundtrack)",
+                    "release_date": "2021-12-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:16oKZSg3msLgn69IK1puzi"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Np9GsrPO7dlczjvdehBxs",
+                        "id": "1Np9GsrPO7dlczjvdehBxs",
+                        "name": "Ariana DeBose",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Np9GsrPO7dlczjvdehBxs"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6KNv7ixwIMXusuDFW5i6Dh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6KNv7ixwIMXusuDFW5i6Dh",
+                        "id": "6KNv7ixwIMXusuDFW5i6Dh",
+                        "name": "David Alvarez",
+                        "type": "artist",
+                        "uri": "spotify:artist:6KNv7ixwIMXusuDFW5i6Dh"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/69vrWFbPlmkfQjMKojkeqG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/69vrWFbPlmkfQjMKojkeqG",
+                        "id": "69vrWFbPlmkfQjMKojkeqG",
+                        "name": "Ana Isabelle",
+                        "type": "artist",
+                        "uri": "spotify:artist:69vrWFbPlmkfQjMKojkeqG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5qJW0D5Pg9Cd44QU5YG6SV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5qJW0D5Pg9Cd44QU5YG6SV",
+                        "id": "5qJW0D5Pg9Cd44QU5YG6SV",
+                        "name": "Jennifer Florentino",
+                        "type": "artist",
+                        "uri": "spotify:artist:5qJW0D5Pg9Cd44QU5YG6SV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1P1mkwnNyTEm3JHevDmN7m"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1P1mkwnNyTEm3JHevDmN7m",
+                        "id": "1P1mkwnNyTEm3JHevDmN7m",
+                        "name": "Natalie Toro",
+                        "type": "artist",
+                        "uri": "spotify:artist:1P1mkwnNyTEm3JHevDmN7m"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/058mMDr64MAXkiHp57wMV9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/058mMDr64MAXkiHp57wMV9",
+                        "id": "058mMDr64MAXkiHp57wMV9",
+                        "name": "Arianna Rosario",
+                        "type": "artist",
+                        "uri": "spotify:artist:058mMDr64MAXkiHp57wMV9"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5pMwOwYxEJ0a6a0rkJN8I3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5pMwOwYxEJ0a6a0rkJN8I3",
+                        "id": "5pMwOwYxEJ0a6a0rkJN8I3",
+                        "name": "Ilda Mason",
+                        "type": "artist",
+                        "uri": "spotify:artist:5pMwOwYxEJ0a6a0rkJN8I3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2nOrQmKy74weT674T5QAGo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2nOrQmKy74weT674T5QAGo",
+                        "id": "2nOrQmKy74weT674T5QAGo",
+                        "name": "Jeanette Delgado",
+                        "type": "artist",
+                        "uri": "spotify:artist:2nOrQmKy74weT674T5QAGo"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2vpypdDuUUmE2W2nhDaSJP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2vpypdDuUUmE2W2nhDaSJP",
+                        "id": "2vpypdDuUUmE2W2nhDaSJP",
+                        "name": "Annelise Cepero",
+                        "type": "artist",
+                        "uri": "spotify:artist:2vpypdDuUUmE2W2nhDaSJP"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2tckSfVALWLdSXX53k44kL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2tckSfVALWLdSXX53k44kL",
+                        "id": "2tckSfVALWLdSXX53k44kL",
+                        "name": "Tanairi Sade Vazquez",
+                        "type": "artist",
+                        "uri": "spotify:artist:2tckSfVALWLdSXX53k44kL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0DNer7EBpWOFyAGuxmF9GN",
+                        "id": "0DNer7EBpWOFyAGuxmF9GN",
+                        "name": "Jamila Velazquez",
+                        "type": "artist",
+                        "uri": "spotify:artist:0DNer7EBpWOFyAGuxmF9GN"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0h67vkNb2qjAiK3ErXfGIE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0h67vkNb2qjAiK3ErXfGIE",
+                        "id": "0h67vkNb2qjAiK3ErXfGIE",
+                        "name": "Edriz E. Rosa P\u00e9rez",
+                        "type": "artist",
+                        "uri": "spotify:artist:0h67vkNb2qjAiK3ErXfGIE"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0PgY16LsID0tFKPUx8QO2e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0PgY16LsID0tFKPUx8QO2e",
+                        "id": "0PgY16LsID0tFKPUx8QO2e",
+                        "name": "Melody Mart\u00ed",
+                        "type": "artist",
+                        "uri": "spotify:artist:0PgY16LsID0tFKPUx8QO2e"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1f7lYV0A3eTgP2tpoaYh9J"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1f7lYV0A3eTgP2tpoaYh9J",
+                        "id": "1f7lYV0A3eTgP2tpoaYh9J",
+                        "name": "Gaby Diaz",
+                        "type": "artist",
+                        "uri": "spotify:artist:1f7lYV0A3eTgP2tpoaYh9J"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/73J9U36z57pyksXTfPE8a3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/73J9U36z57pyksXTfPE8a3",
+                        "id": "73J9U36z57pyksXTfPE8a3",
+                        "name": "Juliette Feliciano",
+                        "type": "artist",
+                        "uri": "spotify:artist:73J9U36z57pyksXTfPE8a3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5D3uPc1SyZidI1QNAuYyjL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5D3uPc1SyZidI1QNAuYyjL",
+                        "id": "5D3uPc1SyZidI1QNAuYyjL",
+                        "name": "Isabella Ward",
+                        "type": "artist",
+                        "uri": "spotify:artist:5D3uPc1SyZidI1QNAuYyjL"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dkHZoNvQyLMI2n0zQWkeT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dkHZoNvQyLMI2n0zQWkeT",
+                        "id": "3dkHZoNvQyLMI2n0zQWkeT",
+                        "name": "Maria Alexis Rodriguez",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dkHZoNvQyLMI2n0zQWkeT"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3L8seoWYh8UHSRBAHbxCes"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3L8seoWYh8UHSRBAHbxCes",
+                        "id": "3L8seoWYh8UHSRBAHbxCes",
+                        "name": "Yesenia Ayala",
+                        "type": "artist",
+                        "uri": "spotify:artist:3L8seoWYh8UHSRBAHbxCes"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Wz58hooEMatVPyStifnoo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Wz58hooEMatVPyStifnoo",
+                        "id": "5Wz58hooEMatVPyStifnoo",
+                        "name": "Gabriela M. Soto",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Wz58hooEMatVPyStifnoo"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ZhwHSB7deXOFu24gvZMEs"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ZhwHSB7deXOFu24gvZMEs",
+                        "id": "5ZhwHSB7deXOFu24gvZMEs",
+                        "name": "Sebastian Serra",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ZhwHSB7deXOFu24gvZMEs"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1DvcW16vgVTh8P3Cc8MZyc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1DvcW16vgVTh8P3Cc8MZyc",
+                        "id": "1DvcW16vgVTh8P3Cc8MZyc",
+                        "name": "Julius Anthony Rubio",
+                        "type": "artist",
+                        "uri": "spotify:artist:1DvcW16vgVTh8P3Cc8MZyc"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ZGEWeBlsOm9EXBRLPuqBN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ZGEWeBlsOm9EXBRLPuqBN",
+                        "id": "6ZGEWeBlsOm9EXBRLPuqBN",
+                        "name": "Ricardo A. Zayas",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ZGEWeBlsOm9EXBRLPuqBN"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CAIIaK5znNFtAJy98JHvI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CAIIaK5znNFtAJy98JHvI",
+                        "id": "2CAIIaK5znNFtAJy98JHvI",
+                        "name": "Yurel Echezarreta",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CAIIaK5znNFtAJy98JHvI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/02Rg1Nwvv43RjIwxn2E6zo"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/02Rg1Nwvv43RjIwxn2E6zo",
+                        "id": "02Rg1Nwvv43RjIwxn2E6zo",
+                        "name": "Kelvin Delgado",
+                        "type": "artist",
+                        "uri": "spotify:artist:02Rg1Nwvv43RjIwxn2E6zo"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3OfonsIl45b2V9ZsCxqlck"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3OfonsIl45b2V9ZsCxqlck",
+                        "id": "3OfonsIl45b2V9ZsCxqlck",
+                        "name": "Ricky Ubeda",
+                        "type": "artist",
+                        "uri": "spotify:artist:3OfonsIl45b2V9ZsCxqlck"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6BfLN3S9xbEFk8GIkbhD3T"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6BfLN3S9xbEFk8GIkbhD3T",
+                        "id": "6BfLN3S9xbEFk8GIkbhD3T",
+                        "name": "Carlos S\u00e1nchez Fal\u00fa",
+                        "type": "artist",
+                        "uri": "spotify:artist:6BfLN3S9xbEFk8GIkbhD3T"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0oEtk8mLHbuXUaGVcu0dz7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0oEtk8mLHbuXUaGVcu0dz7",
+                        "id": "0oEtk8mLHbuXUaGVcu0dz7",
+                        "name": "Adriel Flete",
+                        "type": "artist",
+                        "uri": "spotify:artist:0oEtk8mLHbuXUaGVcu0dz7"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5wzPBSoFS8SYqSXb87kx05"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5wzPBSoFS8SYqSXb87kx05",
+                        "id": "5wzPBSoFS8SYqSXb87kx05",
+                        "name": "Jacob Guzman",
+                        "type": "artist",
+                        "uri": "spotify:artist:5wzPBSoFS8SYqSXb87kx05"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7qL4Gwv6C2MTiR8wohhqul"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7qL4Gwv6C2MTiR8wohhqul",
+                        "id": "7qL4Gwv6C2MTiR8wohhqul",
+                        "name": "Carlos E. Gonzalez",
+                        "type": "artist",
+                        "uri": "spotify:artist:7qL4Gwv6C2MTiR8wohhqul"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0ixYF7DyAbjCK8dK6ZSNv6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0ixYF7DyAbjCK8dK6ZSNv6",
+                        "id": "0ixYF7DyAbjCK8dK6ZSNv6",
+                        "name": "David Avil\u00e9s Morales",
+                        "type": "artist",
+                        "uri": "spotify:artist:0ixYF7DyAbjCK8dK6ZSNv6"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/68iTowVxIrj46o09cc32f3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/68iTowVxIrj46o09cc32f3",
+                        "id": "68iTowVxIrj46o09cc32f3",
+                        "name": "Andrei Chagas",
+                        "type": "artist",
+                        "uri": "spotify:artist:68iTowVxIrj46o09cc32f3"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5fwVjpwbUNb4HHWZIEw7Cq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5fwVjpwbUNb4HHWZIEw7Cq",
+                        "id": "5fwVjpwbUNb4HHWZIEw7Cq",
+                        "name": "David Guzman",
+                        "type": "artist",
+                        "uri": "spotify:artist:5fwVjpwbUNb4HHWZIEw7Cq"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297666,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7guz8LWGuiHSvp19OUxmbQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7guz8LWGuiHSvp19OUxmbQ",
+                "id": "7guz8LWGuiHSvp19OUxmbQ",
+                "is_local": false,
+                "name": "America",
+                "preview_url": null,
+                "track_number": 11,
+                "type": "track",
+                "uri": "spotify:track:7guz8LWGuiHSvp19OUxmbQ"
+            },
+            "played_at": "2026-08-13T18:01:27.535Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                        "name": "Ed Sheeran",
+                        "type": "artist",
+                        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205604,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3lDSWvR0FXWGXo7mhDUs3v",
+                "id": "3lDSWvR0FXWGXo7mhDUs3v",
+                "is_local": false,
+                "name": "Bam Bam (feat. Ed Sheeran)",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3lDSWvR0FXWGXo7mhDUs3v"
+            },
+            "played_at": "2026-08-13T17:56:29.371Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
         }
     ]
 }
