@@ -467199,6 +467199,1125 @@
             },
             "played_at": "2026-08-17T21:46:04.089Z",
             "context": null
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 153093,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7a2P3pskFZVe4wbvjT6NdX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7a2P3pskFZVe4wbvjT6NdX",
+                "id": "7a2P3pskFZVe4wbvjT6NdX",
+                "is_local": false,
+                "name": "Celia",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:7a2P3pskFZVe4wbvjT6NdX"
+            },
+            "played_at": "2026-08-18T00:15:22.984Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246426,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3znoF3XEVQgg1ej2jV0QXw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3znoF3XEVQgg1ej2jV0QXw",
+                "id": "3znoF3XEVQgg1ej2jV0QXw",
+                "is_local": false,
+                "name": "Poem to a Horse",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:3znoF3XEVQgg1ej2jV0QXw"
+            },
+            "played_at": "2026-08-18T00:12:44.295Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1d6dwipPrsFSJVmFTTdFSS",
+                            "id": "1d6dwipPrsFSJVmFTTdFSS",
+                            "name": "Paulina Rubio",
+                            "type": "artist",
+                            "uri": "spotify:artist:1d6dwipPrsFSJVmFTTdFSS"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0F2H68l0GgokiCljA6w1aT",
+                    "id": "0F2H68l0GgokiCljA6w1aT",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a477b497a3b7d50e9fc5d6bb",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a477b497a3b7d50e9fc5d6bb",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a477b497a3b7d50e9fc5d6bb",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Ananda",
+                    "release_date": "2006-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:0F2H68l0GgokiCljA6w1aT"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1d6dwipPrsFSJVmFTTdFSS",
+                        "id": "1d6dwipPrsFSJVmFTTdFSS",
+                        "name": "Paulina Rubio",
+                        "type": "artist",
+                        "uri": "spotify:artist:1d6dwipPrsFSJVmFTTdFSS"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224786,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4oCqda0opcaXQPjoAhhcfg",
+                "id": "4oCqda0opcaXQPjoAhhcfg",
+                "is_local": false,
+                "name": "Ni Una Sola Palabra",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4oCqda0opcaXQPjoAhhcfg"
+            },
+            "played_at": "2026-08-18T00:07:51.596Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2vD3zSQr8hNlg0obNel4TE",
+                    "id": "2vD3zSQr8hNlg0obNel4TE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273652c9f55dfbf3cfe1800daea",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02652c9f55dfbf3cfe1800daea",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851652c9f55dfbf3cfe1800daea",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Camila",
+                    "release_date": "2018-01-12",
+                    "release_date_precision": "day",
+                    "total_tracks": 11,
+                    "type": "album",
+                    "uri": "spotify:album:2vD3zSQr8hNlg0obNel4TE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 182563,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5xi2SXmF3A5AIsuGXiUIZu"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5xi2SXmF3A5AIsuGXiUIZu",
+                "id": "5xi2SXmF3A5AIsuGXiUIZu",
+                "is_local": false,
+                "name": "Inside Out",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5xi2SXmF3A5AIsuGXiUIZu"
+            },
+            "played_at": "2026-08-18T00:04:06.215Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+                    "id": "4DyMK9x2gnmRkRa16zHaEV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511f400a1f4d821b00824cf58f",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Laundry Service",
+                    "release_date": "2001-11-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 13,
+                    "type": "album",
+                    "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 196160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2lnzGkdtDj5mtlcOW2yRtG",
+                "id": "2lnzGkdtDj5mtlcOW2yRtG",
+                "is_local": false,
+                "name": "Whenever, Wherever",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2lnzGkdtDj5mtlcOW2yRtG"
+            },
+            "played_at": "2026-08-18T00:01:03.342Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+                            "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                            "name": "J Balvin",
+                            "type": "artist",
+                            "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4RSyJzf7ef6Iu2rnLdabNq",
+                            "id": "4RSyJzf7ef6Iu2rnLdabNq",
+                            "name": "Willy William",
+                            "type": "artist",
+                            "uri": "spotify:artist:4RSyJzf7ef6Iu2rnLdabNq"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/55228F4QRlYDzJ4H02tDHA"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/55228F4QRlYDzJ4H02tDHA",
+                    "id": "55228F4QRlYDzJ4H02tDHA",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27354cd60e37178acc40762f230",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0254cd60e37178acc40762f230",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485154cd60e37178acc40762f230",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Mi Gente (feat. Beyonc\u00e9)",
+                    "release_date": "2017-09-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:55228F4QRlYDzJ4H02tDHA"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+                        "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                        "name": "J Balvin",
+                        "type": "artist",
+                        "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4RSyJzf7ef6Iu2rnLdabNq",
+                        "id": "4RSyJzf7ef6Iu2rnLdabNq",
+                        "name": "Willy William",
+                        "type": "artist",
+                        "uri": "spotify:artist:4RSyJzf7ef6Iu2rnLdabNq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+                        "id": "6vWDO969PvNqNYHIOW5v0m",
+                        "name": "Beyonc\u00e9",
+                        "type": "artist",
+                        "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 209733,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0GzmMQizDeA2NVMUaZksv0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0GzmMQizDeA2NVMUaZksv0",
+                "id": "0GzmMQizDeA2NVMUaZksv0",
+                "is_local": false,
+                "name": "Mi Gente (feat. Beyonc\u00e9)",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0GzmMQizDeA2NVMUaZksv0"
+            },
+            "played_at": "2026-08-17T23:57:46.532Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                            "id": "4q3ewBCX7sLwd24euuV69X",
+                            "name": "Bad Bunny",
+                            "type": "artist",
+                            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3RQQmkQEvNCY4prGKE6oc5",
+                    "id": "3RQQmkQEvNCY4prGKE6oc5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Un Verano Sin Ti",
+                    "release_date": "2022-05-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                        "id": "4q3ewBCX7sLwd24euuV69X",
+                        "name": "Bad Bunny",
+                        "type": "artist",
+                        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245939,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6Xom58OOXk2SoU711L2IXO",
+                "id": "6Xom58OOXk2SoU711L2IXO",
+                "is_local": false,
+                "name": "Moscow Mule",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6Xom58OOXk2SoU711L2IXO"
+            },
+            "played_at": "2026-08-17T23:54:16.362Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4wLXwxDeWQ8mtUIRPxGiD6",
+                            "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+                            "name": "Marc Anthony",
+                            "type": "artist",
+                            "uri": "spotify:artist:4wLXwxDeWQ8mtUIRPxGiD6"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6vBpLg3T8bojcqzoKI6m0R",
+                    "id": "6vBpLg3T8bojcqzoKI6m0R",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b74db21e2951b303593b6b7a",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b74db21e2951b303593b6b7a",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b74db21e2951b303593b6b7a",
+                            "width": 64
+                        }
+                    ],
+                    "name": "3.0",
+                    "release_date": "2013-07-23",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:6vBpLg3T8bojcqzoKI6m0R"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4wLXwxDeWQ8mtUIRPxGiD6",
+                        "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+                        "name": "Marc Anthony",
+                        "type": "artist",
+                        "uri": "spotify:artist:4wLXwxDeWQ8mtUIRPxGiD6"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 252359,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3QHMxEOAGD51PDlbFPHLyJ",
+                "id": "3QHMxEOAGD51PDlbFPHLyJ",
+                "is_local": false,
+                "name": "Vivir Mi Vida",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3QHMxEOAGD51PDlbFPHLyJ"
+            },
+            "played_at": "2026-08-17T23:50:10.033Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+                        "id": "1DxLCyH42yaHKGK3cl5bvG",
+                        "name": "Maria Becerra",
+                        "type": "artist",
+                        "uri": "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 188560,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2U0jWXrxJUzWVlLsHttAXJ",
+                "id": "2U0jWXrxJUzWVlLsHttAXJ",
+                "is_local": false,
+                "name": "Hasta Los Dientes",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:2U0jWXrxJUzWVlLsHttAXJ"
+            },
+            "played_at": "2026-08-17T23:45:57.040Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+                            "id": "2jw70GZXlAI8QzWeY2bgRc",
+                            "name": "Nelly Furtado",
+                            "type": "artist",
+                            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0Z9unTBF7JAlURJAMtrqyV",
+                    "id": "0Z9unTBF7JAlURJAMtrqyV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273076a7e55ad16b610ad3a4972",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02076a7e55ad16b610ad3a4972",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851076a7e55ad16b610ad3a4972",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Mi Plan",
+                    "release_date": "2009-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0Z9unTBF7JAlURJAMtrqyV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+                        "id": "2jw70GZXlAI8QzWeY2bgRc",
+                        "name": "Nelly Furtado",
+                        "type": "artist",
+                        "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gZRUp2WL6r11PXTv309P1",
+                        "id": "7gZRUp2WL6r11PXTv309P1",
+                        "name": "Alex Cuba",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gZRUp2WL6r11PXTv309P1"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245066,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1xTDBQGcYdLDujARItCq9f"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1xTDBQGcYdLDujARItCq9f",
+                "id": "1xTDBQGcYdLDujARItCq9f",
+                "is_local": false,
+                "name": "Mi Plan",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:1xTDBQGcYdLDujARItCq9f"
+            },
+            "played_at": "2026-08-17T23:42:47.935Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                            "id": "0EmeFodog0BfCgMzAIvKQp",
+                            "name": "Shakira",
+                            "type": "artist",
+                            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3MhG5IXiezatEXyNsXPLPm",
+                    "id": "3MhG5IXiezatEXyNsXPLPm",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fca4cb3216d3db3e533b07b3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fca4cb3216d3db3e533b07b3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fca4cb3216d3db3e533b07b3",
+                            "width": 64
+                        }
+                    ],
+                    "name": "She Wolf (Expanded Edition)",
+                    "release_date": "2009-10-09",
+                    "release_date_precision": "day",
+                    "total_tracks": 18,
+                    "type": "album",
+                    "uri": "spotify:album:3MhG5IXiezatEXyNsXPLPm"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                        "id": "0EmeFodog0BfCgMzAIvKQp",
+                        "name": "Shakira",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208040,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1yOSNynWvSDbMDBPacijZj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1yOSNynWvSDbMDBPacijZj",
+                "id": "1yOSNynWvSDbMDBPacijZj",
+                "is_local": false,
+                "name": "Gypsy - Live From T4 Studios",
+                "preview_url": null,
+                "track_number": 17,
+                "type": "track",
+                "uri": "spotify:track:1yOSNynWvSDbMDBPacijZj"
+            },
+            "played_at": "2026-08-17T23:38:42.395Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                            "name": "Camila Cabello",
+                            "type": "artist",
+                            "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5Nn3fX7CuJo7tbibtqASmf",
+                    "id": "5Nn3fX7CuJo7tbibtqASmf",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a86df1e6e023bf05eee6097c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a86df1e6e023bf05eee6097c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a86df1e6e023bf05eee6097c",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Familia",
+                    "release_date": "2022-04-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:5Nn3fX7CuJo7tbibtqASmf"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF",
+                        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+                        "name": "Camila Cabello",
+                        "type": "artist",
+                        "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                        "name": "Ed Sheeran",
+                        "type": "artist",
+                        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205604,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3lDSWvR0FXWGXo7mhDUs3v",
+                "id": "3lDSWvR0FXWGXo7mhDUs3v",
+                "is_local": false,
+                "name": "Bam Bam (feat. Ed Sheeran)",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3lDSWvR0FXWGXo7mhDUs3v"
+            },
+            "played_at": "2026-08-17T23:35:13.843Z",
+            "context": {
+                "type": "playlist",
+                "href": "https://api.spotify.com/v1/playlists/3JK3EG5mM9jGgMuqNQd0OE",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3JK3EG5mM9jGgMuqNQd0OE"
+                },
+                "uri": "spotify:playlist:3JK3EG5mM9jGgMuqNQd0OE"
+            }
+        },
+        {
+            "track": {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3dZ1fTizrmY5jfkf0jrvav",
+                            "id": "3dZ1fTizrmY5jfkf0jrvav",
+                            "name": "Syd Taylor",
+                            "type": "artist",
+                            "uri": "spotify:artist:3dZ1fTizrmY5jfkf0jrvav"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0g2kBVbW6p8vYxuHDxFzMC"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0g2kBVbW6p8vYxuHDxFzMC",
+                    "id": "0g2kBVbW6p8vYxuHDxFzMC",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27337856f929101968e7a67cdf0",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0237856f929101968e7a67cdf0",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485137856f929101968e7a67cdf0",
+                            "width": 64
+                        }
+                    ],
+                    "name": "After the Fact",
+                    "release_date": "2025-06-25",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:0g2kBVbW6p8vYxuHDxFzMC"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3dZ1fTizrmY5jfkf0jrvav",
+                        "id": "3dZ1fTizrmY5jfkf0jrvav",
+                        "name": "Syd Taylor",
+                        "type": "artist",
+                        "uri": "spotify:artist:3dZ1fTizrmY5jfkf0jrvav"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208398,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6FN478OlRuqwWvBwSHgLhi"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6FN478OlRuqwWvBwSHgLhi",
+                "id": "6FN478OlRuqwWvBwSHgLhi",
+                "is_local": false,
+                "name": "After the Fact",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6FN478OlRuqwWvBwSHgLhi"
+            },
+            "played_at": "2026-08-17T22:26:58.538Z",
+            "context": null
         }
     ]
 }
